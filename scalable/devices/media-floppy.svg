@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46+devel"
+   sodipodi:docname="media-floppy.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="/home/hbons/Desktop/Intel/svn/moblin-ui-docs/in progress/draft visual UI/icons/icons.png"
+   inkscape:export-xdpi="60.476192"
+   inkscape:export-ydpi="60.476192"
+   version="1.0">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#dcdcdc"
+     borderopacity="1"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="60.145577"
+     inkscape:cy="18.284354"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="750"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:snap-intersection-line-segments="false"
+     inkscape:snap-bbox="true"
+     inkscape:snap-nodes="false"
+     inkscape:bbox-paths="true"
+     inkscape:showpageshadow="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-global="false">
+    <inkscape:grid
+       enabled="true"
+       visible="true"
+       id="grid4079"
+       type="xygrid"
+       empspacing="5" />
+    <sodipodi:guide
+       id="guide7317"
+       position="566.05335,854.14667"
+       orientation="1,0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     style="display:inline"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <g
+       id="g7891"
+       transform="translate(-2.4044145,0.02201605)">
+      <g
+         transform="matrix(1.1369331,0,0,1.1369331,56.635121,22.608486)"
+         id="g5599" />
+      <rect
+         transform="matrix(0,-1,1,0,0,0)"
+         ry="1.6855"
+         rx="1.6855"
+         y="7.1871305"
+         x="-43.466972"
+         height="3.3710001"
+         width="38.965435"
+         id="rect5922"
+         style="fill:#000000;fill-opacity:1;stroke:none" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none"
+         id="rect6291"
+         width="38.1035"
+         height="3.3710001"
+         x="-45.320183"
+         y="-43.498463"
+         rx="1.6855"
+         ry="1.6855"
+         transform="scale(-1,-1)" />
+      <path
+         sodipodi:nodetypes="ccccccccccccccccc"
+         id="rect6304"
+         d="m 13.9375,21.375 0,-1.6875 0,-13.4375 0,-1.6875 1.6875,0 20.15625,0 1.6875,1.6875 0,13.4375 0,1.6875 -1.6875,0 -20.15625,0 -1.6875,0 z m 3.375,-3.375 16.78125,0 0,-10.0625 -16.78125,0 0,10.0625 z"
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.37099981;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans" />
+      <rect
+         transform="matrix(0,-1,1,0,0,0)"
+         ry="0"
+         rx="0"
+         y="27.323919"
+         x="-16.303028"
+         height="3.3710001"
+         width="6.7171044"
+         id="rect6308"
+         style="fill:#000000;fill-opacity:1;stroke:none" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
+         id="rect5928"
+         width="32.905724"
+         height="3.3710001"
+         x="10.548707"
+         y="42.206459"
+         rx="1.6855"
+         ry="1.6855"
+         transform="matrix(0,1,1,0,0,0)" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
+         id="rect5932"
+         width="11.248524"
+         height="3.3710001"
+         x="-41.17189"
+         y="-24.332109"
+         rx="1.6854999"
+         ry="1.6855"
+         transform="matrix(-0.70710678,-0.70710678,-0.70710678,0.70710678,0,0)" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
+         id="rect6291-1"
+         width="32.459766"
+         height="3.3710001"
+         x="-39.71933"
+         y="4.4575052"
+         rx="1.6854999"
+         ry="1.6855"
+         transform="scale(-1,1)" />
+    </g>
+  </g>
+</svg>
