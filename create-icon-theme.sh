@@ -9,9 +9,13 @@ fi
 THEME_NAME="$1"
 THEME_COMMENT="$THEME_NAME Icon Theme"
 
-cd "$1"
-
 echo "Creating icon theme in '$1'"
+
+echo "Copying build files.."
+
+cp build/* "$1"
+
+cd "$1"
 
 echo "Creating index.theme"
 
@@ -33,25 +37,34 @@ done
 
 echo "Creating Makefiles"
 
-subdirs="actions apps devices status places mimetypes stock"
+SIZES=$(find * -maxdepth 0 -type d -not -name 'scalable' -printf '%f ')
 
-SIZES=$(find * -maxdepth 0 -type d -printf '%f ')
-
+MAKEFILES='Makefile\n'
 for dir in $SIZES
 do
   subdirs=$(find $dir/* -maxdepth 0 -type d -printf '%f ')
   echo "SUBDIRS=$subdirs" > $dir/Makefile.am
-
+  MAKEFILES="$MAKEFILES\n$dir/Makefile"
               for context in $subdirs
               do
+
+                      MAKEFILES="$MAKEFILES\n$dir/$context/Makefile"
                       files=`echo $dir/$context/*.png|sed "s/$dir\/$context\///g"`
-                      echo "themedir = \$(datadir)/icons/Sato/$dir/$context" > $dir/$context/Makefile.am
+                      echo "themedir = \$(datadir)/icons/$THEME_NAME/$dir/$context" > $dir/$context/Makefile.am
                       echo "theme_DATA = $files" >> $dir/$context/Makefile.am
                       echo "EXTRA_DIST = \$(theme_DATA)" >> $dir/$context/Makefile.am
                       echo "install-data-local: install-themeDATA"  >> $dir/$context/Makefile.am
-                      echo "	(cd \$(DESTDIR)\$(themedir) && \$(ICONMAP) -c $context )" >> $dir/$context/Makefile.am
+                      echo "	(cd \"\$(DESTDIR)\$(themedir)\" && \$(ICONMAP) -c $context )" >> $dir/$context/Makefile.am
                       echo "MAINTAINERCLEANFILES = Makefile.in" >> $dir/$context/Makefile.am
               done
 done
+
+echo "Updating configure.ac"
+M=`echo "$MAKEFILES" | sed 's/\//\\\\\//g'`
+sed -i -e "s/MAKEFILES/$M/" configure.ac
+
+echo "Updating Makefile.am"
+sed -i -e "s/REAL_SUB_DIRS/$SIZES/" Makefile.am
+sed -i -e "s/THEME_NAME/$THEME_NAME/" Makefile.am
 
 echo "Done"
