@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46+devel r20711"
+   sodipodi:docname="dialog-warning.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="/home/hbons/Desktop/Intel/svn/moblin-ui-docs/in progress/draft visual UI/icons/icons.png"
+   inkscape:export-xdpi="60.476192"
+   inkscape:export-ydpi="60.476192"
+   version="1.0">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#dcdcdc"
+     borderopacity="1"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.313708"
+     inkscape:cx="29.16811"
+     inkscape:cy="23.110465"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1278"
+     inkscape:window-height="750"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:snap-intersection-line-segments="false"
+     inkscape:snap-bbox="true"
+     inkscape:snap-nodes="false"
+     inkscape:bbox-paths="true"
+     inkscape:showpageshadow="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-global="false">
+    <inkscape:grid
+       enabled="true"
+       visible="true"
+       id="grid4079"
+       type="xygrid"
+       empspacing="5" />
+    <sodipodi:guide
+       id="guide7317"
+       position="566.05335,854.14667"
+       orientation="1,0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 24 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="48 : 24 : 1"
+       inkscape:persp3d-origin="24 : 16 : 1"
+       id="perspective17" />
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     style="display:inline"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       d="M 23.78125 6.15625 C 23.241941 6.1939502 22.729302 6.4945838 22.4375 7 L 3.8125 39.28125 C 3.3456165 40.089916 3.597584 41.126866 4.40625 41.59375 C 4.5073332 41.65211 4.6123673 41.68317 4.71875 41.71875 C 4.819643 41.76128 4.9525804 41.79012 5.0625 41.8125 C 5.1724196 41.83488 5.2582791 41.84375 5.375 41.84375 L 42.53125 41.84375 C 42.669388 41.84375 42.809175 41.843559 42.9375 41.8125 C 43.154784 41.78528 43.391584 41.710471 43.59375 41.59375 C 44.402416 41.126866 44.654383 40.089916 44.1875 39.28125 L 25.5625 7 C 25.247354 6.4541505 24.679859 6.1518052 24.09375 6.15625 C 24.02857 6.14808 23.971373 6.1567439 23.90625 6.15625 C 23.86284 6.1559208 23.82439 6.15323 23.78125 6.15625 z M 24 19.59375 C 24.93364 19.59375 25.6875 20.34755 25.6875 21.28125 L 25.6875 28.25 C 25.68751 29.18365 24.93367 29.9375 24 29.9375 C 23.06632 29.9375 22.31249 29.18365 22.3125 28.25 L 22.3125 21.28125 C 22.31247 20.34755 23.06629 19.59375 24 19.59375 z M 24 31.71875 C 24.93364 31.71875 25.6875 32.47256 25.6875 33.40625 C 25.68751 34.3399 24.93367 35.09375 24 35.09375 C 23.06632 35.09375 22.31249 34.3399 22.3125 33.40625 C 22.31247 32.47256 23.06629 31.71875 24 31.71875 z "
+       id="rect5922" />
+    <g
+       id="g5599"
+       transform="matrix(1.1369331,0,0,1.1369331,58.337043,23.416741)" />
+  </g>
+</svg>

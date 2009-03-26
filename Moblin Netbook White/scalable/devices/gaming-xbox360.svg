@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46+devel r20711"
+   sodipodi:docname="gaming-xbox360.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="/home/hbons/Desktop/Intel/svn/moblin-ui-docs/in progress/draft visual UI/icons/icons.png"
+   inkscape:export-xdpi="60.476192"
+   inkscape:export-ydpi="60.476192"
+   version="1.0">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#dcdcdc"
+     borderopacity="1"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="32.283647"
+     inkscape:cy="16.007785"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1278"
+     inkscape:window-height="750"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:snap-intersection-line-segments="false"
+     inkscape:snap-bbox="true"
+     inkscape:snap-nodes="false"
+     inkscape:bbox-paths="true"
+     inkscape:showpageshadow="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-global="false">
+    <inkscape:grid
+       enabled="true"
+       visible="true"
+       id="grid4079"
+       type="xygrid"
+       empspacing="5" />
+    <sodipodi:guide
+       id="guide7317"
+       position="566.05335,854.14667"
+       orientation="1,0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 24 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="48 : 24 : 1"
+       inkscape:persp3d-origin="24 : 16 : 1"
+       id="perspective14" />
+    <inkscape:perspective
+       id="perspective20"
+       inkscape:persp3d-origin="24 : 16 : 1"
+       inkscape:vp_z="48 : 24 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 24 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     style="display:inline"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <path
+       sodipodi:nodetypes="cccsccc"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+       d="m 38.84536,46.249537 c 0,-0.93365 -0.75165,-1.685329 -1.68531,-1.68532 l -23.371843,0.05556 c -0.93367,1e-5 -1.68531,0.75168 -1.68532,1.68533 0,0.9337 0.75165,1.68534 1.68532,1.68533 l 23.371843,-0.05556 c 0.93366,0 1.68531,-0.75164 1.68531,-1.68534 z"
+       id="path5608" />
+    <path
+       transform="matrix(-6.4757499,0,0,-6.4706707,-300.53402,1185.0898)"
+       d="m -48.530809,182.88304 a 22.98097,22.98097 0 0 1 -8.23e-4,-6.88294"
+       sodipodi:ry="22.98097"
+       sodipodi:rx="22.98097"
+       sodipodi:cy="179.43886"
+       sodipodi:cx="-25.809397"
+       id="path5610"
+       style="fill:none;stroke:#ffffff;stroke-width:0.52070981;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+       sodipodi:type="arc"
+       sodipodi:start="2.9911547"
+       sodipodi:end="3.2917916"
+       sodipodi:open="true" />
+    <path
+       id="path6412"
+       d="m 38.765975,1.6967148 c 0,-0.93365003 -0.75165,-1.68533003 -1.68531,-1.68532003 l -22.898846,-10e-6 c -0.93367,10e-6 -1.68531,0.75168 -1.68532,1.68533003 0,0.9337 0.75165,1.68534 1.68532,1.68533 l 22.898846,1e-5 c 0.93366,0 1.68531,-0.75164 1.68531,-1.68534 z"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+       sodipodi:nodetypes="cccsccc" />
+    <path
+       sodipodi:open="true"
+       sodipodi:end="3.2917916"
+       sodipodi:start="2.9911547"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#ffffff;stroke-width:0.52070981;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+       id="path5543"
+       sodipodi:cx="-25.809397"
+       sodipodi:cy="179.43886"
+       sodipodi:rx="22.98097"
+       sodipodi:ry="22.98097"
+       d="m -48.530809,182.88304 a 22.98097,22.98097 0 0 1 -8.23e-4,-6.88294"
+       transform="matrix(6.4757499,0,0,-6.4706707,351.36352,1185.0898)" />
+    <path
+       id="path7348-1"
+       d="m 25.516458,37.483644 c -0.93368,0 -1.68532,-0.75168 -1.68531,-1.68533 l 2e-5,-0.008 c -3e-5,-0.93369 0.75161,-1.68533 1.68532,-1.68533 0.93364,0 1.685319,0.75164 1.685319,1.68533 l -10e-6,0.008 c 10e-6,0.93365 -0.751669,1.68533 -1.685339,1.68533 z"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+       sodipodi:nodetypes="cccsccc" />
+  </g>
+</svg>
