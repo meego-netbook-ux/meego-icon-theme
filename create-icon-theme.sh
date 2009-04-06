@@ -6,7 +6,7 @@ then
   exit 1
 fi
 
-THEME_NAME="$1"
+THEME_NAME=`echo "$1" | sed -e 's,/$,,'`
 THEME_COMMENT="$THEME_NAME Icon Theme"
 
 echo "Creating icon theme in '$1'"
