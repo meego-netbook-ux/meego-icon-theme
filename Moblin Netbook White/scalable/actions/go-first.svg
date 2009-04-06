@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -12,7 +13,7 @@
    height="48"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.46+devel"
+   inkscape:version="0.46+devel r20974"
    sodipodi:docname="go-first.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    inkscape:export-filename="/home/hbons/Desktop/Intel/svn/moblin-ui-docs/in progress/draft visual UI/icons/icons.png"
@@ -29,13 +30,13 @@
      objecttolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8"
-     inkscape:cx="31.52282"
-     inkscape:cy="16.298808"
+     inkscape:zoom="11.313708"
+     inkscape:cx="31.129505"
+     inkscape:cy="27.096069"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
-     inkscape:window-width="1280"
+     showgrid="true"
+     inkscape:window-width="1278"
      inkscape:window-height="750"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -47,7 +48,7 @@
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:bbox-nodes="true"
-     inkscape:snap-global="false">
+     inkscape:snap-global="true">
     <inkscape:grid
        enabled="true"
        visible="true"
@@ -68,6 +69,34 @@
        inkscape:vp_z="48 : 24 : 1"
        inkscape:persp3d-origin="24 : 16 : 1"
        id="perspective13" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective2773" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective2871" />
+    <inkscape:perspective
+       id="perspective15"
+       inkscape:persp3d-origin="24 : 16 : 1"
+       inkscape:vp_z="48 : 24 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 24 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2798"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <metadata
      id="metadata7">
@@ -77,7 +106,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -87,28 +116,28 @@
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
     <g
-       id="g6294"
-       transform="translate(0.3977805,-2.5e-7)">
+       id="g2770"
+       transform="matrix(0,1,-1,0,47.0011,-0.00894047)">
       <path
-         style="fill:#ffffff;fill-opacity:1;stroke:none"
-         d="m 26.84902,13.213329 c 0.6602,0.66019 0.66021,1.72321 0,2.38343 l -9.59113,9.59113 c -0.6602,0.6602 -1.72323,0.66018 -2.38341,0 -0.66024,-0.66024 -0.66022,-1.72322 0,-2.38342 l 9.59113,-9.59114 c 0.66019,-0.6602 1.72318,-0.66022 2.38341,0 z"
-         id="path7193"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+         d="m 23.499209,11.006328 c -0.831,0 -1.5,0.669 -1.5,1.5 l 0,20.001579 c 0,0.831 0.669,1.5 1.5,1.5 0.831,0 1.5,-0.669 1.5,-1.5 l 0,-20.001579 c 0,-0.831 -0.669,-1.5 -1.5,-1.5 z"
+         id="rect2789-4"
          sodipodi:nodetypes="cccsccc" />
       <path
-         id="path7201"
-         d="m 26.84902,34.786679 c -0.6602,0.66019 -1.72321,0.66021 -2.38341,0 l -9.59113,-9.59113 c -0.66022,-0.6602 -0.6602,-1.72322 0,-2.38341 0.66022,-0.66022 1.72321,-0.66021 2.38341,0 l 9.59113,9.59113 c 0.66021,0.66019 0.66021,1.72319 0,2.38341 z"
-         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+         d="m 13.12236,22.129479 c -0.587605,0.587606 -0.587605,1.533715 0,2.12132 l 9.314826,9.314825 c 0.587605,0.587606 1.533714,0.587606 2.12132,0 0.587606,-0.587605 0.587606,-1.533714 0,-2.12132 l -9.314825,-9.314825 c -0.587606,-0.587606 -1.533715,-0.587606 -2.121321,0 z"
+         id="rect2819"
+         sodipodi:nodetypes="cccsccc" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+         d="m 33.87606,22.129479 c 0.587606,0.587606 0.587606,1.533715 0,2.12132 l -9.314825,9.314826 c -0.587606,0.587605 -1.533714,0.587605 -2.12132,0 -0.587606,-0.587606 -0.587606,-1.533715 0,-2.121321 l 9.314825,-9.314825 c 0.587606,-0.587606 1.533715,-0.587606 2.12132,0 z"
+         id="rect2821"
          sodipodi:nodetypes="cccsccc" />
       <path
          sodipodi:nodetypes="cccsccc"
-         id="path5522"
-         d="m 36.087291,24.002303 c 8e-6,0.933657 -0.751654,1.685333 -1.685339,1.68534 l -18.337304,0 c -0.933664,0 -1.685326,-0.75169 -1.685326,-1.685325 0,-0.933721 0.751655,-1.685347 1.685333,-1.685333 l 18.337311,-7e-6 c 0.933657,-7e-6 1.685318,0.751626 1.685325,1.685325 z"
-         style="fill:#ffffff;fill-opacity:1;stroke:none" />
-      <path
-         sodipodi:nodetypes="cccsccc"
-         id="path5520"
-         d="m 12.802473,12.718172 c 0.933657,-7e-6 1.685333,0.751654 1.68534,1.685339 l 0,19.207995 c 0,0.933664 -0.75169,1.685326 -1.685325,1.685326 -0.933721,0 -1.685347,-0.751655 -1.685333,-1.685333 l -7e-6,-19.208002 c -7e-6,-0.933657 0.751626,-1.685318 1.685325,-1.685325 z"
-         style="fill:#ffffff;fill-opacity:1;stroke:none" />
+         id="path2768"
+         d="m 33.999999,34.5 c 0,-0.831 -0.669,-1.5 -1.499999,-1.5 l -18.00158,10e-7 c -0.831,0 -1.5,0.669 -1.5,1.5 0,0.831 0.669,1.5 1.5,1.5 L 32.499999,36 c 0.831,0 1.5,-0.669 1.5,-1.5 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
     </g>
   </g>
 </svg>
