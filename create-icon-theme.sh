@@ -9,13 +9,26 @@ fi
 THEME_NAME=`echo "$1" | sed -e 's,/$,,'`
 THEME_COMMENT="$THEME_NAME Icon Theme"
 
-echo "Creating icon theme in '$1'"
+OUTPUT=$(echo "output/$1" | sed 's/ //')
+OUTPUT=`pwd`/$OUTPUT
+
+rm -rf "$OUTPUT"
+
+mkdir -p "$OUTPUT"
+
+CWD=`pwd`
+cd "$1"
+cp -r * $OUTPUT
+cd $CWD
+
+
+echo "Creating icon theme in '$OUTPUT'"
 
 echo "Copying build files.."
 
-cp build/* "$1"
+cp build/* "$OUTPUT"
 
-cd "$1"
+cd "$OUTPUT"
 
 echo "Creating index.theme"
 
