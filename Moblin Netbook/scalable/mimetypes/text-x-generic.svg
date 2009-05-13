@@ -13,7 +13,7 @@
    height="48"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.46+devel r20974"
+   inkscape:version="0.46+devel r21202"
    sodipodi:docname="text-x-generic.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    inkscape:export-filename="/home/hbons/Desktop/Intel/svn/moblin-ui-docs/in progress/draft visual UI/icons/icons.png"
@@ -30,13 +30,13 @@
      objecttolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6568542"
-     inkscape:cx="32.663778"
-     inkscape:cy="30.658933"
+     inkscape:zoom="1"
+     inkscape:cx="190.78172"
+     inkscape:cy="55.152114"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1278"
+     inkscape:window-width="1280"
      inkscape:window-height="750"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -179,57 +179,53 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
-    <g
-       id="g2779"
-       transform="translate(-2.5924902,-1.5105124)">
-      <rect
-         ry="1.5"
-         rx="1.5"
-         y="4.5021076"
-         x="10.567625"
-         height="41.881168"
-         width="3"
-         id="rect2763-9"
-         style="fill:#000000;fill-opacity:1;stroke:none;display:inline" />
-      <rect
-         style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-         id="rect3598"
-         width="3"
-         height="31.883724"
-         x="39.617355"
-         y="14.568535"
-         rx="1.5"
-         ry="1.5" />
-      <rect
-         transform="matrix(0,1,-1,0,0,0)"
-         style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-         id="rect3600"
-         width="3"
-         height="31.96504"
-         x="43.518917"
-         y="-42.559124"
-         rx="1.5"
-         ry="1.5" />
-      <rect
-         ry="1.5000001"
-         rx="1.5"
-         y="-32.608837"
-         x="4.5032253"
-         height="22.014755"
-         width="3"
-         id="rect3602"
-         style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-         transform="matrix(0,1,-1,0,0,0)" />
-      <rect
-         transform="matrix(-0.70710678,0.70710678,-0.70710678,-0.70710678,0,0)"
-         style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-         id="rect3634"
-         width="3"
-         height="17.021345"
-         x="-19.217928"
-         y="-41.741985"
-         rx="1.5"
-         ry="1.5" />
-    </g>
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
+       id="rect2763-9"
+       width="3"
+       height="41.881168"
+       x="7.0266256"
+       y="2.9915953"
+       rx="1.5"
+       ry="1.5" />
+    <rect
+       ry="1.5"
+       rx="1.5"
+       y="13.058022"
+       x="37.024864"
+       height="31.883724"
+       width="3"
+       id="rect3598"
+       style="fill:#000000;fill-opacity:1;stroke:none;display:inline" />
+    <rect
+       ry="1.5"
+       rx="1.5"
+       y="-39.966633"
+       x="42.008404"
+       height="32.940651"
+       width="3"
+       id="rect3600"
+       style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
+       id="rect3602"
+       width="3"
+       height="23.022886"
+       x="2.992713"
+       y="-30.016346"
+       rx="1.5"
+       ry="1.5000001" />
+    <rect
+       ry="1.5"
+       rx="1.5"
+       y="-38.840725"
+       x="-18.452854"
+       height="17.021345"
+       width="3"
+       id="rect3634"
+       style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
+       transform="matrix(-0.70710678,0.70710678,-0.70710678,-0.70710678,0,0)" />
   </g>
 </svg>

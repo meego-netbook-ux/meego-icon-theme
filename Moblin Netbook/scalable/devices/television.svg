@@ -13,7 +13,7 @@
    height="48"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.46+devel r20974"
+   inkscape:version="0.46+devel r21202"
    sodipodi:docname="television.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    inkscape:export-filename="/home/hbons/Desktop/Intel/icons.png"
@@ -68,20 +68,21 @@
      objecttolerance="10"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6568542"
-     inkscape:cx="22.209069"
-     inkscape:cy="38.437189"
+     inkscape:zoom="1"
+     inkscape:cx="25.762727"
+     inkscape:cy="42.973274"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
-     inkscape:window-width="1278"
+     showgrid="true"
+     inkscape:window-width="1280"
      inkscape:window-height="750"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:snap-intersection-line-segments="false"
      inkscape:snap-bbox="false"
      inkscape:snap-nodes="true"
-     inkscape:bbox-paths="true">
+     inkscape:bbox-paths="true"
+     inkscape:snap-global="false">
     <inkscape:grid
        type="xygrid"
        id="grid4079"
@@ -188,27 +189,19 @@
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline" />
     <g
        id="g2806"
-       transform="translate(-0.48553858,-0.50362212)">
-      <rect
+       transform="translate(-0.48553858,-0.62538565)">
+      <path
+         transform="matrix(-0.70710678,-0.70710678,0.70710678,-0.70710678,0,0)"
          style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
+         d="m -42.912128,3.536051 c 0.831,0 1.5,0.669 1.5,1.5 l 0.023,12.617043 c 0,0 -1.5,1.5 -1.5,1.5 0,0 -1.5,-1.5 -1.5,-1.5 l -0.023,-12.617043 c 0,-0.831 0.669,-1.5 1.5,-1.5 z"
          id="rect2796"
-         width="3"
-         height="15.000001"
-         x="-44.412128"
-         y="3.536051"
-         rx="1.5"
-         ry="1.5"
-         transform="matrix(-0.70710678,-0.70710678,0.70710678,-0.70710678,0,0)" />
-      <rect
+         sodipodi:nodetypes="cccsccc" />
+      <path
          transform="matrix(-0.70710678,0.70710678,-0.70710678,-0.70710678,0,0)"
-         ry="1.5"
-         rx="1.5"
-         y="-44.412132"
-         x="-6.5360513"
-         height="15.000003"
-         width="3"
+         style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
+         d="m -5.0360513,-44.412132 c 0.831,0 1.5,0.669 1.5,1.5 l 0.013414,12.641956 c 0,0 -1.5,1.5 -1.5,1.5 0,0 -1.5,-1.5 -1.5,-1.5 l -0.013414,-12.641956 c 0,-0.831 0.669,-1.5 1.5,-1.5 z"
          id="rect2798"
-         style="fill:#000000;fill-opacity:1;stroke:none;display:inline" />
+         sodipodi:nodetypes="cccsccc" />
     </g>
   </g>
 </svg>

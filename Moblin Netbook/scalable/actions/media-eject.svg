@@ -13,7 +13,7 @@
    height="48"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.46+devel r20974"
+   inkscape:version="0.46+devel r21202"
    sodipodi:docname="media-eject.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    inkscape:export-filename="/home/hbons/Desktop/Intel/svn/moblin-ui-docs/in progress/draft visual UI/icons/icons.png"
@@ -31,12 +31,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="26.800523"
-     inkscape:cy="33.179697"
+     inkscape:cx="22.260748"
+     inkscape:cy="17.062201"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1278"
+     inkscape:window-width="1280"
      inkscape:window-height="750"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -253,7 +253,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -275,9 +275,9 @@
     <rect
        ry="1.4999999"
        rx="1.5"
-       y="-37.949718"
+       y="-36.252865"
        x="-37.035339"
-       height="8.9829645"
+       height="7.2861104"
        width="3"
        id="rect2827"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
@@ -285,10 +285,10 @@
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
        id="rect2829"
-       width="3"
+       width="2.3224933"
        height="28.03196"
-       x="34.95948"
-       y="-37.033352"
+       x="33.943851"
+       y="-37.037186"
        rx="1.5"
        ry="1.5"
        transform="matrix(0,1,-1,0,0,0)" />
@@ -297,9 +297,9 @@
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
        id="rect2853"
        width="3"
-       height="8.9829645"
+       height="7.2653604"
        x="-12.014485"
-       y="-37.949718"
+       y="-36.232113"
        rx="1.5"
        ry="1.4999999" />
     <rect

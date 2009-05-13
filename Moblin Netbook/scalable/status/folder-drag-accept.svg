@@ -14,7 +14,7 @@
    id="svg2"
    sodipodi:version="0.32"
    inkscape:version="0.46+devel r21202"
-   sodipodi:docname="folder-open.svg"
+   sodipodi:docname="folder-drag-accept.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    inkscape:export-filename="/home/hbons/Desktop/Intel/icons.png"
    inkscape:export-xdpi="90"
@@ -110,9 +110,9 @@
      objecttolerance="10"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6568542"
-     inkscape:cx="58.928294"
-     inkscape:cy="25.763424"
+     inkscape:zoom="1"
+     inkscape:cx="21.492855"
+     inkscape:cy="28.482915"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -139,7 +139,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -149,20 +149,11 @@
      id="layer1"
      transform="translate(-9.3897648,-13.175828)">
     <rect
-       style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="rect2763"
-       width="3"
-       height="7.9999967"
-       x="50.389767"
-       y="24.175833"
-       rx="1.5"
-       ry="1.4999999" />
-    <rect
        ry="1.5"
        rx="1.5"
        y="26.389763"
        x="-27.142935"
-       height="27"
+       height="24.000002"
        width="3"
        id="rect2828"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
