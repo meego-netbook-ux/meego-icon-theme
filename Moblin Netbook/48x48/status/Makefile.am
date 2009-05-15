@@ -1,6 +1,0 @@
-themedir = $(datadir)/icons/Moblin Netbook/48x48/status
-theme_DATA = 3g.png audio-volume-high.png audio-volume-low.png audio-volume-medium.png audio-volume-muted.png battery-caution.png battery-empty.png battery-full.png battery-low.png battery-medium.png bookmark-active.png bookmark-inactive.png dialog-error.png dialog-information.png dialog-warning.png folder-drag-accept.png folder-open.png folder-visiting.png image-loading.png image-missing.png license-cc-by.png license-cc-nc.png license-cc.png license-cc-sa.png mail-attachment.png network-error.png network-idle.png network-offline.png network-receive.png network-transmit.png network-transmit-receive.png network-wireless-signal-good.png network-wireless-signal-strong.png network-wireless-signal-weak.png page-certificate-fail.png page-encrypted.png printer-error.png privacy.png private.png software-update-available.png software-update-urgent.png user-trash-full.png weather-clear-night.png weather-clear.png weather-few-clouds-night.png weather-few-clouds.png weather-overcast.png weather-severe-alert.png weather-showers.png weather-showers-scattered.png weather-snow.png weather-storm.png
-EXTRA_DIST = $(theme_DATA)
-install-data-local: install-themeDATA
-	(cd "$(DESTDIR)$(themedir)" && $(ICONMAP) -c status )
-MAINTAINERCLEANFILES = Makefile.in
