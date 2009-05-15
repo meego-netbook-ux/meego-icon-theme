@@ -1,0 +1,6 @@
+themedir = $(datadir)/icons/Moblin Netbook/16x16/emblems
+theme_DATA = emblem-favorite.png emblem-important.png emblem-photos.png emblem-readonly.png emblem-symbolic-link.png emblem-system.png emblem-unreadable.png
+EXTRA_DIST = $(theme_DATA)
+install-data-local: install-themeDATA
+	(cd "$(DESTDIR)$(themedir)" && $(ICONMAP) -c emblems )
+MAINTAINERCLEANFILES = Makefile.in

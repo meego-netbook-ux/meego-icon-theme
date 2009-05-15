@@ -29,26 +29,4 @@ for category in `ls scalable/`; do
   echo " Done."
 done
 
-# ---------------------
-# Scale 48x48 bitmaps to 32x32 and 24x24
-# ---------------------
-
-echo ""
-echo "Scaling down icons:"
-echo ""
-
-for category in `ls scalable/`; do
-  mkdir -p 24x24/$category/
-  mkdir -p 32x32/$category/
-  cd 48x48/$category
-  echo -n "in folder \"$category\""
-  for png in *.png; do
-    convert -antialias -resize 32x32 -filter Welsh $png ../../32x32/$category/$png
-    convert -antialias -resize 24x24 -filter Welsh $png ../../24x24/$category/$png
-    echo -n "."
-  done
-  cd ../../
-  echo " Done."
-done
-echo ""
 
