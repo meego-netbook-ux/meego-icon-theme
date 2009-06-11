@@ -8,6 +8,8 @@ SRC = "."
 
 def renderit(file)
 
+    File.makedirs("moblin") unless File.exists?("moblin")
+
 	# Open SVG file.
 	svg = Document.new(File.new("#{SRC}/#{file}", 'r'))
 
@@ -16,7 +18,7 @@ def renderit(file)
 
 		type_name = type.attributes.get_attribute("inkscape:label").value  
 
-		puts type_name
+		puts "Going through layer '" + type_name + "'"
 
 		svg.root.each_element("/svg/g[@inkscape:label='#{type_name}']/g") do |icon|
 
@@ -24,7 +26,7 @@ def renderit(file)
 
 			if (icon_node) 
 				icon_name = icon_node.value
-				puts "    " + icon_name
+				puts "  Found icon '" + icon_name + "'"
 				svg.root.each_element("/svg/g[@inkscape:label='#{type_name}']/g[@inkscape:label='#{icon_name}']/rect']") do |rect|
 					rect_node = rect.attributes.get_attribute("id")
 
@@ -34,24 +36,24 @@ def renderit(file)
 						rect_height = rect.attributes.get_attribute("height").value
 
 						if (rect_width == '48' and rect_height == '48')
-							puts "        " + rect_name + "(" + rect_width + ", " + rect_height + ")"
-                            dir = "48x48/#{type_name}/"
+                            dir = "moblin/48x48/#{type_name}/"
+							puts "    Exporting #{dir}/#{icon_name}.png"
                             File.makedirs(dir) unless File.exists?(dir)
                             cmd = "#{INKSCAPE} -i #{rect_name} -e #{dir}/#{icon_name}.png #{SRC}/#{file} > /dev/null 2>&1"
                             system(cmd)
 						end
 						
 						if (rect_width == '24' and rect_height == '24')
-							puts "        " + rect_name + "(" + rect_width + ", " + rect_height + ")"
-                            dir = "24x24/#{type_name}/"
+                            dir = "moblin/24x24/#{type_name}/"
+							puts "    Exporting #{dir}/#{icon_name}.png"
                             File.makedirs(dir) unless File.exists?(dir)
                             cmd = "#{INKSCAPE} -i #{rect_name} -e #{dir}/#{icon_name}.png #{SRC}/#{file} > /dev/null 2>&1"
                             system(cmd)
 						end
 						
 						if (rect_width == '16' and rect_height == '16')
-							puts "        " + rect_name + "(" + rect_width + ", " + rect_height + ")"
-                            dir = "16x16/#{type_name}/"
+                            dir = "moblin/16x16/#{type_name}/"
+							puts "    Exporting #{dir}/#{icon_name}.png"
                             File.makedirs(dir) unless File.exists?(dir)
                             cmd = "#{INKSCAPE} -i #{rect_name} -e #{dir}/#{icon_name}.png #{SRC}/#{file} > /dev/null 2>&1"
                             system(cmd)
@@ -64,10 +66,10 @@ def renderit(file)
 
 			end
 
-		end # End of layer loop.    
+		end
 
 
-	end # End of layer loop.  
+	end
     
 
 end # End of function.

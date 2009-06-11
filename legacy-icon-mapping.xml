@@ -1233,5 +1233,15 @@
 	<icon name="weather-storm">
 	    <link>stock_weather-storm</link>
 	</icon>
+	<icon name="software-update-available">
+	    <link>pk-update-bugfix</link>
+	    <link>pk-update-normal</link>
+	    <link>pk-update-enhancement</link>
+	    <link>pk-update-low</link>
+	</icon>
+	<icon name="software-update-urgent">
+	    <link>pk-update-security</link>
+	    <link>pk-update-high</link>
+	</icon>
     </context>
 </mapping>
