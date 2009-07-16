@@ -30,12 +30,12 @@
      objecttolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313708"
-     inkscape:cx="205.99114"
-     inkscape:cy="514.29594"
+     inkscape:zoom="2"
+     inkscape:cx="696.16423"
+     inkscape:cy="-122.39908"
      inkscape:document-units="px"
-     inkscape:current-layer="user-trash-full"
-     showgrid="true"
+     inkscape:current-layer="layer13"
+     showgrid="false"
      inkscape:window-width="1280"
      inkscape:window-height="750"
      inkscape:window-x="0"
@@ -67,6 +67,90 @@
   </sodipodi:namedview>
   <defs
      id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3720">
+      <stop
+         style="stop-color:#a0da00;stop-opacity:1;"
+         offset="0"
+         id="stop3722" />
+      <stop
+         style="stop-color:#7dbe0c;stop-opacity:1"
+         offset="1"
+         id="stop3724" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3720"
+       id="linearGradient3726"
+       x1="6.3072019"
+       y1="7.3193688"
+       x2="12.615178"
+       y2="11.0293"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3744">
+      <stop
+         style="stop-color:#febf00;stop-opacity:1;"
+         offset="0"
+         id="stop3746" />
+      <stop
+         style="stop-color:#e87208;stop-opacity:1"
+         offset="1"
+         id="stop3748" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3744"
+       id="linearGradient3750"
+       x1="6.3445182"
+       y1="7.5"
+       x2="12.832041"
+       y2="7.5"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3736">
+      <stop
+         style="stop-color:#ed2124;stop-opacity:1;"
+         offset="0"
+         id="stop3738" />
+      <stop
+         style="stop-color:#b00c08;stop-opacity:1"
+         offset="1"
+         id="stop3740" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3736"
+       id="linearGradient3742"
+       x1="5.9661584"
+       y1="8.1914892"
+       x2="11.17007"
+       y2="2.9894934"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3728">
+      <stop
+         style="stop-color:#e6e5df;stop-opacity:1"
+         offset="0"
+         id="stop3730" />
+      <stop
+         style="stop-color:#dedede;stop-opacity:1"
+         offset="1"
+         id="stop3732" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3728"
+       id="linearGradient3734"
+       x1="6.4798803"
+       y1="8.8323565"
+       x2="12.249739"
+       y2="3.0646222"
+       gradientUnits="userSpaceOnUse" />
     <linearGradient
        id="linearGradient10367"
        inkscape:collect="always">
@@ -1421,6 +1505,15 @@
        r="21.396402"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(2.1469063,1.7430923e-8,-1.1155821e-8,2.1469063,-424.76086,-843.70711)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3744"
+       id="linearGradient12863"
+       gradientUnits="userSpaceOnUse"
+       x1="6.3445182"
+       y1="7.5"
+       x2="12.832041"
+       y2="7.5" />
   </defs>
   <metadata
      id="metadata7">
@@ -7012,6 +7105,161 @@
          width="16"
          id="rect10401"
          style="opacity:0;fill:#5ed0f2;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer13"
+       inkscape:label="empathy-offline"
+       style="display:inline">
+      <rect
+         y="920.09003"
+         x="583"
+         height="16"
+         width="16"
+         id="rect12849"
+         style="opacity:0;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline" />
+      <path
+         sodipodi:type="arc"
+         style="fill:url(#linearGradient3734);fill-opacity:1;stroke:#d6dbde;stroke-width:0.6922031;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+         id="path3630"
+         sodipodi:cx="6.5"
+         sodipodi:cy="7.5"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="M 11,7.5 A 4.5,4.5 0 1 1 2,7.5 A 4.5,4.5 0 1 1 11,7.5 z"
+         transform="matrix(1.0213427,1.0213427,1.0217188,-1.0217188,576.74598,929.11035)"
+         inkscape:export-filename="/home/hbons/Desktop/empathy-offline.png"
+         inkscape:export-xdpi="90.108963"
+         inkscape:export-ydpi="90.108963" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+         d="M 587.80765,929.89361 L 592.97929,924.79011 C 593.37103,924.39837 594.00176,924.39837 594.3935,924.79011 C 594.78524,925.18184 594.78524,925.81258 594.3935,926.20432 L 589.22186,931.30783 C 588.83013,931.69957 588.19939,931.69957 587.80765,931.30783 C 587.41591,930.91609 587.41591,930.28535 587.80765,929.89361 z"
+         id="rect3660"
+         sodipodi:nodetypes="ccsccsc" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+         d="M 592.91194,931.264 L 587.82821,926.24789 C 587.43647,925.85615 587.43647,925.22541 587.82821,924.83368 C 588.21995,924.44194 588.85069,924.44194 589.24242,924.83368 L 594.32616,929.84978 C 594.71789,930.24152 594.71789,930.87226 594.32616,931.264 C 593.93442,931.65573 593.30368,931.65573 592.91194,931.264 z"
+         id="rect3662"
+         sodipodi:nodetypes="ccsccsc" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer11"
+       inkscape:label="empathy-extended-away"
+       style="display:inline">
+      <rect
+         y="920.09003"
+         x="547"
+         height="16"
+         width="16"
+         id="rect12865"
+         style="opacity:0;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer10"
+       inkscape:label="empathy-away"
+       style="display:inline">
+      <rect
+         y="920.09003"
+         x="547"
+         height="16"
+         width="16"
+         id="rect12845"
+         style="opacity:0;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline" />
+      <path
+         sodipodi:type="arc"
+         style="fill:url(#linearGradient12863);fill-opacity:1;stroke:#e87207;stroke-width:0.69230771;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.99914766;display:inline"
+         id="path3626"
+         sodipodi:cx="6.5"
+         sodipodi:cy="7.5"
+         sodipodi:rx="4.5"
+         sodipodi:ry="4.5"
+         d="M 11,7.5 A 4.5,4.5 0 1 1 2,7.5 A 4.5,4.5 0 1 1 11,7.5 z"
+         transform="matrix(0,1.4444444,1.4444444,0,544.25461,918.7008)"
+         inkscape:export-filename="/home/hbons/Desktop/empathy-away.png"
+         inkscape:export-xdpi="90.108963"
+         inkscape:export-ydpi="90.108963" />
+      <g
+         style="display:inline"
+         id="g3716"
+         transform="translate(524.06451,894.08624)">
+        <path
+           transform="matrix(0.7071068,-0.7071068,0.7071068,0.7071068,0,0)"
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
+           d="M -2.1182098,44.926476 L 0.71102053,44.926476 C 1.2659997,44.926476 1.7127881,45.373264 1.7127881,45.928243 C 1.7127881,46.483222 1.2659997,46.930011 0.71102053,46.930011 L -2.1182098,46.930011 C -2.6731891,46.930011 -3.1199775,46.483222 -3.1199775,45.928243 C -3.1199775,45.373264 -2.6731891,44.926476 -2.1182098,44.926476 z"
+           id="rect3654"
+           sodipodi:nodetypes="ccsccsc" />
+        <path
+           transform="matrix(-0.7071068,-0.7071068,0.7071068,-0.7071068,0,0)"
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
+           d="M -45.781332,-3.1114192 L -42.29016,-3.1445648 C -41.73518,-3.1445648 -41.288392,-2.6977764 -41.288392,-2.1427972 C -41.288392,-1.5878179 -41.73518,-1.1410295 -42.29016,-1.1410295 L -45.781332,-1.1078839 C -46.336312,-1.1078839 -46.7831,-1.5546723 -46.7831,-2.1096516 C -46.7831,-2.6646308 -46.336312,-3.1114192 -45.781332,-3.1114192 z"
+           id="rect3658"
+           sodipodi:nodetypes="ccsccsc" />
+      </g>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer12"
+       inkscape:label="empathy-busy"
+       style="display:inline">
+      <rect
+         style="opacity:0;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+         id="rect12847"
+         width="16"
+         height="16"
+         x="565"
+         y="920.09003" />
+      <path
+         inkscape:export-ydpi="90.108963"
+         inkscape:export-xdpi="90.108963"
+         inkscape:export-filename="/home/hbons/Desktop/empathy-busy.png"
+         transform="matrix(1.0213427,1.0213427,1.0217188,-1.0217188,558.7368,929.11419)"
+         d="M 11,7.5 A 4.5,4.5 0 1 1 2,7.5 A 4.5,4.5 0 1 1 11,7.5 z"
+         sodipodi:ry="4.5"
+         sodipodi:rx="4.5"
+         sodipodi:cy="7.5"
+         sodipodi:cx="6.5"
+         id="path3628"
+         style="fill:url(#linearGradient3742);fill-opacity:1;stroke:#b00c08;stroke-width:0.6922031;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+         sodipodi:type="arc" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+         id="rect3664-5"
+         width="8.1726704"
+         height="2"
+         x="569.03949"
+         y="927.03107"
+         rx="0.99999994"
+         ry="1"
+         inkscape:export-xdpi="90.108963"
+         inkscape:export-ydpi="90.108963" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer9"
+       inkscape:label="empathy-available"
+       style="display:inline">
+      <rect
+         style="opacity:0;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+         id="rect12843"
+         width="16"
+         height="16"
+         x="529"
+         y="920.09003" />
+      <path
+         inkscape:export-ydpi="90.108963"
+         inkscape:export-xdpi="90.108963"
+         inkscape:export-filename="/home/hbons/Desktop/empathy-available.png"
+         transform="matrix(0.7219866,1.2507482,-1.250978,0.7223857,541.68942,914.53952)"
+         d="M 11,7.5 A 4.5,4.5 0 1 1 2,7.5 A 4.5,4.5 0 1 1 11,7.5 z"
+         sodipodi:ry="4.5"
+         sodipodi:rx="4.5"
+         sodipodi:cy="7.5"
+         sodipodi:cx="6.5"
+         id="path12832"
+         style="fill:url(#linearGradient3726);fill-opacity:1;stroke:#7dbe0c;stroke-width:0.69234228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+         sodipodi:type="arc" />
     </g>
     <rect
        transform="scale(-1,1)"
