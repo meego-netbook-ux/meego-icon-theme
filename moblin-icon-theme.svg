@@ -31,10 +31,10 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="-246.73956"
-     inkscape:cy="-53.12025"
+     inkscape:cx="595.22905"
+     inkscape:cy="-113.53933"
      inkscape:document-units="px"
-     inkscape:current-layer="edit-clear"
+     inkscape:current-layer="system-shutdown"
      showgrid="false"
      inkscape:window-width="1280"
      inkscape:window-height="750"
@@ -33045,6 +33045,36 @@
          rx="1.5"
          ry="1.5"
          transform="scale(-1,-1)" />
+      <rect
+         y="881.09003"
+         x="-525"
+         height="24"
+         width="24"
+         id="rect9485"
+         style="display:inline;opacity:0;fill:#ffffff;fill-opacity:1;stroke:none"
+         transform="scale(-1,1)" />
+      <path
+         sodipodi:type="arc"
+         style="display:inline;opacity:1;fill:none;stroke:#bebebe;stroke-width:2.39207767999999987;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path9487"
+         sodipodi:cx="10.196985"
+         sodipodi:cy="12.357385"
+         sodipodi:rx="8.3902435"
+         sodipodi:ry="8.3902435"
+         d="M 5.0143304,18.955587 A 8.3902435,8.3902435 0 1 1 15.432637,18.913614"
+         transform="matrix(-0.8368825,1.363036e-8,-1.3656101e-8,-0.8353051,521.55462,903.49931)"
+         sodipodi:start="2.2366112"
+         sodipodi:end="7.1801092"
+         sodipodi:open="true" />
+      <rect
+         style="display:inline;fill:#bebebe;fill-opacity:1;stroke:none"
+         id="rect10270"
+         width="2"
+         height="8"
+         x="512"
+         y="884.09003"
+         rx="1"
+         ry="0.99999988" />
     </g>
     <g
        inkscape:groupmode="layer"
