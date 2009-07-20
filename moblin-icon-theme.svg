@@ -30,12 +30,12 @@
      objecttolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="541.39606"
-     inkscape:cy="-277.74622"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="619.96536"
+     inkscape:cy="-185.13352"
      inkscape:document-units="px"
-     inkscape:current-layer="layer7"
-     showgrid="false"
+     inkscape:current-layer="layer18"
+     showgrid="true"
      inkscape:window-width="1280"
      inkscape:window-height="750"
      inkscape:window-x="0"
@@ -1533,6 +1533,13 @@
        x2="-25.805815"
        y2="156.8689"
        gradientUnits="userSpaceOnUse" />
+    <inkscape:perspective
+       id="perspective10939"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <metadata
      id="metadata7">
@@ -7134,6 +7141,219 @@
     </g>
     <g
        inkscape:groupmode="layer"
+       id="layer16"
+       inkscape:label="user-typing">
+      <rect
+         style="display:inline;opacity:0;fill:#eaeaea;fill-opacity:1;stroke:none"
+         id="rect3639"
+         width="16"
+         height="16"
+         x="600.98816"
+         y="920.09003"
+         inkscape:export-filename="/home/hbons/Desktop/user-typing.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         style="display:inline;fill:#bebebe;fill-opacity:1;stroke:none"
+         id="rect3025"
+         width="4.0000005"
+         height="3.999999"
+         x="601"
+         y="921.08722"
+         rx="1"
+         ry="1" />
+      <rect
+         ry="1"
+         rx="1"
+         y="921.08722"
+         x="606"
+         height="3.999999"
+         width="4.0000005"
+         id="rect3814"
+         style="display:inline;fill:#bebebe;fill-opacity:1;stroke:none" />
+      <rect
+         style="display:inline;fill:#bebebe;fill-opacity:1;stroke:none"
+         id="rect3816"
+         width="4.0000005"
+         height="3.999999"
+         x="611"
+         y="921.08722"
+         rx="1"
+         ry="1" />
+      <rect
+         ry="1"
+         rx="1"
+         y="926.08722"
+         x="603"
+         height="3.999999"
+         width="4.0000005"
+         id="rect3818"
+         style="display:inline;fill:#bebebe;fill-opacity:1;stroke:none" />
+      <rect
+         style="display:inline;fill:#bebebe;fill-opacity:1;stroke:none"
+         id="rect3820"
+         width="4.0000005"
+         height="3.999999"
+         x="608"
+         y="926.08722"
+         rx="1"
+         ry="1" />
+      <rect
+         ry="1"
+         rx="1"
+         y="926.08722"
+         x="613"
+         height="3.999999"
+         width="4.0000005"
+         id="rect3822"
+         style="display:inline;fill:#bebebe;fill-opacity:1;stroke:none" />
+      <rect
+         style="display:inline;fill:#bebebe;fill-opacity:1;stroke:none"
+         id="rect3824"
+         width="4.0000005"
+         height="3.999999"
+         x="601"
+         y="931.08722"
+         rx="1"
+         ry="1" />
+      <path
+         style="display:inline;fill:#bebebe;fill-opacity:1;stroke:none"
+         d="M 607,931.08722 L 617,931.08722 C 617,931.08722 617,935.08722 617,935.08722 L 607,935.08722 C 606.446,935.08722 606,934.64122 606,934.08722 L 606,932.08722 C 606,931.53322 606.446,931.08722 607,931.08722 z"
+         id="rect3826"
+         sodipodi:nodetypes="ccccccc" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer17"
+       inkscape:label="im-message"
+       style="display:inline">
+      <rect
+         style="opacity:0;fill:#ef2929;fill-opacity:1;stroke:none;display:inline"
+         id="rect3655"
+         width="16"
+         height="16"
+         x="619.04755"
+         y="920.1106"
+         inkscape:export-filename="/home/hbons/Desktop/im-message.png"
+         inkscape:export-xdpi="90.108963"
+         inkscape:export-ydpi="90.108963" />
+      <rect
+         style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline"
+         id="rect13298"
+         width="2"
+         height="10.675588"
+         x="619.0061"
+         y="924.41858"
+         rx="1"
+         ry="1"
+         inkscape:export-filename="/home/hbons/Desktop/im-message.png"
+         inkscape:export-xdpi="90.108963"
+         inkscape:export-ydpi="90.108963" />
+      <path
+         sodipodi:type="arc"
+         style="fill:none;stroke:#bebebe;stroke-width:1.13699198;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+         id="path3659"
+         sodipodi:cx="38.846081"
+         sodipodi:cy="60.701035"
+         sodipodi:rx="2.5582318"
+         sodipodi:ry="2.5582318"
+         d="M 36.287849,60.701034 A 2.5582318,2.5582318 0 0 1 38.846081,58.142803"
+         transform="matrix(1.7590274,0,0,1.7590274,556.20187,818.8179)"
+         sodipodi:start="3.1415927"
+         sodipodi:end="4.712389"
+         sodipodi:open="true"
+         inkscape:export-filename="/home/hbons/Desktop/im-message.png"
+         inkscape:export-xdpi="90.108963"
+         inkscape:export-ydpi="90.108963" />
+      <rect
+         ry="1"
+         rx="1"
+         y="-630.33759"
+         x="933.10345"
+         height="11.33756"
+         width="2"
+         id="rect13301"
+         style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline"
+         transform="matrix(0,1,-1,0,0,0)"
+         inkscape:export-filename="/home/hbons/Desktop/im-message.png"
+         inkscape:export-xdpi="90.108963"
+         inkscape:export-ydpi="90.108963" />
+      <rect
+         ry="0.99999994"
+         rx="1"
+         y="924.83826"
+         x="633.02942"
+         height="6.224072"
+         width="2"
+         id="rect3669"
+         style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline"
+         inkscape:export-filename="/home/hbons/Desktop/im-message.png"
+         inkscape:export-xdpi="90.108963"
+         inkscape:export-ydpi="90.108963" />
+      <rect
+         style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline"
+         id="rect3671"
+         width="2"
+         height="7.2071223"
+         x="-922.09003"
+         y="623.46686"
+         rx="1"
+         ry="0.99999988"
+         transform="matrix(0,-1,1,0,0,0)"
+         inkscape:export-filename="/home/hbons/Desktop/im-message.png"
+         inkscape:export-xdpi="90.108963"
+         inkscape:export-ydpi="90.108963" />
+      <path
+         sodipodi:open="true"
+         sodipodi:end="4.712389"
+         sodipodi:start="3.1415927"
+         transform="matrix(-1.7590274,0,0,1.7590274,697.86542,818.8179)"
+         d="M 36.287849,60.701034 A 2.5582318,2.5582318 0 0 1 38.846081,58.142803"
+         sodipodi:ry="2.5582318"
+         sodipodi:rx="2.5582318"
+         sodipodi:cy="60.701035"
+         sodipodi:cx="38.846081"
+         id="path3673"
+         style="fill:none;stroke:#bebebe;stroke-width:1.13699198;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+         sodipodi:type="arc"
+         inkscape:export-filename="/home/hbons/Desktop/im-message.png"
+         inkscape:export-xdpi="90.108963"
+         inkscape:export-ydpi="90.108963" />
+      <path
+         sodipodi:type="arc"
+         style="fill:none;stroke:#bebebe;stroke-width:1.13699198;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+         id="path3675"
+         sodipodi:cx="38.846081"
+         sodipodi:cy="60.701035"
+         sodipodi:rx="2.5582318"
+         sodipodi:ry="2.5582318"
+         d="M 36.287849,60.701034 A 2.5582318,2.5582318 0 0 1 38.846081,58.142803"
+         transform="matrix(-1.7590274,0,0,-1.7590274,697.86734,1036.3662)"
+         sodipodi:start="3.1415927"
+         sodipodi:end="4.712389"
+         sodipodi:open="true"
+         inkscape:export-filename="/home/hbons/Desktop/im-message.png"
+         inkscape:export-xdpi="90.108963"
+         inkscape:export-ydpi="90.108963" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer18"
+       inkscape:label="im-message-new"
+       style="display:inline">
+      <rect
+         style="opacity:0;fill:#ef2929;fill-opacity:1;stroke:none;display:inline"
+         id="rect13344"
+         width="16"
+         height="16"
+         x="619.04755"
+         y="920.1106"
+         inkscape:export-filename="/home/hbons/Desktop/im-message.png"
+         inkscape:export-xdpi="90.108963"
+         inkscape:export-ydpi="90.108963" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
        id="layer11"
        inkscape:label="empathy-extended-away"
        style="display:inline">
@@ -8013,7 +8233,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        id="g7492"
-       transform="matrix(1,0,0,0.9995424,-322.00012,263.34916)">
+       transform="matrix(1,0,0,0.9995424,-325.00008,263.34916)">
       <rect
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
@@ -31801,6 +32021,186 @@
            d="M 445.94759,351.38849 L 452.55492,358.22961 L 446.08173,364.56099 L 445.94759,351.38849 z"
            style="fill:#a0da00;fill-opacity:1;stroke:none" />
       </g>
+      <rect
+         y="198.09003"
+         x="894"
+         height="48"
+         width="48"
+         id="rect9510"
+         style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+         transform="scale(-1,1)"
+         inkscape:export-filename="/home/hbons/Moblin/hornsey-theater/hrn-controls-play.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <g
+         transform="translate(-1042.2007,-811.03037)"
+         id="g9512"
+         style="fill:#8f8f8f;fill-opacity:1;display:inline"
+         inkscape:export-filename="/home/hbons/Moblin/hornsey-theater/hrn-controls-play.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <g
+           inkscape:label="Layer 1"
+           id="g9514"
+           style="fill:#8f8f8f;fill-opacity:1;display:inline"
+           transform="translate(99.206958,1009.0747)">
+          <g
+             transform="translate(-2.299534e-2,1.533023e-2)"
+             id="g9516"
+             style="fill:#8f8f8f;fill-opacity:1">
+            <g
+               id="g9518"
+               transform="translate(0.4290252,-0.6875145)"
+               style="fill:#8f8f8f;fill-opacity:1">
+              <rect
+                 style="fill:#8f8f8f;fill-opacity:1;stroke:none;display:inline"
+                 id="rect9520"
+                 width="3"
+                 height="27.997467"
+                 x="-18.587751"
+                 y="-38.707932"
+                 rx="1.5"
+                 ry="1.5"
+                 transform="scale(-1,-1)" />
+              <path
+                 sodipodi:nodetypes="cccsccc"
+                 id="path9522"
+                 d="M 30.745569,25.731878 C 30.157963,26.319484 29.211854,26.319484 28.624248,25.731878 L 16.094308,13.219176 C 15.506702,12.63157 15.506702,11.685462 16.094308,11.097856 C 16.681914,10.51025 17.628023,10.51025 18.215628,11.097856 L 30.745569,23.610558 C 31.333174,24.198164 31.333174,25.144273 30.745569,25.731878 L 30.745569,25.731878 z"
+                 style="fill:#8f8f8f;fill-opacity:1;stroke:none;display:inline" />
+              <path
+                 sodipodi:nodetypes="cccsccc"
+                 id="path9524"
+                 d="M 30.745568,23.625909 C 30.157963,23.038303 29.211854,23.038303 28.624248,23.625909 L 16.094304,36.155853 C 15.506698,36.743459 15.506698,37.689568 16.094304,38.277173 C 16.68191,38.864779 17.628018,38.864779 18.215624,38.277173 L 30.745568,25.747229 C 31.333174,25.159624 31.333174,24.213515 30.745568,23.625909 L 30.745568,23.625909 z"
+                 style="fill:#8f8f8f;fill-opacity:1;stroke:none;display:inline" />
+              <path
+                 sodipodi:nodetypes="cccc"
+                 id="path9526"
+                 d="M 28.956671,25.078091 L 16.841958,36.096693 L 17.485827,13.737554 L 28.956671,25.078091 z"
+                 style="fill:#8f8f8f;fill-opacity:1;stroke:none;display:inline" />
+            </g>
+          </g>
+        </g>
+      </g>
+      <rect
+         transform="scale(-1,1)"
+         style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+         id="rect10764"
+         width="48"
+         height="48"
+         x="894"
+         y="248.09003"
+         inkscape:export-filename="/home/hbons/Moblin/hornsey-theater/hrn-controls-play-hover.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <g
+         style="fill:#a0da00;fill-opacity:1;display:inline"
+         id="g10766"
+         transform="translate(-1042.2007,-761.03037)"
+         inkscape:export-filename="/home/hbons/Moblin/hornsey-theater/hrn-controls-play-hover.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <g
+           transform="translate(99.206958,1009.0747)"
+           style="fill:#a0da00;fill-opacity:1;display:inline"
+           id="g10768"
+           inkscape:label="Layer 1">
+          <g
+             style="fill:#a0da00;fill-opacity:1"
+             id="g10770"
+             transform="translate(-2.299534e-2,1.533023e-2)">
+            <g
+               style="fill:#a0da00;fill-opacity:1"
+               transform="translate(0.4290252,-0.6875145)"
+               id="g10772">
+              <rect
+                 transform="scale(-1,-1)"
+                 ry="1.5"
+                 rx="1.5"
+                 y="-38.707932"
+                 x="-18.587751"
+                 height="27.997467"
+                 width="3"
+                 id="rect10774"
+                 style="fill:#a0da00;fill-opacity:1;stroke:none;display:inline" />
+              <path
+                 style="fill:#a0da00;fill-opacity:1;stroke:none;display:inline"
+                 d="M 30.745569,25.731878 C 30.157963,26.319484 29.211854,26.319484 28.624248,25.731878 L 16.094308,13.219176 C 15.506702,12.63157 15.506702,11.685462 16.094308,11.097856 C 16.681914,10.51025 17.628023,10.51025 18.215628,11.097856 L 30.745569,23.610558 C 31.333174,24.198164 31.333174,25.144273 30.745569,25.731878 L 30.745569,25.731878 z"
+                 id="path10776"
+                 sodipodi:nodetypes="cccsccc" />
+              <path
+                 style="fill:#a0da00;fill-opacity:1;stroke:none;display:inline"
+                 d="M 30.745568,23.625909 C 30.157963,23.038303 29.211854,23.038303 28.624248,23.625909 L 16.094304,36.155853 C 15.506698,36.743459 15.506698,37.689568 16.094304,38.277173 C 16.68191,38.864779 17.628018,38.864779 18.215624,38.277173 L 30.745568,25.747229 C 31.333174,25.159624 31.333174,24.213515 30.745568,23.625909 L 30.745568,23.625909 z"
+                 id="path10778"
+                 sodipodi:nodetypes="cccsccc" />
+              <path
+                 style="fill:#a0da00;fill-opacity:1;stroke:none;display:inline"
+                 d="M 28.956671,25.078091 L 16.841958,36.096693 L 17.485827,13.737554 L 28.956671,25.078091 z"
+                 id="path10780"
+                 sodipodi:nodetypes="cccc" />
+            </g>
+          </g>
+        </g>
+      </g>
+      <rect
+         y="298.09003"
+         x="894"
+         height="48"
+         width="48"
+         id="rect10848"
+         style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+         transform="scale(-1,1)"
+         inkscape:export-filename="/home/hbons/Moblin/hornsey-theater/hrn-controls-play-active.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <g
+         transform="translate(-1042.2007,-711.03037)"
+         id="g10850"
+         style="fill:#7dbe0c;fill-opacity:1;display:inline"
+         inkscape:export-filename="/home/hbons/Moblin/hornsey-theater/hrn-controls-play-active.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <g
+           inkscape:label="Layer 1"
+           id="g10852"
+           style="fill:#7dbe0c;fill-opacity:1;display:inline"
+           transform="translate(99.206958,1009.0747)">
+          <g
+             transform="translate(-2.299534e-2,1.533023e-2)"
+             id="g10854"
+             style="fill:#7dbe0c;fill-opacity:1">
+            <g
+               id="g10856"
+               transform="translate(0.4290252,-0.6875145)"
+               style="fill:#7dbe0c;fill-opacity:1">
+              <rect
+                 style="fill:#7dbe0c;fill-opacity:1;stroke:none;display:inline"
+                 id="rect10858"
+                 width="3"
+                 height="27.997467"
+                 x="-18.587751"
+                 y="-38.707932"
+                 rx="1.5"
+                 ry="1.5"
+                 transform="scale(-1,-1)" />
+              <path
+                 sodipodi:nodetypes="cccsccc"
+                 id="path10860"
+                 d="M 30.745569,25.731878 C 30.157963,26.319484 29.211854,26.319484 28.624248,25.731878 L 16.094308,13.219176 C 15.506702,12.63157 15.506702,11.685462 16.094308,11.097856 C 16.681914,10.51025 17.628023,10.51025 18.215628,11.097856 L 30.745569,23.610558 C 31.333174,24.198164 31.333174,25.144273 30.745569,25.731878 L 30.745569,25.731878 z"
+                 style="fill:#7dbe0c;fill-opacity:1;stroke:none;display:inline" />
+              <path
+                 sodipodi:nodetypes="cccsccc"
+                 id="path10862"
+                 d="M 30.745568,23.625909 C 30.157963,23.038303 29.211854,23.038303 28.624248,23.625909 L 16.094304,36.155853 C 15.506698,36.743459 15.506698,37.689568 16.094304,38.277173 C 16.68191,38.864779 17.628018,38.864779 18.215624,38.277173 L 30.745568,25.747229 C 31.333174,25.159624 31.333174,24.213515 30.745568,23.625909 L 30.745568,23.625909 z"
+                 style="fill:#7dbe0c;fill-opacity:1;stroke:none;display:inline" />
+              <path
+                 sodipodi:nodetypes="cccc"
+                 id="path10864"
+                 d="M 28.956671,25.078091 L 16.841958,36.096693 L 17.485827,13.737554 L 28.956671,25.078091 z"
+                 style="fill:#7dbe0c;fill-opacity:1;stroke:none;display:inline" />
+            </g>
+          </g>
+        </g>
+      </g>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -32893,6 +33293,291 @@
            rx="2.7113822"
            ry="2.7113822"
            transform="scale(-1,-1)" />
+      </g>
+      <rect
+         style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+         id="rect9528"
+         width="48"
+         height="48"
+         x="-892"
+         y="198.09003"
+         inkscape:export-filename="/home/hbons/Moblin/hornsey-theater/hrn-controls-ffw.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <g
+         style="fill:#8f8f8f;fill-opacity:1;display:inline"
+         id="g9530"
+         transform="translate(-1156,-812.00006)"
+         inkscape:export-filename="/home/hbons/Moblin/hornsey-theater/hrn-controls-ffw.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <rect
+           ry="1.5"
+           rx="1.5"
+           y="1025.0901"
+           x="271"
+           height="18"
+           width="3"
+           id="rect9533"
+           style="fill:#8f8f8f;fill-opacity:1;stroke:none" />
+        <rect
+           transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+           style="fill:#8f8f8f;fill-opacity:1;stroke:none"
+           id="rect9535"
+           width="3"
+           height="18"
+           x="-754.30353"
+           y="747.7887"
+           rx="1.5"
+           ry="1.5" />
+        <rect
+           ry="1.5"
+           rx="1.5"
+           y="-286.30136"
+           x="1036.7927"
+           height="18"
+           width="3"
+           id="rect9537"
+           style="fill:#8f8f8f;fill-opacity:1;stroke:none"
+           transform="matrix(0.5,0.8660254,0.8660254,-0.5,0,0)" />
+        <rect
+           style="fill:#8f8f8f;fill-opacity:1;stroke:none"
+           id="rect9539"
+           width="3"
+           height="18"
+           x="286.00061"
+           y="1025.0901"
+           rx="1.5"
+           ry="1.5" />
+        <rect
+           ry="1.5"
+           rx="1.5"
+           y="760.77954"
+           x="-746.80322"
+           height="18"
+           width="3"
+           id="rect9541"
+           style="fill:#8f8f8f;fill-opacity:1;stroke:none"
+           transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)" />
+        <rect
+           transform="matrix(0.5,0.8660254,0.8660254,-0.5,0,0)"
+           style="fill:#8f8f8f;fill-opacity:1;stroke:none"
+           id="rect9543"
+           width="3"
+           height="18"
+           x="1044.2931"
+           y="-273.31046"
+           rx="1.5"
+           ry="1.5" />
+        <rect
+           ry="1.0036838"
+           rx="1.0036838"
+           y="1025.0901"
+           x="301"
+           height="18"
+           width="4"
+           id="rect9545"
+           style="fill:#8f8f8f;fill-opacity:1;stroke:none" />
+        <path
+           sodipodi:nodetypes="cccc"
+           id="path9547"
+           d="M 272.33045,1026.6418 L 284.34129,1034.5388 L 272.52557,1040.5226 L 272.33045,1026.6418 z"
+           style="fill:#8f8f8f;fill-opacity:1;stroke:none" />
+        <path
+           sodipodi:nodetypes="cccc"
+           id="path9549"
+           d="M 286.41734,1026.8542 L 299.34959,1034.3718 L 286.61246,1040.735 L 286.41734,1026.8542 L 286.41734,1026.8542 z"
+           style="fill:#8f8f8f;fill-opacity:1;stroke:none;display:inline" />
+      </g>
+      <rect
+         y="248.09003"
+         x="-892"
+         height="48"
+         width="48"
+         id="rect10782"
+         style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+         inkscape:export-filename="/home/hbons/Moblin/hornsey-theater/hrn-controls-ffw-hover.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <g
+         transform="translate(-1156,-762.00006)"
+         id="g10784"
+         style="fill:#e7e7e7;fill-opacity:1;display:inline"
+         inkscape:export-filename="/home/hbons/Moblin/hornsey-theater/hrn-controls-ffw-hover.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <rect
+           style="fill:#e7e7e7;fill-opacity:1;stroke:none"
+           id="rect10786"
+           width="3"
+           height="18"
+           x="271"
+           y="1025.0901"
+           rx="1.5"
+           ry="1.5" />
+        <rect
+           ry="1.5"
+           rx="1.5"
+           y="747.7887"
+           x="-754.30353"
+           height="18"
+           width="3"
+           id="rect10788"
+           style="fill:#e7e7e7;fill-opacity:1;stroke:none"
+           transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)" />
+        <rect
+           transform="matrix(0.5,0.8660254,0.8660254,-0.5,0,0)"
+           style="fill:#e7e7e7;fill-opacity:1;stroke:none"
+           id="rect10790"
+           width="3"
+           height="18"
+           x="1036.7927"
+           y="-286.30136"
+           rx="1.5"
+           ry="1.5" />
+        <rect
+           ry="1.5"
+           rx="1.5"
+           y="1025.0901"
+           x="286.00061"
+           height="18"
+           width="3"
+           id="rect10792"
+           style="fill:#e7e7e7;fill-opacity:1;stroke:none" />
+        <rect
+           transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+           style="fill:#e7e7e7;fill-opacity:1;stroke:none"
+           id="rect10794"
+           width="3"
+           height="18"
+           x="-746.80322"
+           y="760.77954"
+           rx="1.5"
+           ry="1.5" />
+        <rect
+           ry="1.5"
+           rx="1.5"
+           y="-273.31046"
+           x="1044.2931"
+           height="18"
+           width="3"
+           id="rect10796"
+           style="fill:#e7e7e7;fill-opacity:1;stroke:none"
+           transform="matrix(0.5,0.8660254,0.8660254,-0.5,0,0)" />
+        <rect
+           style="fill:#e7e7e7;fill-opacity:1;stroke:none"
+           id="rect10798"
+           width="4"
+           height="18"
+           x="301"
+           y="1025.0901"
+           rx="1.0036838"
+           ry="1.0036838" />
+        <path
+           style="fill:#e7e7e7;fill-opacity:1;stroke:none"
+           d="M 272.33045,1026.6418 L 284.34129,1034.5388 L 272.52557,1040.5226 L 272.33045,1026.6418 z"
+           id="path10800"
+           sodipodi:nodetypes="cccc" />
+        <path
+           style="fill:#e7e7e7;fill-opacity:1;stroke:none;display:inline"
+           d="M 286.41734,1026.8542 L 299.34959,1034.3718 L 286.61246,1040.735 L 286.41734,1026.8542 L 286.41734,1026.8542 z"
+           id="path10802"
+           sodipodi:nodetypes="cccc" />
+      </g>
+      <rect
+         style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+         id="rect10866"
+         width="48"
+         height="48"
+         x="-892"
+         y="298.09003"
+         inkscape:export-filename="/home/hbons/Moblin/hornsey-theater/hrn-controls-ffw-active.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <g
+         style="fill:#6a6a6a;fill-opacity:1;display:inline"
+         id="g10868"
+         transform="translate(-1156,-712.00006)"
+         inkscape:export-filename="/home/hbons/Moblin/hornsey-theater/hrn-controls-ffw-active.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <rect
+           ry="1.5"
+           rx="1.5"
+           y="1025.0901"
+           x="271"
+           height="18"
+           width="3"
+           id="rect10870"
+           style="fill:#6a6a6a;fill-opacity:1;stroke:none" />
+        <rect
+           transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+           style="fill:#6a6a6a;fill-opacity:1;stroke:none"
+           id="rect10872"
+           width="3"
+           height="18"
+           x="-754.30353"
+           y="747.7887"
+           rx="1.5"
+           ry="1.5" />
+        <rect
+           ry="1.5"
+           rx="1.5"
+           y="-286.30136"
+           x="1036.7927"
+           height="18"
+           width="3"
+           id="rect10874"
+           style="fill:#6a6a6a;fill-opacity:1;stroke:none"
+           transform="matrix(0.5,0.8660254,0.8660254,-0.5,0,0)" />
+        <rect
+           style="fill:#6a6a6a;fill-opacity:1;stroke:none"
+           id="rect10876"
+           width="3"
+           height="18"
+           x="286.00061"
+           y="1025.0901"
+           rx="1.5"
+           ry="1.5" />
+        <rect
+           ry="1.5"
+           rx="1.5"
+           y="760.77954"
+           x="-746.80322"
+           height="18"
+           width="3"
+           id="rect10878"
+           style="fill:#6a6a6a;fill-opacity:1;stroke:none"
+           transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)" />
+        <rect
+           transform="matrix(0.5,0.8660254,0.8660254,-0.5,0,0)"
+           style="fill:#6a6a6a;fill-opacity:1;stroke:none"
+           id="rect10880"
+           width="3"
+           height="18"
+           x="1044.2931"
+           y="-273.31046"
+           rx="1.5"
+           ry="1.5" />
+        <rect
+           ry="1.0036838"
+           rx="1.0036838"
+           y="1025.0901"
+           x="301"
+           height="18"
+           width="4"
+           id="rect10882"
+           style="fill:#6a6a6a;fill-opacity:1;stroke:none" />
+        <path
+           sodipodi:nodetypes="cccc"
+           id="path10884"
+           d="M 272.33045,1026.6418 L 284.34129,1034.5388 L 272.52557,1040.5226 L 272.33045,1026.6418 z"
+           style="fill:#6a6a6a;fill-opacity:1;stroke:none" />
+        <path
+           sodipodi:nodetypes="cccc"
+           id="path10886"
+           d="M 286.41734,1026.8542 L 299.34959,1034.3718 L 286.61246,1040.735 L 286.41734,1026.8542 L 286.41734,1026.8542 z"
+           style="fill:#6a6a6a;fill-opacity:1;stroke:none;display:inline" />
       </g>
     </g>
     <g
@@ -34285,5 +34970,626 @@
        d=""
        style="fill:#dedede"
        id="path2993-1-2" />
+    <rect
+       y="-1042"
+       x="198.09003"
+       height="48"
+       width="48"
+       id="rect10329"
+       style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+       transform="matrix(0,1,1,0,0,0)"
+       inkscape:export-filename="/home/hbons/Moblin/hornsey-theater/hrn-controls-leave.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g10738"
+       transform="translate(1.0010631,0)"
+       style="fill:#8f8f8f;fill-opacity:1"
+       inkscape:export-filename="/home/hbons/Moblin/hornsey-theater/hrn-controls-leave.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         transform="matrix(0,1,-1,0,0,0)"
+         style="fill:#8f8f8f;fill-opacity:1;stroke:none;display:inline"
+         id="rect10386"
+         width="14.917873"
+         height="3.0010631"
+         x="224.09003"
+         y="1033"
+         rx="1.5005316"
+         ry="1.5005316" />
+      <rect
+         ry="1.5005316"
+         rx="1.5005316"
+         y="1021"
+         x="224.09003"
+         height="3.0010631"
+         width="15"
+         id="rect10388"
+         style="fill:#8f8f8f;fill-opacity:1;stroke:none;display:inline"
+         transform="matrix(0,1,-1,0,0,0)" />
+      <rect
+         style="fill:#8f8f8f;fill-opacity:1;stroke:none;display:inline"
+         id="rect10390"
+         width="15"
+         height="3.0010631"
+         x="-1036"
+         y="224.09003"
+         rx="1.5005316"
+         ry="1.5005316" />
+      <rect
+         style="fill:#8f8f8f;fill-opacity:1;stroke:none;display:inline"
+         id="rect10400"
+         width="15"
+         height="3.0010631"
+         x="-1036"
+         y="236.00684"
+         rx="1.5005316"
+         ry="1.5005316" />
+      <rect
+         ry="1.5005316"
+         rx="1.5005316"
+         y="1033"
+         x="207.09003"
+         height="3.0010631"
+         width="14.917873"
+         id="rect10419"
+         style="fill:#8f8f8f;fill-opacity:1;stroke:none;display:inline"
+         transform="matrix(0,1,-1,0,0,0)" />
+      <rect
+         transform="matrix(0,1,-1,0,0,0)"
+         style="fill:#8f8f8f;fill-opacity:1;stroke:none;display:inline"
+         id="rect10422"
+         width="15"
+         height="3.0010631"
+         x="207.09003"
+         y="1021"
+         rx="1.5005316"
+         ry="1.5005316" />
+      <rect
+         ry="1.5005316"
+         rx="1.5005316"
+         y="207.09003"
+         x="-1036"
+         height="3.0010631"
+         width="15"
+         id="rect10424"
+         style="fill:#8f8f8f;fill-opacity:1;stroke:none;display:inline" />
+      <rect
+         ry="1.5005316"
+         rx="1.5005316"
+         y="219.00684"
+         x="-1036"
+         height="3.0010631"
+         width="15"
+         id="rect10426"
+         style="fill:#8f8f8f;fill-opacity:1;stroke:none;display:inline" />
+      <rect
+         ry="1.5005316"
+         rx="1.5005316"
+         y="1016"
+         x="224.09003"
+         height="3.0010631"
+         width="14.917873"
+         id="rect10428"
+         style="fill:#8f8f8f;fill-opacity:1;stroke:none;display:inline"
+         transform="matrix(0,1,-1,0,0,0)" />
+      <rect
+         transform="matrix(0,1,-1,0,0,0)"
+         style="fill:#8f8f8f;fill-opacity:1;stroke:none;display:inline"
+         id="rect10430"
+         width="15"
+         height="3.0010631"
+         x="224.09003"
+         y="1004"
+         rx="1.5005316"
+         ry="1.5005316" />
+      <rect
+         ry="1.5005316"
+         rx="1.5005316"
+         y="224.09003"
+         x="-1019"
+         height="3.0010631"
+         width="15"
+         id="rect10432"
+         style="fill:#8f8f8f;fill-opacity:1;stroke:none;display:inline" />
+      <rect
+         ry="1.5005316"
+         rx="1.5005316"
+         y="236.00684"
+         x="-1019"
+         height="3.0010631"
+         width="15"
+         id="rect10434"
+         style="fill:#8f8f8f;fill-opacity:1;stroke:none;display:inline" />
+      <rect
+         transform="matrix(0,1,-1,0,0,0)"
+         style="fill:#8f8f8f;fill-opacity:1;stroke:none;display:inline"
+         id="rect10436"
+         width="14.917873"
+         height="3.0010631"
+         x="207.09003"
+         y="1016"
+         rx="1.5005316"
+         ry="1.5005316" />
+      <rect
+         ry="1.5005316"
+         rx="1.5005316"
+         y="1004"
+         x="207.09003"
+         height="3.0010631"
+         width="15"
+         id="rect10438"
+         style="fill:#8f8f8f;fill-opacity:1;stroke:none;display:inline"
+         transform="matrix(0,1,-1,0,0,0)" />
+      <rect
+         style="fill:#8f8f8f;fill-opacity:1;stroke:none;display:inline"
+         id="rect10440"
+         width="15"
+         height="3.0010631"
+         x="-1019"
+         y="207.09003"
+         rx="1.5005316"
+         ry="1.5005316" />
+      <rect
+         style="fill:#8f8f8f;fill-opacity:1;stroke:none;display:inline"
+         id="rect10442"
+         width="15"
+         height="3.0010631"
+         x="-1019"
+         y="219.00684"
+         rx="1.5005316"
+         ry="1.5005316" />
+    </g>
+    <rect
+       y="198.09003"
+       x="-992"
+       height="48"
+       width="48"
+       id="rect10444"
+       style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+       inkscape:export-filename="/home/hbons/Moblin/hornsey-theater/hrn-controls-pause.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g10446"
+       transform="translate(-1147,-834.00006)"
+       style="fill:#8f8f8f;fill-opacity:1;display:inline"
+       inkscape:export-filename="/home/hbons/Moblin/hornsey-theater/hrn-controls-pause.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#8f8f8f;fill-opacity:1;stroke:none;display:inline"
+         id="rect10448"
+         width="6.0000153"
+         height="19.980713"
+         x="169.99998"
+         y="1046.1094"
+         rx="1.4905151"
+         ry="1.4905149" />
+      <rect
+         ry="1.4905149"
+         rx="1.490515"
+         y="1046.1094"
+         x="181.99998"
+         height="19.980713"
+         width="6.0000153"
+         id="rect10450"
+         style="fill:#8f8f8f;fill-opacity:1;stroke:none;display:inline" />
+    </g>
+    <rect
+       transform="matrix(0,1,1,0,0,0)"
+       style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+       id="rect10804"
+       width="48"
+       height="48"
+       x="248.09003"
+       y="-1042"
+       inkscape:export-filename="/home/hbons/Moblin/hornsey-theater/hrn-controls-leave-hover.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       style="fill:#e7e7e7;fill-opacity:1"
+       transform="translate(1.0010631,50)"
+       id="g10806"
+       inkscape:export-filename="/home/hbons/Moblin/hornsey-theater/hrn-controls-leave-hover.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         ry="1.5005316"
+         rx="1.5005316"
+         y="1033"
+         x="224.09003"
+         height="3.0010631"
+         width="14.917873"
+         id="rect10808"
+         style="fill:#e7e7e7;fill-opacity:1;stroke:none;display:inline"
+         transform="matrix(0,1,-1,0,0,0)" />
+      <rect
+         transform="matrix(0,1,-1,0,0,0)"
+         style="fill:#e7e7e7;fill-opacity:1;stroke:none;display:inline"
+         id="rect10810"
+         width="15"
+         height="3.0010631"
+         x="224.09003"
+         y="1021"
+         rx="1.5005316"
+         ry="1.5005316" />
+      <rect
+         ry="1.5005316"
+         rx="1.5005316"
+         y="224.09003"
+         x="-1036"
+         height="3.0010631"
+         width="15"
+         id="rect10812"
+         style="fill:#e7e7e7;fill-opacity:1;stroke:none;display:inline" />
+      <rect
+         ry="1.5005316"
+         rx="1.5005316"
+         y="236.00684"
+         x="-1036"
+         height="3.0010631"
+         width="15"
+         id="rect10814"
+         style="fill:#e7e7e7;fill-opacity:1;stroke:none;display:inline" />
+      <rect
+         transform="matrix(0,1,-1,0,0,0)"
+         style="fill:#e7e7e7;fill-opacity:1;stroke:none;display:inline"
+         id="rect10816"
+         width="14.917873"
+         height="3.0010631"
+         x="207.09003"
+         y="1033"
+         rx="1.5005316"
+         ry="1.5005316" />
+      <rect
+         ry="1.5005316"
+         rx="1.5005316"
+         y="1021"
+         x="207.09003"
+         height="3.0010631"
+         width="15"
+         id="rect10818"
+         style="fill:#e7e7e7;fill-opacity:1;stroke:none;display:inline"
+         transform="matrix(0,1,-1,0,0,0)" />
+      <rect
+         style="fill:#e7e7e7;fill-opacity:1;stroke:none;display:inline"
+         id="rect10820"
+         width="15"
+         height="3.0010631"
+         x="-1036"
+         y="207.09003"
+         rx="1.5005316"
+         ry="1.5005316" />
+      <rect
+         style="fill:#e7e7e7;fill-opacity:1;stroke:none;display:inline"
+         id="rect10822"
+         width="15"
+         height="3.0010631"
+         x="-1036"
+         y="219.00684"
+         rx="1.5005316"
+         ry="1.5005316" />
+      <rect
+         transform="matrix(0,1,-1,0,0,0)"
+         style="fill:#e7e7e7;fill-opacity:1;stroke:none;display:inline"
+         id="rect10824"
+         width="14.917873"
+         height="3.0010631"
+         x="224.09003"
+         y="1016"
+         rx="1.5005316"
+         ry="1.5005316" />
+      <rect
+         ry="1.5005316"
+         rx="1.5005316"
+         y="1004"
+         x="224.09003"
+         height="3.0010631"
+         width="15"
+         id="rect10826"
+         style="fill:#e7e7e7;fill-opacity:1;stroke:none;display:inline"
+         transform="matrix(0,1,-1,0,0,0)" />
+      <rect
+         style="fill:#e7e7e7;fill-opacity:1;stroke:none;display:inline"
+         id="rect10828"
+         width="15"
+         height="3.0010631"
+         x="-1019"
+         y="224.09003"
+         rx="1.5005316"
+         ry="1.5005316" />
+      <rect
+         style="fill:#e7e7e7;fill-opacity:1;stroke:none;display:inline"
+         id="rect10830"
+         width="15"
+         height="3.0010631"
+         x="-1019"
+         y="236.00684"
+         rx="1.5005316"
+         ry="1.5005316" />
+      <rect
+         ry="1.5005316"
+         rx="1.5005316"
+         y="1016"
+         x="207.09003"
+         height="3.0010631"
+         width="14.917873"
+         id="rect10832"
+         style="fill:#e7e7e7;fill-opacity:1;stroke:none;display:inline"
+         transform="matrix(0,1,-1,0,0,0)" />
+      <rect
+         transform="matrix(0,1,-1,0,0,0)"
+         style="fill:#e7e7e7;fill-opacity:1;stroke:none;display:inline"
+         id="rect10834"
+         width="15"
+         height="3.0010631"
+         x="207.09003"
+         y="1004"
+         rx="1.5005316"
+         ry="1.5005316" />
+      <rect
+         ry="1.5005316"
+         rx="1.5005316"
+         y="207.09003"
+         x="-1019"
+         height="3.0010631"
+         width="15"
+         id="rect10836"
+         style="fill:#e7e7e7;fill-opacity:1;stroke:none;display:inline" />
+      <rect
+         ry="1.5005316"
+         rx="1.5005316"
+         y="219.00684"
+         x="-1019"
+         height="3.0010631"
+         width="15"
+         id="rect10838"
+         style="fill:#e7e7e7;fill-opacity:1;stroke:none;display:inline" />
+    </g>
+    <rect
+       style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+       id="rect10840"
+       width="48"
+       height="48"
+       x="-992"
+       y="248.09003"
+       inkscape:export-filename="/home/hbons/Moblin/hornsey-theater/hrn-controls-pause-hover.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       style="fill:#febf00;fill-opacity:1;display:inline"
+       transform="translate(-1147,-784.00006)"
+       id="g10842"
+       inkscape:export-filename="/home/hbons/Moblin/hornsey-theater/hrn-controls-pause-hover.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         ry="1.4905149"
+         rx="1.4905151"
+         y="1046.1094"
+         x="169.99998"
+         height="19.980713"
+         width="6.0000153"
+         id="rect10844"
+         style="fill:#febf00;fill-opacity:1;stroke:none;display:inline" />
+      <rect
+         style="fill:#febf00;fill-opacity:1;stroke:none;display:inline"
+         id="rect10846"
+         width="6.0000153"
+         height="19.980713"
+         x="181.99998"
+         y="1046.1094"
+         rx="1.490515"
+         ry="1.4905149" />
+    </g>
+    <rect
+       y="-1042"
+       x="298.09003"
+       height="48"
+       width="48"
+       id="rect10888"
+       style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+       transform="matrix(0,1,1,0,0,0)"
+       inkscape:export-filename="/home/hbons/Moblin/hornsey-theater/hrn-controls-leave-active.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g10890"
+       transform="translate(1.0010631,100)"
+       style="fill:#6a6a6a;fill-opacity:1"
+       inkscape:export-filename="/home/hbons/Moblin/hornsey-theater/hrn-controls-leave-active.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         transform="matrix(0,1,-1,0,0,0)"
+         style="fill:#6a6a6a;fill-opacity:1;stroke:none;display:inline"
+         id="rect10892"
+         width="14.917873"
+         height="3.0010631"
+         x="224.09003"
+         y="1033"
+         rx="1.5005316"
+         ry="1.5005316" />
+      <rect
+         ry="1.5005316"
+         rx="1.5005316"
+         y="1021"
+         x="224.09003"
+         height="3.0010631"
+         width="15"
+         id="rect10894"
+         style="fill:#6a6a6a;fill-opacity:1;stroke:none;display:inline"
+         transform="matrix(0,1,-1,0,0,0)" />
+      <rect
+         style="fill:#6a6a6a;fill-opacity:1;stroke:none;display:inline"
+         id="rect10896"
+         width="15"
+         height="3.0010631"
+         x="-1036"
+         y="224.09003"
+         rx="1.5005316"
+         ry="1.5005316" />
+      <rect
+         style="fill:#6a6a6a;fill-opacity:1;stroke:none;display:inline"
+         id="rect10898"
+         width="15"
+         height="3.0010631"
+         x="-1036"
+         y="236.00684"
+         rx="1.5005316"
+         ry="1.5005316" />
+      <rect
+         ry="1.5005316"
+         rx="1.5005316"
+         y="1033"
+         x="207.09003"
+         height="3.0010631"
+         width="14.917873"
+         id="rect10900"
+         style="fill:#6a6a6a;fill-opacity:1;stroke:none;display:inline"
+         transform="matrix(0,1,-1,0,0,0)" />
+      <rect
+         transform="matrix(0,1,-1,0,0,0)"
+         style="fill:#6a6a6a;fill-opacity:1;stroke:none;display:inline"
+         id="rect10902"
+         width="15"
+         height="3.0010631"
+         x="207.09003"
+         y="1021"
+         rx="1.5005316"
+         ry="1.5005316" />
+      <rect
+         ry="1.5005316"
+         rx="1.5005316"
+         y="207.09003"
+         x="-1036"
+         height="3.0010631"
+         width="15"
+         id="rect10904"
+         style="fill:#6a6a6a;fill-opacity:1;stroke:none;display:inline" />
+      <rect
+         ry="1.5005316"
+         rx="1.5005316"
+         y="219.00684"
+         x="-1036"
+         height="3.0010631"
+         width="15"
+         id="rect10906"
+         style="fill:#6a6a6a;fill-opacity:1;stroke:none;display:inline" />
+      <rect
+         ry="1.5005316"
+         rx="1.5005316"
+         y="1016"
+         x="224.09003"
+         height="3.0010631"
+         width="14.917873"
+         id="rect10908"
+         style="fill:#6a6a6a;fill-opacity:1;stroke:none;display:inline"
+         transform="matrix(0,1,-1,0,0,0)" />
+      <rect
+         transform="matrix(0,1,-1,0,0,0)"
+         style="fill:#6a6a6a;fill-opacity:1;stroke:none;display:inline"
+         id="rect10910"
+         width="15"
+         height="3.0010631"
+         x="224.09003"
+         y="1004"
+         rx="1.5005316"
+         ry="1.5005316" />
+      <rect
+         ry="1.5005316"
+         rx="1.5005316"
+         y="224.09003"
+         x="-1019"
+         height="3.0010631"
+         width="15"
+         id="rect10912"
+         style="fill:#6a6a6a;fill-opacity:1;stroke:none;display:inline" />
+      <rect
+         ry="1.5005316"
+         rx="1.5005316"
+         y="236.00684"
+         x="-1019"
+         height="3.0010631"
+         width="15"
+         id="rect10914"
+         style="fill:#6a6a6a;fill-opacity:1;stroke:none;display:inline" />
+      <rect
+         transform="matrix(0,1,-1,0,0,0)"
+         style="fill:#6a6a6a;fill-opacity:1;stroke:none;display:inline"
+         id="rect10916"
+         width="14.917873"
+         height="3.0010631"
+         x="207.09003"
+         y="1016"
+         rx="1.5005316"
+         ry="1.5005316" />
+      <rect
+         ry="1.5005316"
+         rx="1.5005316"
+         y="1004"
+         x="207.09003"
+         height="3.0010631"
+         width="15"
+         id="rect10918"
+         style="fill:#6a6a6a;fill-opacity:1;stroke:none;display:inline"
+         transform="matrix(0,1,-1,0,0,0)" />
+      <rect
+         style="fill:#6a6a6a;fill-opacity:1;stroke:none;display:inline"
+         id="rect10920"
+         width="15"
+         height="3.0010631"
+         x="-1019"
+         y="207.09003"
+         rx="1.5005316"
+         ry="1.5005316" />
+      <rect
+         style="fill:#6a6a6a;fill-opacity:1;stroke:none;display:inline"
+         id="rect10922"
+         width="15"
+         height="3.0010631"
+         x="-1019"
+         y="219.00684"
+         rx="1.5005316"
+         ry="1.5005316" />
+    </g>
+    <rect
+       y="298.09003"
+       x="-992"
+       height="48"
+       width="48"
+       id="rect10924"
+       style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+       inkscape:export-filename="/home/hbons/Moblin/hornsey-theater/hrn-controls-pause-active.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g10926"
+       transform="translate(-1147,-734.00006)"
+       style="fill:#e87208;fill-opacity:1;display:inline"
+       inkscape:export-filename="/home/hbons/Moblin/hornsey-theater/hrn-controls-pause-active.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#e87208;fill-opacity:1;stroke:none;display:inline"
+         id="rect10928"
+         width="6.0000153"
+         height="19.980713"
+         x="169.99998"
+         y="1046.1094"
+         rx="1.4905151"
+         ry="1.4905149" />
+      <rect
+         ry="1.4905149"
+         rx="1.490515"
+         y="1046.1094"
+         x="181.99998"
+         height="19.980713"
+         width="6.0000153"
+         id="rect10930"
+         style="fill:#e87208;fill-opacity:1;stroke:none;display:inline" />
+    </g>
   </g>
 </svg>
