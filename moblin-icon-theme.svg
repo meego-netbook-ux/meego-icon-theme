@@ -30,11 +30,11 @@
      objecttolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="-766.95861"
-     inkscape:cy="368.07085"
+     inkscape:zoom="1.1455224"
+     inkscape:cx="681.06782"
+     inkscape:cy="-0.52103127"
      inkscape:document-units="px"
-     inkscape:current-layer="g1813"
+     inkscape:current-layer="svg2"
      showgrid="false"
      inkscape:window-width="1280"
      inkscape:window-height="750"
@@ -2524,7 +2524,8 @@
     <g
        inkscape:groupmode="layer"
        id="battery-full"
-       inkscape:label="battery-full">
+       inkscape:label="battery-full"
+       style="display:inline">
       <rect
          y="431.09003"
          x="-520"
@@ -2657,38 +2658,6 @@
          d=""
          style="fill:#bebebe;fill-opacity:1"
          id="path6870" />
-      <rect
-         transform="scale(-1,1)"
-         style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
-         id="rect7028"
-         width="48"
-         height="48"
-         x="-972"
-         y="853.34003" />
-      <rect
-         y="853.34003"
-         x="-917"
-         height="48"
-         width="48"
-         id="rect7052"
-         style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
-         transform="scale(-1,1)" />
-      <rect
-         transform="scale(-1,1)"
-         style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
-         id="rect7080"
-         width="48"
-         height="48"
-         x="-862"
-         y="853.34003" />
-      <rect
-         y="853.34003"
-         x="-807"
-         height="48"
-         width="48"
-         id="rect7108"
-         style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
-         transform="scale(-1,1)" />
       <rect
          y="852.09003"
          x="-496"
@@ -2962,7 +2931,8 @@
     <g
        inkscape:groupmode="layer"
        id="flickr"
-       inkscape:label="flickr">
+       inkscape:label="flickr"
+       style="display:inline">
       <rect
          transform="scale(-1,1)"
          style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
@@ -2991,14 +2961,6 @@
          id="path12710"
          style="fill:#bebebe;fill-opacity:1;stroke:#bebebe;stroke-width:8.35672092;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
          sodipodi:type="arc" />
-      <rect
-         y="765.10828"
-         x="-583.02625"
-         height="24"
-         width="24"
-         id="rect7554"
-         style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
-         transform="scale(-1,1)" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -7340,8 +7302,7 @@
        inkscape:groupmode="layer"
        id="layer18"
        inkscape:label="im-message-new"
-       style="display:inline"
-       sodipodi:insensitive="true">
+       style="display:inline">
       <rect
          style="opacity:0;fill:#ef2929;fill-opacity:1;stroke:none;display:inline"
          id="rect13344"
