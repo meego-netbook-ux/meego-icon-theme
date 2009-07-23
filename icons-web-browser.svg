@@ -1,0 +1,937 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg11243"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="icons-web-browser.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs11245">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient10522">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop10524" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop10526" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10522"
+       id="linearGradient10528"
+       x1="106.09002"
+       y1="744.409"
+       x2="106.09002"
+       y2="748.9389"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(68.05787,-933.07143)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient10596">
+      <stop
+         style="stop-color:#ed2124;stop-opacity:1;"
+         offset="0"
+         id="stop10598" />
+      <stop
+         style="stop-color:#cc0000;stop-opacity:1"
+         offset="1"
+         id="stop10600" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10596"
+       id="linearGradient10602"
+       x1="123.09003"
+       y1="-773.00061"
+       x2="135.09006"
+       y2="-773.00061"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(67.05787,933.07143)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient10588">
+      <stop
+         style="stop-color:#31c2ee;stop-opacity:1;"
+         offset="0"
+         id="stop10590" />
+      <stop
+         style="stop-color:#31c2ee;stop-opacity:0;"
+         offset="1"
+         id="stop10592" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10588"
+       id="linearGradient10594"
+       x1="136.09001"
+       y1="744.05548"
+       x2="136.09001"
+       y2="748.69586"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(67.05787,-933.07143)" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective11251" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="689.28571"
+     inkscape:cy="541.42857"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false" />
+  <metadata
+     id="metadata11248">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       style="display:inline"
+       id="g10585"
+       inkscape:export-filename="/home/hbons/Moblin/mwb/go-forward-hover.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(933.07143,110.05787)">
+      <rect
+         y="44.090027"
+         x="-650"
+         height="51"
+         width="57"
+         id="rect9612"
+         style="opacity:1;fill:#202e31;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline" />
+      <rect
+         style="opacity:1;fill:#434343;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+         id="rect10457"
+         width="57"
+         height="51"
+         x="-650"
+         y="44.090027"
+         rx="2.9375"
+         ry="2.9375" />
+      <g
+         style="fill:#a0da00;fill-opacity:1;display:inline"
+         id="g9605"
+         transform="translate(-1023.8913,-853.85182)">
+        <path
+           style="fill:#c0ff0f;fill-opacity:1;stroke:none;display:inline"
+           d="M 396.332,913.38256 C 396.91961,912.79496 397.86572,912.79496 398.45332,913.38256 L 407.76815,922.69739 C 408.35575,923.28499 408.35575,924.2311 407.76815,924.81871 C 407.18054,925.40631 406.23443,925.40631 405.64683,924.81871 L 396.332,915.50388 C 395.7444,914.91628 395.7444,913.97017 396.332,913.38256 z"
+           id="path9607"
+           sodipodi:nodetypes="cccsccc" />
+        <path
+           style="fill:#c0ff0f;fill-opacity:1;stroke:none;display:inline"
+           d="M 396.332,934.13626 C 396.91961,934.72387 397.86572,934.72387 398.45332,934.13626 L 407.76815,924.82144 C 408.35575,924.23383 408.35575,923.28772 407.76815,922.70012 C 407.18054,922.11251 406.23443,922.11251 405.64683,922.70012 L 396.332,932.01494 C 395.7444,932.60255 395.7444,933.54866 396.332,934.13626 z"
+           id="path9609"
+           sodipodi:nodetypes="cccsccc" />
+      </g>
+    </g>
+    <g
+       style="display:inline"
+       id="g10619"
+       inkscape:export-filename="/home/hbons/Moblin/mwb/go-forward.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(933.07143,110.05787)">
+      <rect
+         style="opacity:0;fill:#202e31;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+         id="rect10422"
+         width="57"
+         height="51"
+         x="-650"
+         y="152.09003" />
+      <g
+         transform="translate(-1023.8913,-745.85182)"
+         id="g10424"
+         style="fill:#bebebe;fill-opacity:1;display:inline">
+        <path
+           sodipodi:nodetypes="cccsccc"
+           id="path10426"
+           d="M 396.332,913.38256 C 396.91961,912.79496 397.86572,912.79496 398.45332,913.38256 L 407.76815,922.69739 C 408.35575,923.28499 408.35575,924.2311 407.76815,924.81871 C 407.18054,925.40631 406.23443,925.40631 405.64683,924.81871 L 396.332,915.50388 C 395.7444,914.91628 395.7444,913.97017 396.332,913.38256 z"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+        <path
+           sodipodi:nodetypes="cccsccc"
+           id="path10428"
+           d="M 396.332,934.13626 C 396.91961,934.72387 397.86572,934.72387 398.45332,934.13626 L 407.76815,924.82144 C 408.35575,924.23383 408.35575,923.28772 407.76815,922.70012 C 407.18054,922.11251 406.23443,922.11251 405.64683,922.70012 L 396.332,932.01494 C 395.7444,932.60255 395.7444,933.54866 396.332,934.13626 z"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+      </g>
+    </g>
+    <g
+       style="display:inline"
+       id="g10612"
+       inkscape:export-filename="/home/hbons/Moblin/mwb/go-back.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(933.07143,110.05787)">
+      <rect
+         y="152.09003"
+         x="652"
+         height="51"
+         width="57"
+         id="rect10420"
+         style="opacity:0;fill:#202e31;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+         transform="scale(-1,1)" />
+      <g
+         style="fill:#bebebe;fill-opacity:1;display:inline"
+         id="g10430"
+         transform="matrix(-1,0,0,1,-278.1087,-745.85182)">
+        <path
+           style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+           d="M 396.332,913.38256 C 396.91961,912.79496 397.86572,912.79496 398.45332,913.38256 L 407.76815,922.69739 C 408.35575,923.28499 408.35575,924.2311 407.76815,924.81871 C 407.18054,925.40631 406.23443,925.40631 405.64683,924.81871 L 396.332,915.50388 C 395.7444,914.91628 395.7444,913.97017 396.332,913.38256 z"
+           id="path10432"
+           sodipodi:nodetypes="cccsccc" />
+        <path
+           style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+           d="M 396.332,934.13626 C 396.91961,934.72387 397.86572,934.72387 398.45332,934.13626 L 407.76815,924.82144 C 408.35575,924.23383 408.35575,923.28772 407.76815,922.70012 C 407.18054,922.11251 406.23443,922.11251 405.64683,922.70012 L 396.332,932.01494 C 395.7444,932.60255 395.7444,933.54866 396.332,934.13626 z"
+           id="path10434"
+           sodipodi:nodetypes="cccsccc" />
+      </g>
+    </g>
+    <g
+       style="display:inline"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/hbons/Moblin/mwb/go-forward-insensitive.png"
+       id="g10622"
+       transform="translate(933.07143,163.05787)">
+      <rect
+         y="152.09003"
+         x="-650"
+         height="51"
+         width="57"
+         id="rect10624"
+         style="opacity:0;fill:#202e31;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline" />
+      <g
+         style="fill:#bebebe;fill-opacity:1;display:inline"
+         id="g10626"
+         transform="translate(-1023.8913,-745.85182)">
+        <path
+           style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline"
+           d="M 396.332,913.38256 C 396.91961,912.79496 397.86572,912.79496 398.45332,913.38256 L 407.76815,922.69739 C 408.35575,923.28499 408.35575,924.2311 407.76815,924.81871 C 407.18054,925.40631 406.23443,925.40631 405.64683,924.81871 L 396.332,915.50388 C 395.7444,914.91628 395.7444,913.97017 396.332,913.38256 z"
+           id="path10628"
+           sodipodi:nodetypes="cccsccc" />
+        <path
+           style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline"
+           d="M 396.332,934.13626 C 396.91961,934.72387 397.86572,934.72387 398.45332,934.13626 L 407.76815,924.82144 C 408.35575,924.23383 408.35575,923.28772 407.76815,922.70012 C 407.18054,922.11251 406.23443,922.11251 405.64683,922.70012 L 396.332,932.01494 C 395.7444,932.60255 395.7444,933.54866 396.332,934.13626 z"
+           id="path10630"
+           sodipodi:nodetypes="cccsccc" />
+      </g>
+    </g>
+    <g
+       style="display:inline"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/hbons/Moblin/mwb/go-back-insensitive.png"
+       id="g10632"
+       transform="translate(933.07143,163.05787)">
+      <rect
+         transform="scale(-1,1)"
+         style="opacity:0;fill:#202e31;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+         id="rect10634"
+         width="57"
+         height="51"
+         x="652"
+         y="152.09003" />
+      <g
+         transform="matrix(-1,0,0,1,-278.1087,-745.85182)"
+         id="g10636"
+         style="fill:#bebebe;fill-opacity:1;display:inline">
+        <path
+           sodipodi:nodetypes="cccsccc"
+           id="path10638"
+           d="M 396.332,913.38256 C 396.91961,912.79496 397.86572,912.79496 398.45332,913.38256 L 407.76815,922.69739 C 408.35575,923.28499 408.35575,924.2311 407.76815,924.81871 C 407.18054,925.40631 406.23443,925.40631 405.64683,924.81871 L 396.332,915.50388 C 395.7444,914.91628 395.7444,913.97017 396.332,913.38256 z"
+           style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
+        <path
+           sodipodi:nodetypes="cccsccc"
+           id="path10640"
+           d="M 396.332,934.13626 C 396.91961,934.72387 397.86572,934.72387 398.45332,934.13626 L 407.76815,924.82144 C 408.35575,924.23383 408.35575,923.28772 407.76815,922.70012 C 407.18054,922.11251 406.23443,922.11251 405.64683,922.70012 L 396.332,932.01494 C 395.7444,932.60255 395.7444,933.54866 396.332,934.13626 z"
+           style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
+      </g>
+    </g>
+    <rect
+       style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline"
+       id="rect10620"
+       width="24"
+       height="24"
+       x="155.1479"
+       y="177.07143"
+       rx="1.9375001"
+       ry="1.9375001"
+       transform="matrix(0,1,1,0,0,0)"
+       inkscape:export-filename="/home/hbons/Moblin/mwb/reload-hover.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0;fill:#bebebe;fill-opacity:1;stroke:none;display:inline"
+       id="rect10610"
+       width="28"
+       height="28"
+       x="182.1479"
+       y="175.07143"
+       rx="1.9375"
+       ry="1.9375"
+       transform="matrix(0,1,1,0,0,0)"
+       inkscape:export-filename="/home/hbons/Moblin/mwb/reload.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       transform="matrix(0,1,1,0,0,0)"
+       ry="1.9375"
+       rx="1.9375"
+       y="146.07143"
+       x="182.1479"
+       height="28"
+       width="28"
+       id="rect10608"
+       style="opacity:0;fill:#bebebe;fill-opacity:1;stroke:none;display:inline"
+       inkscape:export-filename="/home/hbons/Moblin/mwb/stop.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       transform="matrix(0,1,1,0,0,0)"
+       ry="2.0625"
+       rx="2.0625"
+       y="175.07143"
+       x="153.1479"
+       height="28"
+       width="28"
+       id="rect10520"
+       style="opacity:0;fill:#bebebe;fill-opacity:1;stroke:none;display:inline"
+       inkscape:export-filename="/home/hbons/Moblin/mwb/reload-hover.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0;fill:#bebebe;fill-opacity:1;stroke:none;display:inline"
+       id="rect10518"
+       width="28"
+       height="28"
+       x="153.1479"
+       y="146.07143"
+       rx="1.9375"
+       ry="1.9375"
+       transform="matrix(0,1,1,0,0,0)"
+       inkscape:export-filename="/home/hbons/Moblin/mwb/stop-hover.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="159.1479"
+       x="-186.07143"
+       height="16"
+       width="16"
+       id="rect10491"
+       style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+       transform="scale(-1,1)" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/hbons/Moblin/mwb/stop-hover.png"
+       transform="matrix(0,1,1,0,0,0)"
+       ry="1.9375001"
+       rx="1.9375001"
+       y="148.07143"
+       x="155.1479"
+       height="24"
+       width="24"
+       id="rect10618"
+       style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
+    <rect
+       transform="matrix(0,1,1,0,0,0)"
+       ry="0.9375"
+       rx="0.9375"
+       y="154.07033"
+       x="161.1479"
+       height="12.000977"
+       width="12.000034"
+       id="rect10494"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+       inkscape:export-filename="/home/hbons/Moblin/mwb/stop-hover.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="159.1479"
+       x="-197.07143"
+       height="16"
+       width="16"
+       id="rect10496"
+       style="opacity:0;fill:#f1f1f1;fill-opacity:1;stroke:none;display:inline"
+       transform="scale(-1,1)"
+       inkscape:export-filename="/home/hbons/Moblin/mwb/reload-hover.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:none;stroke:#ffffff;stroke-width:2.39721298;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+       id="path10498"
+       sodipodi:cx="10.196985"
+       sodipodi:cy="12.357385"
+       sodipodi:rx="8.3902435"
+       sodipodi:ry="8.3902435"
+       d="M 4.2641871,18.290183 A 8.3902435,8.3902435 0 1 1 16.129783,18.290183"
+       transform="matrix(0.5899411,0.5899408,-0.5899411,0.5899408,191.34594,153.84215)"
+       sodipodi:start="2.3561945"
+       sodipodi:end="7.0685835"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/hbons/Moblin/mwb/reload-hover.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+       id="rect10500"
+       width="2.000885"
+       height="6.0000162"
+       x="182.07051"
+       y="166.1479"
+       rx="1.0004425"
+       ry="1.0004425"
+       inkscape:export-filename="/home/hbons/Moblin/mwb/reload-hover.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:url(#linearGradient10528);fill-opacity:1;stroke:none;display:inline"
+       id="rect10502"
+       width="1.9999783"
+       height="8"
+       x="173.1479"
+       y="-191.07143"
+       rx="1"
+       ry="0.9999997"
+       transform="matrix(0,1,-1,0,0,0)"
+       inkscape:export-filename="/home/hbons/Moblin/mwb/reload-hover.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="cccsccc"
+       id="path10504"
+       d="M 187.07434,167.15019 C 187.07434,167.15019 185.6595,167.15018 185.6595,167.15018 L 182.36693,170.43912 C 181.97502,170.83103 181.97502,171.46205 182.36694,171.85396 C 182.75885,172.24587 183.38987,172.24587 183.78177,171.85396 L 187.07434,168.56503 C 187.07434,168.56503 187.07434,167.15019 187.07434,167.15019 z"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+       inkscape:export-filename="/home/hbons/Moblin/mwb/reload-hover.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+       d="M 179.07007,167.15019 C 179.07007,167.15019 180.48491,167.15018 180.48491,167.15018 L 183.77748,170.43912 C 184.16939,170.83103 184.16939,171.46205 183.77747,171.85396 C 183.38556,172.24587 182.75454,172.24587 182.36264,171.85396 L 179.07007,168.56503 C 179.07007,168.56503 179.07007,167.15019 179.07007,167.15019 z"
+       id="path10506"
+       sodipodi:nodetypes="cccsccc"
+       inkscape:export-filename="/home/hbons/Moblin/mwb/reload-hover.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       transform="scale(-1,1)"
+       style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+       id="rect10570"
+       width="16"
+       height="16"
+       x="-168.07143"
+       y="188.1479"
+       inkscape:export-filename="/home/hbons/Moblin/mwb/stop.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:url(#linearGradient10602);fill-opacity:1;stroke:none;display:inline"
+       id="rect10572"
+       width="12.000034"
+       height="12.000977"
+       x="190.1479"
+       y="154.07033"
+       rx="0.9375"
+       ry="0.9375"
+       transform="matrix(0,1,1,0,0,0)"
+       inkscape:export-filename="/home/hbons/Moblin/mwb/stop.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       transform="scale(-1,1)"
+       style="opacity:0;fill:#f1f1f1;fill-opacity:1;stroke:none;display:inline"
+       id="rect10574"
+       width="16"
+       height="16"
+       x="-197.07143"
+       y="188.1479"
+       inkscape:export-filename="/home/hbons/Moblin/mwb/reload.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:open="true"
+       sodipodi:end="7.0685835"
+       sodipodi:start="2.3561945"
+       transform="matrix(0.5899411,0.5899408,-0.5899411,0.5899408,191.34594,182.84215)"
+       d="M 4.2641871,18.290183 A 8.3902435,8.3902435 0 1 1 16.129783,18.290183"
+       sodipodi:ry="8.3902435"
+       sodipodi:rx="8.3902435"
+       sodipodi:cy="12.357385"
+       sodipodi:cx="10.196985"
+       id="path10576"
+       style="opacity:1;fill:none;stroke:#31c2ee;stroke-width:2.39721298;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/hbons/Moblin/mwb/reload.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       ry="1.0004425"
+       rx="1.0004425"
+       y="195.1479"
+       x="182.07051"
+       height="6.0000162"
+       width="2.000885"
+       id="rect10578"
+       style="opacity:1;fill:#31c2ee;fill-opacity:1;stroke:none;display:inline"
+       inkscape:export-filename="/home/hbons/Moblin/mwb/reload.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       ry="0.9999997"
+       rx="1"
+       y="-191.07143"
+       x="202.1479"
+       height="8"
+       width="1.9999783"
+       id="rect10580"
+       style="opacity:1;fill:url(#linearGradient10594);fill-opacity:1;stroke:none;display:inline"
+       inkscape:export-filename="/home/hbons/Moblin/mwb/reload.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#31c2ee;fill-opacity:1;stroke:none;display:inline"
+       d="M 187.07434,196.15019 C 187.07434,196.15019 185.6595,196.15018 185.6595,196.15018 L 182.36693,199.43912 C 181.97502,199.83103 181.97502,200.46205 182.36694,200.85396 C 182.75885,201.24587 183.38987,201.24587 183.78177,200.85396 L 187.07434,197.56503 C 187.07434,197.56503 187.07434,196.15019 187.07434,196.15019 z"
+       id="path10582"
+       sodipodi:nodetypes="cccsccc"
+       inkscape:export-filename="/home/hbons/Moblin/mwb/reload.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="cccsccc"
+       id="path10584"
+       d="M 179.07007,196.15019 C 179.07007,196.15019 180.48491,196.15018 180.48491,196.15018 L 183.77748,199.43912 C 184.16939,199.83103 184.16939,200.46205 183.77747,200.85396 C 183.38556,201.24587 182.75454,201.24587 182.36264,200.85396 L 179.07007,197.56503 C 179.07007,197.56503 179.07007,196.15019 179.07007,196.15019 z"
+       style="fill:#31c2ee;fill-opacity:1;stroke:none;display:inline"
+       inkscape:export-filename="/home/hbons/Moblin/mwb/reload.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/hbons/Moblin/mwb/play.png"
+       style="opacity:0;fill:#bebebe;fill-opacity:1;stroke:none;display:inline"
+       id="rect10652"
+       width="28"
+       height="28"
+       x="182.1479"
+       y="117.07143"
+       rx="1.9375"
+       ry="1.9375"
+       transform="matrix(0,1,1,0,0,0)" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/hbons/Moblin/mwb/play-hover.png"
+       transform="matrix(0,1,1,0,0,0)"
+       ry="1.9375"
+       rx="1.9375"
+       y="117.07143"
+       x="153.1479"
+       height="28"
+       width="28"
+       id="rect10654"
+       style="opacity:0;fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
+    <rect
+       style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline"
+       id="rect10656"
+       width="24"
+       height="24"
+       x="155.1479"
+       y="119.07143"
+       rx="1.9375001"
+       ry="1.9375001"
+       transform="matrix(0,1,1,0,0,0)"
+       inkscape:export-filename="/home/hbons/Moblin/mwb/play-hover.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/hbons/Moblin/mwb/play.png"
+       y="188.1479"
+       x="-139.07143"
+       height="16"
+       width="16"
+       id="rect10660"
+       style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+       transform="scale(-1,1)" />
+    <g
+       style="fill:#ffffff;fill-opacity:1;display:inline"
+       id="g10642"
+       transform="translate(-317.92917,-190.94213)"
+       inkscape:export-filename="/home/hbons/Moblin/mwb/play-hover.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+         id="rect10644"
+         width="2"
+         height="15.969668"
+         x="-447.00662"
+         y="-366.09003"
+         rx="1"
+         ry="1"
+         transform="scale(-1,-1)" />
+      <path
+         sodipodi:nodetypes="cccsccc"
+         id="path10646"
+         d="M -67.110124,-574.52498 C -66.556124,-574.52498 -66.110124,-574.07898 -66.110124,-573.52498 L -66.094714,-563.65518 C -66.094714,-563.10118 -66.540714,-562.65518 -67.094714,-562.65518 C -67.648714,-562.65518 -68.094714,-563.10118 -68.094714,-563.65518 L -68.110124,-573.52498 C -68.110124,-574.07898 -67.664124,-574.52498 -67.110124,-574.52498 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+         transform="matrix(-0.7071068,0.7071068,-0.7071068,-0.7071068,0,0)" />
+      <path
+         sodipodi:nodetypes="cccsccc"
+         id="path10648"
+         d="M -573.52588,-68.112358 C -572.97188,-68.112358 -572.52588,-67.666358 -572.52588,-67.112358 L -572.53188,-57.217954 C -572.53188,-56.663954 -572.97788,-56.217954 -573.53188,-56.217954 C -574.08588,-56.217954 -574.53188,-56.663954 -574.53188,-57.217954 L -574.52588,-67.112358 C -574.52588,-67.666358 -574.07988,-68.112358 -573.52588,-68.112358 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+         transform="matrix(-0.7071068,-0.7071068,-0.7071068,0.7071068,0,0)" />
+      <path
+         sodipodi:nodetypes="cccc"
+         id="path10650"
+         d="M 445.94759,351.38849 L 452.55492,358.22961 L 446.08173,364.56099 L 445.94759,351.38849 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       transform="translate(-317.92917,-161.94213)"
+       id="g10671"
+       style="display:inline"
+       inkscape:export-filename="/home/hbons/Moblin/mwb/play.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         transform="scale(-1,-1)"
+         ry="1"
+         rx="1"
+         y="-366.09003"
+         x="-447.00662"
+         height="15.969668"
+         width="2"
+         id="rect10673"
+         style="fill:#a0da00;fill-opacity:1;stroke:none;display:inline" />
+      <path
+         transform="matrix(-0.7071068,0.7071068,-0.7071068,-0.7071068,0,0)"
+         style="fill:#a0da00;fill-opacity:1;stroke:none;display:inline"
+         d="M -67.110124,-574.52498 C -66.556124,-574.52498 -66.110124,-574.07898 -66.110124,-573.52498 L -66.094714,-563.65518 C -66.094714,-563.10118 -66.540714,-562.65518 -67.094714,-562.65518 C -67.648714,-562.65518 -68.094714,-563.10118 -68.094714,-563.65518 L -68.110124,-573.52498 C -68.110124,-574.07898 -67.664124,-574.52498 -67.110124,-574.52498 z"
+         id="path10675"
+         sodipodi:nodetypes="cccsccc" />
+      <path
+         transform="matrix(-0.7071068,-0.7071068,-0.7071068,0.7071068,0,0)"
+         style="fill:#a0da00;fill-opacity:1;stroke:none;display:inline"
+         d="M -573.52588,-68.112358 C -572.97188,-68.112358 -572.52588,-67.666358 -572.52588,-67.112358 L -572.53188,-57.217954 C -572.53188,-56.663954 -572.97788,-56.217954 -573.53188,-56.217954 C -574.08588,-56.217954 -574.53188,-56.663954 -574.53188,-57.217954 L -574.52588,-67.112358 C -574.52588,-67.666358 -574.07988,-68.112358 -573.52588,-68.112358 z"
+         id="path10677"
+         sodipodi:nodetypes="cccsccc" />
+      <path
+         style="fill:#a0da00;fill-opacity:1;stroke:none"
+         d="M 445.94759,351.38849 L 452.55492,358.22961 L 446.08173,364.56099 L 445.94759,351.38849 z"
+         id="path10679"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       style="display:inline"
+       id="g10599"
+       inkscape:export-filename="/home/hbons/Moblin/mwb/settings-hover.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(933.07143,110.05787)">
+      <rect
+         style="opacity:1;fill:#202e31;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect10392"
+         width="57"
+         height="51"
+         x="-650"
+         y="97.090027" />
+      <rect
+         y="110.59003"
+         x="-633.5"
+         height="24"
+         width="24"
+         id="rect10394"
+         style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+      <rect
+         ry="2.9375"
+         rx="2.9375"
+         y="97.090027"
+         x="-650"
+         height="51"
+         width="57"
+         id="rect10454"
+         style="opacity:1;fill:#434343;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         transform="translate(-1869.6982,-389.92254)"
+         id="g10396"
+         style="display:inline">
+        <path
+           sodipodi:type="arc"
+           style="fill:none;stroke:#ffffff;stroke-width:17.23572922;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+           id="path10398"
+           sodipodi:cx="-25.809397"
+           sodipodi:cy="179.43886"
+           sodipodi:rx="22.98097"
+           sodipodi:ry="22.98097"
+           d="M -2.8284264,179.43886 A 22.98097,22.98097 0 1 1 -48.790367,179.43886 A 22.98097,22.98097 0 1 1 -2.8284264,179.43886 z"
+           transform="matrix(0.174057,0,0,-0.174057,1259.6545,537.72685)" />
+        <path
+           style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+           inkscape:transform-center-x="-0.10441847"
+           inkscape:transform-center-y="0.034916333"
+           d="M 1237.1105,501.45571 C 1237.6981,500.86811 1238.6442,500.86811 1239.2318,501.45571 L 1247.2283,509.43111 C 1247.8159,510.01871 1247.8159,510.96482 1247.2283,511.55243 C 1246.6407,512.14003 1245.6946,512.14003 1245.107,511.55243 L 1237.1105,503.57703 C 1236.5229,502.98943 1236.5229,502.04332 1237.1105,501.45571 z"
+           id="path10400"
+           sodipodi:nodetypes="cccsccc" />
+        <path
+           transform="matrix(0.174057,0,0,-0.174057,1246.705,550.74516)"
+           d="M -2.8284264,179.43886 A 22.98097,22.98097 0 1 1 -48.790367,179.43886 A 22.98097,22.98097 0 1 1 -2.8284264,179.43886 z"
+           sodipodi:ry="22.98097"
+           sodipodi:rx="22.98097"
+           sodipodi:cy="179.43886"
+           sodipodi:cx="-25.809397"
+           id="path10402"
+           style="fill:none;stroke:#ffffff;stroke-width:17.23572922;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+           sodipodi:type="arc" />
+        <path
+           sodipodi:nodetypes="cccsccc"
+           id="path10404"
+           d="M 1247.2283,501.45571 C 1246.6407,500.86811 1245.6946,500.86811 1245.107,501.45571 L 1237.1105,509.43111 C 1236.5229,510.01871 1236.5229,510.96482 1237.1105,511.55243 C 1237.6981,512.14003 1238.6442,512.14003 1239.2318,511.55243 L 1247.2283,503.57703 C 1247.8159,502.98943 1247.8159,502.04332 1247.2283,501.45571 z"
+           inkscape:transform-center-y="0.034916333"
+           inkscape:transform-center-x="0.10441872"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+        <path
+           sodipodi:nodetypes="cccsccc"
+           id="path10406"
+           d="M 1250.1296,519.31341 C 1250.7172,518.7258 1251.6633,518.7258 1252.2509,519.31341 L 1254.347,521.40857 C 1254.9346,521.99618 1254.9346,522.94229 1254.347,523.52989 C 1253.7594,524.1175 1252.8133,524.1175 1252.2257,523.52989 L 1250.1296,521.43473 C 1249.542,520.84712 1249.542,519.90101 1250.1296,519.31341 z"
+           inkscape:transform-center-y="0.034916333"
+           inkscape:transform-center-x="-0.10441847"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+        <path
+           style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+           inkscape:transform-center-x="0.10441872"
+           inkscape:transform-center-y="0.034916333"
+           d="M 1260.2575,515.52264 C 1259.6699,514.93504 1258.7238,514.93504 1258.1362,515.52264 L 1252.2835,521.43864 C 1251.6959,522.02624 1251.6959,522.97235 1252.2835,523.55996 C 1252.8711,524.14756 1253.8172,524.14756 1254.4048,523.55996 L 1260.2575,517.64397 C 1260.8451,517.05636 1260.8451,516.11025 1260.2575,515.52264 z"
+           id="path10408"
+           sodipodi:nodetypes="cccsccc" />
+      </g>
+    </g>
+    <g
+       style="display:inline"
+       id="g10631"
+       inkscape:export-filename="/home/hbons/Moblin/mwb/settings.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(933.07143,164.05787)">
+      <rect
+         y="205.09003"
+         x="-650"
+         height="51"
+         width="57"
+         id="rect10436"
+         style="opacity:0;fill:#202e31;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+         id="rect10438"
+         width="24"
+         height="24"
+         x="-633.5"
+         y="218.59003" />
+      <g
+         style="display:inline"
+         id="g10440"
+         transform="translate(-1869.6982,-281.92254)">
+        <path
+           transform="matrix(0.174057,0,0,-0.174057,1259.6545,537.72685)"
+           d="M -2.8284264,179.43886 A 22.98097,22.98097 0 1 1 -48.790367,179.43886 A 22.98097,22.98097 0 1 1 -2.8284264,179.43886 z"
+           sodipodi:ry="22.98097"
+           sodipodi:rx="22.98097"
+           sodipodi:cy="179.43886"
+           sodipodi:cx="-25.809397"
+           id="path10442"
+           style="fill:none;stroke:#bebebe;stroke-width:17.23572922;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+           sodipodi:type="arc" />
+        <path
+           sodipodi:nodetypes="cccsccc"
+           id="path10444"
+           d="M 1237.1105,501.45571 C 1237.6981,500.86811 1238.6442,500.86811 1239.2318,501.45571 L 1247.2283,509.43111 C 1247.8159,510.01871 1247.8159,510.96482 1247.2283,511.55243 C 1246.6407,512.14003 1245.6946,512.14003 1245.107,511.55243 L 1237.1105,503.57703 C 1236.5229,502.98943 1236.5229,502.04332 1237.1105,501.45571 z"
+           inkscape:transform-center-y="0.034916333"
+           inkscape:transform-center-x="-0.10441847"
+           style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
+        <path
+           sodipodi:type="arc"
+           style="fill:none;stroke:#bebebe;stroke-width:17.23572922;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+           id="path10446"
+           sodipodi:cx="-25.809397"
+           sodipodi:cy="179.43886"
+           sodipodi:rx="22.98097"
+           sodipodi:ry="22.98097"
+           d="M -2.8284264,179.43886 A 22.98097,22.98097 0 1 1 -48.790367,179.43886 A 22.98097,22.98097 0 1 1 -2.8284264,179.43886 z"
+           transform="matrix(0.174057,0,0,-0.174057,1246.705,550.74516)" />
+        <path
+           style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline"
+           inkscape:transform-center-x="0.10441872"
+           inkscape:transform-center-y="0.034916333"
+           d="M 1247.2283,501.45571 C 1246.6407,500.86811 1245.6946,500.86811 1245.107,501.45571 L 1237.1105,509.43111 C 1236.5229,510.01871 1236.5229,510.96482 1237.1105,511.55243 C 1237.6981,512.14003 1238.6442,512.14003 1239.2318,511.55243 L 1247.2283,503.57703 C 1247.8159,502.98943 1247.8159,502.04332 1247.2283,501.45571 z"
+           id="path10448"
+           sodipodi:nodetypes="cccsccc" />
+        <path
+           style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline"
+           inkscape:transform-center-x="-0.10441847"
+           inkscape:transform-center-y="0.034916333"
+           d="M 1250.1296,519.31341 C 1250.7172,518.7258 1251.6633,518.7258 1252.2509,519.31341 L 1254.347,521.40857 C 1254.9346,521.99618 1254.9346,522.94229 1254.347,523.52989 C 1253.7594,524.1175 1252.8133,524.1175 1252.2257,523.52989 L 1250.1296,521.43473 C 1249.542,520.84712 1249.542,519.90101 1250.1296,519.31341 z"
+           id="path10450"
+           sodipodi:nodetypes="cccsccc" />
+        <path
+           sodipodi:nodetypes="cccsccc"
+           id="path10452"
+           d="M 1260.2575,515.52264 C 1259.6699,514.93504 1258.7238,514.93504 1258.1362,515.52264 L 1252.2835,521.43864 C 1251.6959,522.02624 1251.6959,522.97235 1252.2835,523.55996 C 1252.8711,524.14756 1253.8172,524.14756 1254.4048,523.55996 L 1260.2575,517.64397 C 1260.8451,517.05636 1260.8451,516.11025 1260.2575,515.52264 z"
+           inkscape:transform-center-y="0.034916333"
+           inkscape:transform-center-x="0.10441872"
+           style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
+      </g>
+    </g>
+    <g
+       style="display:inline"
+       id="g10592"
+       inkscape:export-filename="/home/hbons/Moblin/mwb/close-hover.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(933.07143,110.05787)">
+      <rect
+         y="97.090027"
+         x="-709"
+         height="51"
+         width="57"
+         id="rect10473"
+         style="opacity:1;fill:#202e31;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:#434343;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect10477"
+         width="57"
+         height="51"
+         x="-709"
+         y="97.090027"
+         rx="2.9375"
+         ry="2.9375" />
+      <g
+         transform="translate(2.001707,0.998291)"
+         id="g10550">
+        <path
+           transform="matrix(0.7071068,-0.7071068,0.7071068,0.7071068,0,0)"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;display:inline"
+           d="M -578.47987,-398.12323 L -558.67993,-398.12323 C -557.84893,-398.12323 -557.17993,-397.45423 -557.17993,-396.62323 C -557.17993,-395.79223 -557.84893,-395.12323 -558.67993,-395.12323 L -578.47987,-395.12323 C -579.31087,-395.12323 -579.97987,-395.79223 -579.97987,-396.62323 C -579.97987,-397.45423 -579.31087,-398.12323 -578.47987,-398.12323 z"
+           id="rect10544"
+           sodipodi:nodetypes="ccsccsc" />
+        <path
+           sodipodi:nodetypes="ccsccsc"
+           id="path10548"
+           d="M -674.4407,127.53141 L -688.44137,113.53073 C -689.02898,112.94313 -689.97509,112.94313 -690.56269,113.53073 C -691.1503,114.11834 -691.1503,115.06445 -690.56269,115.65205 L -676.56202,129.65273 C -675.97441,130.24033 -675.02831,130.24033 -674.4407,129.65273 C -673.85309,129.06512 -673.85309,128.11901 -674.4407,127.53141 z"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;display:inline" />
+      </g>
+    </g>
+    <g
+       style="display:inline"
+       id="g10625"
+       inkscape:export-filename="/home/hbons/Moblin/mwb/close.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(933.07143,164.05787)">
+      <rect
+         style="opacity:0;fill:#202e31;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect10493"
+         width="57"
+         height="51"
+         x="-709"
+         y="205.09003" />
+      <g
+         id="g10554"
+         transform="translate(2.0017053,108.9983)"
+         style="fill:#bebebe;fill-opacity:1;display:inline">
+        <path
+           sodipodi:nodetypes="ccsccsc"
+           id="path10556"
+           d="M -578.47987,-398.12323 L -558.67993,-398.12323 C -557.84893,-398.12323 -557.17993,-397.45423 -557.17993,-396.62323 C -557.17993,-395.79223 -557.84893,-395.12323 -558.67993,-395.12323 L -578.47987,-395.12323 C -579.31087,-395.12323 -579.97987,-395.79223 -579.97987,-396.62323 C -579.97987,-397.45423 -579.31087,-398.12323 -578.47987,-398.12323 z"
+           style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;display:inline"
+           transform="matrix(0.7071068,-0.7071068,0.7071068,0.7071068,0,0)" />
+        <path
+           style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;display:inline"
+           d="M -674.4407,127.53141 L -688.44137,113.53073 C -689.02898,112.94313 -689.97509,112.94313 -690.56269,113.53073 C -691.1503,114.11834 -691.1503,115.06445 -690.56269,115.65205 L -676.56202,129.65273 C -675.97441,130.24033 -675.02831,130.24033 -674.4407,129.65273 C -673.85309,129.06512 -673.85309,128.11901 -674.4407,127.53141 z"
+           id="path10558"
+           sodipodi:nodetypes="ccsccsc" />
+      </g>
+    </g>
+    <g
+       style="display:inline"
+       id="g10576"
+       inkscape:export-filename="/home/hbons/Moblin/mwb/go-back-hover.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(933.07143,110.05787)">
+      <rect
+         transform="scale(-1,1)"
+         style="opacity:1;fill:#202e31;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect10563"
+         width="57"
+         height="51"
+         x="652"
+         y="44.090027" />
+      <rect
+         transform="scale(-1,1)"
+         ry="2.9375"
+         rx="2.9375"
+         y="44.090027"
+         x="652"
+         height="51"
+         width="57"
+         id="rect10565"
+         style="opacity:1;fill:#434343;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         transform="matrix(-1,0,0,1,-278.1087,-853.85182)"
+         id="g10567"
+         style="fill:#a0da00;fill-opacity:1;display:inline">
+        <path
+           sodipodi:nodetypes="cccsccc"
+           id="path10569"
+           d="M 396.332,913.38256 C 396.91961,912.79496 397.86572,912.79496 398.45332,913.38256 L 407.76815,922.69739 C 408.35575,923.28499 408.35575,924.2311 407.76815,924.81871 C 407.18054,925.40631 406.23443,925.40631 405.64683,924.81871 L 396.332,915.50388 C 395.7444,914.91628 395.7444,913.97017 396.332,913.38256 z"
+           style="fill:#c0ff0f;fill-opacity:1;stroke:none;display:inline" />
+        <path
+           sodipodi:nodetypes="cccsccc"
+           id="path10571"
+           d="M 396.332,934.13626 C 396.91961,934.72387 397.86572,934.72387 398.45332,934.13626 L 407.76815,924.82144 C 408.35575,924.23383 408.35575,923.28772 407.76815,922.70012 C 407.18054,922.11251 406.23443,922.11251 405.64683,922.70012 L 396.332,932.01494 C 395.7444,932.60255 395.7444,933.54866 396.332,934.13626 z"
+           style="fill:#c0ff0f;fill-opacity:1;stroke:none;display:inline" />
+      </g>
+    </g>
+  </g>
+</svg>
