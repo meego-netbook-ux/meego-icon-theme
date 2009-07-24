@@ -30,11 +30,11 @@
      objecttolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="600.92603"
-     inkscape:cy="-2.2973287"
+     inkscape:zoom="1"
+     inkscape:cx="661.0484"
+     inkscape:cy="-256.41385"
      inkscape:document-units="px"
-     inkscape:current-layer="layer19"
+     inkscape:current-layer="system-shutdown"
      showgrid="false"
      inkscape:window-width="1251"
      inkscape:window-height="1029"
@@ -34738,26 +34738,36 @@
          transform="scale(-1,1)" />
       <path
          sodipodi:type="arc"
-         style="fill:none;stroke:#bebebe;stroke-width:2.39207768;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         style="fill:none;stroke:#bebebe;stroke-width:3.35506272;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
          id="path9487"
          sodipodi:cx="10.196985"
          sodipodi:cy="12.357385"
          sodipodi:rx="8.3902435"
          sodipodi:ry="8.3902435"
-         d="M 5.0143304,18.955587 A 8.3902435,8.3902435 0 1 1 15.432637,18.913614"
-         transform="matrix(-0.8368825,1.363036e-8,-1.3656101e-8,-0.8353051,521.55462,963.49931)"
-         sodipodi:start="2.2366112"
-         sodipodi:end="7.1801092"
-         sodipodi:open="true" />
+         d="M 3.529191,17.450194 A 8.3902435,8.3902435 0 1 1 16.836995,17.486366"
+         transform="matrix(-0.598487,0,0,-0.5937508,519.12371,960.44602)"
+         sodipodi:open="true"
+         sodipodi:start="2.4893228"
+         sodipodi:end="6.9408914" />
       <rect
          style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline"
          id="rect10270"
          width="2"
-         height="8"
+         height="5"
          x="512"
-         y="944.09003"
+         y="947.09003"
          rx="1"
-         ry="0.99999988" />
+         ry="0.99999982" />
+      <path
+         transform="matrix(-1.1918603,0,0,-1.1918606,525.15338,967.81831)"
+         d="M 18.587229,12.357385 A 8.3902435,8.3902435 0 1 1 1.8067417,12.357385 A 8.3902435,8.3902435 0 1 1 18.587229,12.357385 z"
+         sodipodi:ry="8.3902435"
+         sodipodi:rx="8.3902435"
+         sodipodi:cy="12.357385"
+         sodipodi:cx="10.196985"
+         id="path9667"
+         style="fill:none;stroke:#bebebe;stroke-width:1.67804921;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+         sodipodi:type="arc" />
     </g>
     <g
        inkscape:groupmode="layer"
