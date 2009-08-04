@@ -31,16 +31,16 @@
      objecttolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="515.92648"
-     inkscape:cy="2.1495238"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="539.24954"
+     inkscape:cy="-259.89087"
      inkscape:document-units="px"
-     inkscape:current-layer="layer19"
+     inkscape:current-layer="layer8"
      showgrid="false"
      inkscape:window-width="1673"
      inkscape:window-height="1078"
-     inkscape:window-x="1663"
-     inkscape:window-y="10"
+     inkscape:window-x="1646"
+     inkscape:window-y="0"
      inkscape:snap-intersection-line-segments="false"
      inkscape:snap-bbox="true"
      inkscape:snap-nodes="false"
@@ -69,6 +69,18 @@
   </sodipodi:namedview>
   <defs
      id="defs4">
+    <linearGradient
+       id="linearGradient8264"
+       inkscape:collect="always">
+      <stop
+         id="stop8266"
+         offset="0"
+         style="stop-color:#bebebe;stop-opacity:0" />
+      <stop
+         id="stop8268"
+         offset="1"
+         style="stop-color:#bebebe;stop-opacity:1" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient12019">
@@ -285,18 +297,6 @@
        x2="12.249739"
        y2="3.0646222"
        gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       id="linearGradient10367"
-       inkscape:collect="always">
-      <stop
-         id="stop10369"
-         offset="0"
-         style="stop-color:#5ed0f2;stop-opacity:1" />
-      <stop
-         id="stop10371"
-         offset="1"
-         style="stop-color:#009bce;stop-opacity:1" />
-    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient10271">
@@ -1419,15 +1419,6 @@
        y2="819.46875" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient10367"
-       id="linearGradient10241"
-       x1="370.35361"
-       y1="733.88049"
-       x2="370.35361"
-       y2="775.90448"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient10235"
        id="linearGradient10245"
        gradientUnits="userSpaceOnUse"
@@ -1948,6 +1939,66 @@
        x2="477.61771"
        y2="745.07172"
        gradientTransform="translate(0,15.984375)" />
+    <inkscape:perspective
+       id="perspective8176"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective8198"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient11803-7"
+       id="linearGradient11809-3"
+       x1="-25.811529"
+       y1="193.79764"
+       x2="-26.2173"
+       y2="163.84537"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient11803-7">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop11805-4" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop11807-8" />
+    </linearGradient>
+    <linearGradient
+       y2="163.84537"
+       x2="-26.2173"
+       y1="193.79764"
+       x1="-25.811529"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient8207"
+       xlink:href="#linearGradient8264"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8264"
+       id="linearGradient8272"
+       gradientUnits="userSpaceOnUse"
+       x1="-25.811529"
+       y1="193.79764"
+       x2="-26.2173"
+       y2="163.84537" />
+    <inkscape:perspective
+       id="perspective8310"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <metadata
      id="metadata7">
@@ -7491,14 +7542,17 @@
        inkscape:label="anjal-mail-new">
       <path
          sodipodi:type="arc"
-         style="fill:url(#linearGradient10241);fill-opacity:1;stroke:#009bce;stroke-width:3.29175377;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         style="fill:#009bce;fill-opacity:1;stroke:#009bce;stroke-width:3.29175377000000013;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
          id="path10233"
          sodipodi:cx="370.35361"
          sodipodi:cy="747.10162"
          sodipodi:rx="21.396402"
          sodipodi:ry="21.396402"
          d="m 391.75001,747.10162 a 21.396402,21.396402 0 1 1 -42.79281,0 21.396402,21.396402 0 1 1 42.79281,0 z"
-         transform="matrix(0.3037894,0,0,0.3037894,405.49049,761.12843)" />
+         transform="matrix(0.3037894,0,0,0.3037894,405.49049,761.12843)"
+         inkscape:export-filename="/home/jimmac/Desktop/new.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
       <rect
          y="980.09003"
          x="510"
@@ -7506,6 +7560,22 @@
          width="16"
          id="rect10401"
          style="opacity:0;fill:#5ed0f2;fill-opacity:1;stroke:none;display:inline" />
+      <path
+         transform="matrix(0.8189491,0.12713487,-0.12713487,0.8189491,219.51113,113.14857)"
+         sodipodi:type="star"
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path8278"
+         sodipodi:sides="5"
+         sodipodi:cx="517.90625"
+         sodipodi:cy="988.05878"
+         sodipodi:r1="6.102798"
+         sodipodi:r2="3.5487635"
+         sodipodi:arg1="0.78539816"
+         sodipodi:arg2="1.4137167"
+         inkscape:flatsided="false"
+         inkscape:rounded="0.3"
+         inkscape:randomized="0"
+         d="m 522.22158,992.37411 c -0.81596,0.81596 -2.62044,-0.99078 -3.76018,-0.81026 -1.13974,0.18052 -2.29759,2.45644 -3.32576,1.93256 -1.02818,-0.52388 0.13252,-2.79835 -0.39136,-3.82653 -0.52388,-1.02817 -3.04621,-1.42605 -2.86569,-2.56579 0.18051,-1.13974 2.70234,-0.7387 3.51831,-1.55467 0.81596,-0.81596 0.41492,-3.33779 1.55466,-3.51831 1.13974,-0.18051 1.53762,2.34181 2.56579,2.8657 1.02818,0.52388 3.30265,-0.63682 3.82653,0.39135 0.52388,1.02818 -1.75204,2.18603 -1.93256,3.32577 -0.18051,1.13974 1.62622,2.94421 0.81026,3.76018 z" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -7521,14 +7591,14 @@
          style="opacity:0;fill:none;stroke:none;display:inline" />
       <path
          sodipodi:type="arc"
-         style="fill:url(#linearGradient3734);fill-opacity:1;stroke:#d6dbde;stroke-width:0.6922031;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         style="fill:url(#linearGradient3734);fill-opacity:1;stroke:#d6dbde;stroke-width:1.48819411;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
          id="path3630"
          sodipodi:cx="6.5"
          sodipodi:cy="7.5"
          sodipodi:rx="4.5"
          sodipodi:ry="4.5"
          d="m 11,7.5 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z"
-         transform="matrix(1.0213427,1.0213427,1.0217188,-1.0217188,576.74598,989.11035)"
+         transform="matrix(0.95011348,0.95011348,0.95046335,-0.95046335,577.74339,989.03892)"
          inkscape:export-filename="/home/hbons/Desktop/empathy-offline.png"
          inkscape:export-xdpi="90.108963"
          inkscape:export-ydpi="90.108963" />
@@ -7772,21 +7842,21 @@
          style="opacity:0;fill:none;stroke:none;display:inline" />
       <path
          sodipodi:type="arc"
-         style="fill:url(#linearGradient12863);fill-opacity:1;stroke:#e87207;stroke-width:0.69230771;stroke-miterlimit:4;stroke-opacity:0.99914766;stroke-dasharray:none;display:inline"
+         style="fill:url(#linearGradient12863);fill-opacity:1;stroke:#e87207;stroke-width:1.49991548;stroke-miterlimit:4;stroke-opacity:0.99914766;stroke-dasharray:none;display:inline"
          id="path3626"
          sodipodi:cx="6.5"
          sodipodi:cy="7.5"
          sodipodi:rx="4.5"
          sodipodi:ry="4.5"
          d="m 11,7.5 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z"
-         transform="matrix(0,1.4444444,1.4444444,0,544.25461,978.7008)"
+         transform="matrix(0,1.3334085,1.3334085,0,545.08738,979.42253)"
          inkscape:export-filename="/home/hbons/Desktop/empathy-away.png"
          inkscape:export-xdpi="90.108963"
          inkscape:export-ydpi="90.108963" />
       <g
          style="display:inline"
          id="g3716"
-         transform="translate(524.06451,954.08624)">
+         transform="translate(524.06451,955.11337)">
         <path
            transform="matrix(0.7071068,-0.7071068,0.7071068,0.7071068,0,0)"
            style="fill:#ffffff;fill-opacity:1;stroke:none"
@@ -7817,14 +7887,14 @@
          inkscape:export-ydpi="90.108963"
          inkscape:export-xdpi="90.108963"
          inkscape:export-filename="/home/hbons/Desktop/empathy-busy.png"
-         transform="matrix(1.0213427,1.0213427,1.0217188,-1.0217188,558.7368,989.11419)"
+         transform="matrix(0.94867124,0.94867124,0.94902058,-0.94902058,559.7544,989.04132)"
          d="m 11,7.5 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z"
          sodipodi:ry="4.5"
          sodipodi:rx="4.5"
          sodipodi:cy="7.5"
          sodipodi:cx="6.5"
          id="path3628"
-         style="fill:url(#linearGradient3742);fill-opacity:1;stroke:#b00c08;stroke-width:0.6922031;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         style="fill:url(#linearGradient3742);fill-opacity:1;stroke:#b00c08;stroke-width:1.49045658;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
          sodipodi:type="arc" />
       <rect
          style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
@@ -7854,14 +7924,14 @@
          inkscape:export-ydpi="90.108963"
          inkscape:export-xdpi="90.108963"
          inkscape:export-filename="/home/hbons/Desktop/empathy-available.png"
-         transform="matrix(0.7219866,1.2507482,-1.250978,0.7223857,541.68942,974.53952)"
+         transform="matrix(0.66667667,1.1549309,-1.1551431,0.66704519,541.33017,975.57739)"
          d="m 11,7.5 a 4.5,4.5 0 1 1 -9,0 4.5,4.5 0 1 1 9,0 z"
          sodipodi:ry="4.5"
          sodipodi:rx="4.5"
          sodipodi:cy="7.5"
          sodipodi:cx="6.5"
          id="path12832"
-         style="fill:url(#linearGradient3726);fill-opacity:1;stroke:#7dbe0c;stroke-width:0.69234228;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         style="fill:url(#linearGradient3726);fill-opacity:1;stroke:#7dbe0c;stroke-width:1.4995631;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
          sodipodi:type="arc" />
     </g>
     <g
@@ -24682,6 +24752,27 @@
            y="984.26294"
            style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#5a5a5a;fill-opacity:1;font-family:BetecknaLowerCase;-inkscape-font-specification:BetecknaLowerCase Bold" /></flowRegion><flowPara
          id="flowPara6093">Emblems</flowPara></flowRoot>  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer24"
+     inkscape:label="animations">
+    <g
+       inkscape:groupmode="layer"
+       id="layer25"
+       inkscape:label="process-working" />
+    <flowRoot
+       transform="matrix(3.2694204,0,0,3.2694204,57.286837,-1896.0541)"
+       style="display:inline;font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#5a5a5a;fill-opacity:1;stroke:none;font-family:BetecknaLowerCase;-inkscape-font-specification:BetecknaLowerCase Bold"
+       id="flowRoot8137"
+       xml:space="preserve"><flowRegion
+         id="flowRegion8139"><rect
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#5a5a5a;fill-opacity:1;font-family:BetecknaLowerCase;-inkscape-font-specification:BetecknaLowerCase Bold"
+           y="984.26294"
+           x="-186.55164"
+           height="25.610723"
+           width="91.711456"
+           id="rect8141" /></flowRegion><flowPara
+         id="flowPara8143">Animations</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="g1813"
