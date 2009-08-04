@@ -31,16 +31,16 @@
      objecttolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6568542"
-     inkscape:cx="539.24954"
-     inkscape:cy="-259.89087"
+     inkscape:zoom="1"
+     inkscape:cx="-381.77796"
+     inkscape:cy="-665.16727"
      inkscape:document-units="px"
-     inkscape:current-layer="layer8"
+     inkscape:current-layer="layer25"
      showgrid="false"
-     inkscape:window-width="1673"
+     inkscape:window-width="1596"
      inkscape:window-height="1078"
-     inkscape:window-x="1646"
-     inkscape:window-y="0"
+     inkscape:window-x="1794"
+     inkscape:window-y="4"
      inkscape:snap-intersection-line-segments="false"
      inkscape:snap-bbox="true"
      inkscape:snap-nodes="false"
@@ -69,18 +69,6 @@
   </sodipodi:namedview>
   <defs
      id="defs4">
-    <linearGradient
-       id="linearGradient8264"
-       inkscape:collect="always">
-      <stop
-         id="stop8266"
-         offset="0"
-         style="stop-color:#bebebe;stop-opacity:0" />
-      <stop
-         id="stop8268"
-         offset="1"
-         style="stop-color:#bebebe;stop-opacity:1" />
-    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient12019">
@@ -1974,24 +1962,6 @@
          offset="1"
          id="stop11807-8" />
     </linearGradient>
-    <linearGradient
-       y2="163.84537"
-       x2="-26.2173"
-       y1="193.79764"
-       x1="-25.811529"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient8207"
-       xlink:href="#linearGradient8264"
-       inkscape:collect="always" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient8264"
-       id="linearGradient8272"
-       gradientUnits="userSpaceOnUse"
-       x1="-25.811529"
-       y1="193.79764"
-       x2="-26.2173"
-       y2="163.84537" />
     <inkscape:perspective
        id="perspective8310"
        inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
@@ -1999,6 +1969,446 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 0.5 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective8338"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective8718"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8264-7-1"
+       id="linearGradient8435-5"
+       gradientUnits="userSpaceOnUse"
+       x1="-25.811529"
+       y1="193.79764"
+       x2="-26.2173"
+       y2="163.84537" />
+    <linearGradient
+       id="linearGradient8264-7-1"
+       inkscape:collect="always">
+      <stop
+         id="stop8266-4-2"
+         offset="0"
+         style="stop-color:#bebebe;stop-opacity:0" />
+      <stop
+         id="stop8268-9-5"
+         offset="1"
+         style="stop-color:#bebebe;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8264-7-1"
+       id="linearGradient8437-6"
+       gradientUnits="userSpaceOnUse"
+       x1="-25.811529"
+       y1="193.79764"
+       x2="-26.2173"
+       y2="163.84537" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8264-7-1"
+       id="linearGradient9925"
+       gradientUnits="userSpaceOnUse"
+       x1="-25.811529"
+       y1="193.79764"
+       x2="-26.2173"
+       y2="163.84537" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8264-7-1"
+       id="linearGradient9927"
+       gradientUnits="userSpaceOnUse"
+       x1="-25.811529"
+       y1="193.79764"
+       x2="-26.2173"
+       y2="163.84537" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8264-7-1"
+       id="linearGradient9935"
+       gradientUnits="userSpaceOnUse"
+       x1="-25.811529"
+       y1="193.79764"
+       x2="-26.2173"
+       y2="163.84537" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8264-7-1"
+       id="linearGradient9937"
+       gradientUnits="userSpaceOnUse"
+       x1="-25.811529"
+       y1="193.79764"
+       x2="-26.2173"
+       y2="163.84537" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8264-7-1"
+       id="linearGradient9945"
+       gradientUnits="userSpaceOnUse"
+       x1="-25.811529"
+       y1="193.79764"
+       x2="-26.2173"
+       y2="163.84537" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8264-7-1"
+       id="linearGradient9947"
+       gradientUnits="userSpaceOnUse"
+       x1="-25.811529"
+       y1="193.79764"
+       x2="-26.2173"
+       y2="163.84537" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8264-7-1"
+       id="linearGradient9955"
+       gradientUnits="userSpaceOnUse"
+       x1="-25.811529"
+       y1="193.79764"
+       x2="-26.2173"
+       y2="163.84537" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8264-7-1"
+       id="linearGradient9957"
+       gradientUnits="userSpaceOnUse"
+       x1="-25.811529"
+       y1="193.79764"
+       x2="-26.2173"
+       y2="163.84537" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8264-7-1"
+       id="linearGradient9965"
+       gradientUnits="userSpaceOnUse"
+       x1="-25.811529"
+       y1="193.79764"
+       x2="-26.2173"
+       y2="163.84537" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8264-7-1"
+       id="linearGradient9967"
+       gradientUnits="userSpaceOnUse"
+       x1="-25.811529"
+       y1="193.79764"
+       x2="-26.2173"
+       y2="163.84537" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8264-7-1"
+       id="linearGradient9975"
+       gradientUnits="userSpaceOnUse"
+       x1="-25.811529"
+       y1="193.79764"
+       x2="-26.2173"
+       y2="163.84537" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8264-7-1"
+       id="linearGradient9977"
+       gradientUnits="userSpaceOnUse"
+       x1="-25.811529"
+       y1="193.79764"
+       x2="-26.2173"
+       y2="163.84537" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8264-7-1"
+       id="linearGradient9985"
+       gradientUnits="userSpaceOnUse"
+       x1="-25.811529"
+       y1="193.79764"
+       x2="-26.2173"
+       y2="163.84537" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8264-7-1"
+       id="linearGradient9987"
+       gradientUnits="userSpaceOnUse"
+       x1="-25.811529"
+       y1="193.79764"
+       x2="-26.2173"
+       y2="163.84537" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8264-7-1"
+       id="linearGradient9995"
+       gradientUnits="userSpaceOnUse"
+       x1="-25.811529"
+       y1="193.79764"
+       x2="-26.2173"
+       y2="163.84537" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8264-7-1"
+       id="linearGradient9997"
+       gradientUnits="userSpaceOnUse"
+       x1="-25.811529"
+       y1="193.79764"
+       x2="-26.2173"
+       y2="163.84537" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8264-7-1"
+       id="linearGradient10005"
+       gradientUnits="userSpaceOnUse"
+       x1="-25.811529"
+       y1="193.79764"
+       x2="-26.2173"
+       y2="163.84537" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8264-7-1"
+       id="linearGradient10007"
+       gradientUnits="userSpaceOnUse"
+       x1="-25.811529"
+       y1="193.79764"
+       x2="-26.2173"
+       y2="163.84537" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8264-7-1"
+       id="linearGradient10015"
+       gradientUnits="userSpaceOnUse"
+       x1="-25.811529"
+       y1="193.79764"
+       x2="-26.2173"
+       y2="163.84537" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8264-7-1"
+       id="linearGradient10017"
+       gradientUnits="userSpaceOnUse"
+       x1="-25.811529"
+       y1="193.79764"
+       x2="-26.2173"
+       y2="163.84537" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8264-7-1"
+       id="linearGradient10025"
+       gradientUnits="userSpaceOnUse"
+       x1="-25.811529"
+       y1="193.79764"
+       x2="-26.2173"
+       y2="163.84537" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8264-7-1"
+       id="linearGradient10027"
+       gradientUnits="userSpaceOnUse"
+       x1="-25.811529"
+       y1="193.79764"
+       x2="-26.2173"
+       y2="163.84537" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8264-7-1"
+       id="linearGradient10035"
+       gradientUnits="userSpaceOnUse"
+       x1="-25.811529"
+       y1="193.79764"
+       x2="-26.2173"
+       y2="163.84537" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8264-7-1"
+       id="linearGradient10037"
+       gradientUnits="userSpaceOnUse"
+       x1="-25.811529"
+       y1="193.79764"
+       x2="-26.2173"
+       y2="163.84537" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8264-7-1"
+       id="linearGradient10045"
+       gradientUnits="userSpaceOnUse"
+       x1="-25.811529"
+       y1="193.79764"
+       x2="-26.2173"
+       y2="163.84537" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8264-7-1"
+       id="linearGradient10047"
+       gradientUnits="userSpaceOnUse"
+       x1="-25.811529"
+       y1="193.79764"
+       x2="-26.2173"
+       y2="163.84537" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8264-7-1"
+       id="linearGradient10055"
+       gradientUnits="userSpaceOnUse"
+       x1="-25.811529"
+       y1="193.79764"
+       x2="-26.2173"
+       y2="163.84537" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8264-7-1"
+       id="linearGradient10057"
+       gradientUnits="userSpaceOnUse"
+       x1="-25.811529"
+       y1="193.79764"
+       x2="-26.2173"
+       y2="163.84537" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8264-7-1"
+       id="linearGradient10065"
+       gradientUnits="userSpaceOnUse"
+       x1="-25.811529"
+       y1="193.79764"
+       x2="-26.2173"
+       y2="163.84537" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8264-7-1"
+       id="linearGradient10067"
+       gradientUnits="userSpaceOnUse"
+       x1="-25.811529"
+       y1="193.79764"
+       x2="-26.2173"
+       y2="163.84537" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8264-7-1"
+       id="linearGradient10075"
+       gradientUnits="userSpaceOnUse"
+       x1="-25.811529"
+       y1="193.79764"
+       x2="-26.2173"
+       y2="163.84537" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8264-7-1"
+       id="linearGradient10077"
+       gradientUnits="userSpaceOnUse"
+       x1="-25.811529"
+       y1="193.79764"
+       x2="-26.2173"
+       y2="163.84537" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8264-7-1"
+       id="linearGradient10085"
+       gradientUnits="userSpaceOnUse"
+       x1="-25.811529"
+       y1="193.79764"
+       x2="-26.2173"
+       y2="163.84537" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8264-7-1"
+       id="linearGradient10087"
+       gradientUnits="userSpaceOnUse"
+       x1="-25.811529"
+       y1="193.79764"
+       x2="-26.2173"
+       y2="163.84537" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8264-7-1"
+       id="linearGradient10095"
+       gradientUnits="userSpaceOnUse"
+       x1="-25.811529"
+       y1="193.79764"
+       x2="-26.2173"
+       y2="163.84537" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8264-7-1"
+       id="linearGradient10097"
+       gradientUnits="userSpaceOnUse"
+       x1="-25.811529"
+       y1="193.79764"
+       x2="-26.2173"
+       y2="163.84537" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8264-7-1"
+       id="linearGradient10105"
+       gradientUnits="userSpaceOnUse"
+       x1="-25.811529"
+       y1="193.79764"
+       x2="-26.2173"
+       y2="163.84537" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8264-7-1"
+       id="linearGradient10107"
+       gradientUnits="userSpaceOnUse"
+       x1="-25.811529"
+       y1="193.79764"
+       x2="-26.2173"
+       y2="163.84537" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8264-7-1"
+       id="linearGradient10115"
+       gradientUnits="userSpaceOnUse"
+       x1="-25.811529"
+       y1="193.79764"
+       x2="-26.2173"
+       y2="163.84537" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8264-7-1"
+       id="linearGradient10117"
+       gradientUnits="userSpaceOnUse"
+       x1="-25.811529"
+       y1="193.79764"
+       x2="-26.2173"
+       y2="163.84537" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8264-7-1"
+       id="linearGradient10125"
+       gradientUnits="userSpaceOnUse"
+       x1="-25.811529"
+       y1="193.79764"
+       x2="-26.2173"
+       y2="163.84537" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8264-7-1"
+       id="linearGradient10127"
+       gradientUnits="userSpaceOnUse"
+       x1="-25.811529"
+       y1="193.79764"
+       x2="-26.2173"
+       y2="163.84537" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8264-7-1"
+       id="linearGradient10135"
+       gradientUnits="userSpaceOnUse"
+       x1="-25.811529"
+       y1="193.79764"
+       x2="-26.2173"
+       y2="163.84537" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8264-7-1"
+       id="linearGradient10137"
+       gradientUnits="userSpaceOnUse"
+       x1="-25.811529"
+       y1="193.79764"
+       x2="-26.2173"
+       y2="163.84537" />
   </defs>
   <metadata
      id="metadata7">
@@ -2008,7 +2418,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -24759,7 +25169,1105 @@
     <g
        inkscape:groupmode="layer"
        id="layer25"
-       inkscape:label="process-working" />
+       inkscape:label="process-working">
+      <g
+         id="g7385"
+         inkscape:export-filename="/home/jimmac/src/cvs/moblin/moblin-icon-theme/moblin/48x48/animations/process-working.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <rect
+           inkscape:label="still"
+           style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+           id="still"
+           width="48"
+           height="48"
+           x="-550"
+           y="1374.0901"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <rect
+           inkscape:label="#rect8209"
+           y="1374.0901"
+           x="-502"
+           height="48"
+           width="48"
+           id="frame-01"
+           style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+           inkscape:export-filename="/home/jimmac/src/cvs/moblin/moblin-icon-theme/process-still.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <rect
+           inkscape:label="#rect8211"
+           y="1422.0901"
+           x="-550"
+           height="48"
+           width="48"
+           id="frame-08"
+           style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+           inkscape:export-filename="/home/jimmac/src/cvs/moblin/moblin-icon-theme/process-still.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <rect
+           inkscape:label="#rect8213"
+           style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+           id="frame-09"
+           width="48"
+           height="48"
+           x="-502"
+           y="1422.0901"
+           inkscape:export-filename="/home/jimmac/src/cvs/moblin/moblin-icon-theme/process-still.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <rect
+           inkscape:label="#rect8215"
+           y="1374.0901"
+           x="-454"
+           height="48"
+           width="48"
+           id="frame-02"
+           style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+           inkscape:export-filename="/home/jimmac/src/cvs/moblin/moblin-icon-theme/process-still.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <rect
+           inkscape:label="#rect8217"
+           style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+           id="frame-03"
+           width="48"
+           height="48"
+           x="-406"
+           y="1374.0901"
+           inkscape:export-filename="/home/jimmac/src/cvs/moblin/moblin-icon-theme/process-still.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <rect
+           inkscape:label="#rect8219"
+           style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+           id="frame-10"
+           width="48"
+           height="48"
+           x="-454"
+           y="1422.0901"
+           inkscape:export-filename="/home/jimmac/src/cvs/moblin/moblin-icon-theme/process-still.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <rect
+           inkscape:label="#rect8222"
+           y="1422.0901"
+           x="-406"
+           height="48"
+           width="48"
+           id="frame-11"
+           style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+           inkscape:export-filename="/home/jimmac/src/cvs/moblin/moblin-icon-theme/process-still.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <rect
+           inkscape:label="#rect8224"
+           y="1470.0901"
+           x="-550"
+           height="48"
+           width="48"
+           id="frame-16"
+           style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+           inkscape:export-filename="/home/jimmac/src/cvs/moblin/moblin-icon-theme/process-still.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <rect
+           inkscape:label="#rect8226"
+           style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+           id="frame-17"
+           width="48"
+           height="48"
+           x="-502"
+           y="1470.0901"
+           inkscape:export-filename="/home/jimmac/src/cvs/moblin/moblin-icon-theme/process-still.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <rect
+           inkscape:label="#rect8232"
+           style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+           id="frame-18"
+           width="48"
+           height="48"
+           x="-454"
+           y="1470.0901"
+           inkscape:export-filename="/home/jimmac/src/cvs/moblin/moblin-icon-theme/process-still.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <rect
+           inkscape:label="#rect8234"
+           y="1470.0901"
+           x="-406"
+           height="48"
+           width="48"
+           id="frame-19"
+           style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+           inkscape:export-filename="/home/jimmac/src/cvs/moblin/moblin-icon-theme/process-still.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <g
+           transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,-1128.7928,71.947589)"
+           id="g8431">
+          <path
+             transform="matrix(0.44779088,0.44764894,0.44779088,-0.44764894,-546.35763,1490.4099)"
+             d="m -25.809396,202.41983 c -12.69204,0 -22.980971,-10.28893 -22.980971,-22.98097 0,-12.69204 10.28893,-22.98097 22.98097,-22.98097 0,0 0,0 1e-6,0"
+             sodipodi:ry="22.98097"
+             sodipodi:rx="22.98097"
+             sodipodi:cy="179.43886"
+             sodipodi:cx="-25.809397"
+             id="path10957-3"
+             style="fill:none;stroke:url(#linearGradient8435-5);stroke-width:9.47610474;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+             sodipodi:type="arc"
+             sodipodi:start="1.5707963"
+             sodipodi:end="4.712389"
+             sodipodi:open="true"
+             inkscape:export-filename="/home/hbons/Moblin/git/carrick-ng/data/icons/network-connecting.png"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90" />
+          <path
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             inkscape:export-filename="/home/hbons/Moblin/git/carrick-ng/data/icons/network-connecting.png"
+             sodipodi:open="true"
+             sodipodi:end="4.712389"
+             sodipodi:start="1.5707963"
+             sodipodi:type="arc"
+             style="fill:none;stroke:url(#linearGradient8437-6);stroke-width:9.47610474;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+             id="path8270"
+             sodipodi:cx="-25.809397"
+             sodipodi:cy="179.43886"
+             sodipodi:rx="22.98097"
+             sodipodi:ry="22.98097"
+             d="m -25.809396,202.41983 c -12.69204,0 -22.980971,-10.28893 -22.980971,-22.98097 0,-12.69204 10.28893,-22.98097 22.98097,-22.98097 0,0 0,0 1e-6,0"
+             transform="matrix(-0.44779088,-0.44764894,-0.44779088,0.44764894,-408.73834,1306.6845)" />
+        </g>
+        <rect
+           y="1374.0901"
+           x="-358"
+           height="48"
+           width="48"
+           id="frame-04"
+           style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+           inkscape:label="#rect13080-7-1"
+           inkscape:export-filename="/home/jimmac/src/cvs/moblin/moblin-icon-theme/process-still.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <rect
+           style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+           id="frame-05"
+           width="48"
+           height="48"
+           x="-310"
+           y="1374.0901"
+           inkscape:label="#rect8209"
+           inkscape:export-filename="/home/jimmac/src/cvs/moblin/moblin-icon-theme/process-still.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <rect
+           style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+           id="frame-12"
+           width="48"
+           height="48"
+           x="-358"
+           y="1422.0901"
+           inkscape:label="#rect8211"
+           inkscape:export-filename="/home/jimmac/src/cvs/moblin/moblin-icon-theme/process-still.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <rect
+           y="1422.0901"
+           x="-310"
+           height="48"
+           width="48"
+           id="frame-13"
+           style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+           inkscape:label="#rect8213"
+           inkscape:export-filename="/home/jimmac/src/cvs/moblin/moblin-icon-theme/process-still.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <rect
+           style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+           id="frame-06"
+           width="48"
+           height="48"
+           x="-262"
+           y="1374.0901"
+           inkscape:label="#rect8215"
+           inkscape:export-filename="/home/jimmac/src/cvs/moblin/moblin-icon-theme/process-still.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <rect
+           y="1374.0901"
+           x="-214"
+           height="48"
+           width="48"
+           id="frame-07"
+           style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+           inkscape:label="#rect8217"
+           inkscape:export-filename="/home/jimmac/src/cvs/moblin/moblin-icon-theme/process-still.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <rect
+           y="1422.0901"
+           x="-262"
+           height="48"
+           width="48"
+           id="frame-14"
+           style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+           inkscape:label="#rect8219"
+           inkscape:export-filename="/home/jimmac/src/cvs/moblin/moblin-icon-theme/process-still.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <rect
+           style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+           id="frame-15"
+           width="48"
+           height="48"
+           x="-214"
+           y="1422.0901"
+           inkscape:label="#rect8222"
+           inkscape:export-filename="/home/jimmac/src/cvs/moblin/moblin-icon-theme/process-still.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <rect
+           style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+           id="frame-20"
+           width="48"
+           height="48"
+           x="-358"
+           y="1470.0901"
+           inkscape:label="#rect8224"
+           inkscape:export-filename="/home/jimmac/src/cvs/moblin/moblin-icon-theme/process-still.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <rect
+           y="1470.0901"
+           x="-310"
+           height="48"
+           width="48"
+           id="frame-21"
+           style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+           inkscape:label="#rect8226"
+           inkscape:export-filename="/home/jimmac/src/cvs/moblin/moblin-icon-theme/process-still.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <rect
+           y="1470.0901"
+           x="-262"
+           height="48"
+           width="48"
+           id="frame-22"
+           style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+           inkscape:label="#rect8232"
+           inkscape:export-filename="/home/jimmac/src/cvs/moblin/moblin-icon-theme/process-still.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <rect
+           style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+           id="frame-23"
+           width="48"
+           height="48"
+           x="-214"
+           y="1470.0901"
+           inkscape:label="#rect8234"
+           inkscape:export-filename="/home/jimmac/src/cvs/moblin/moblin-icon-theme/process-still.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <g
+           id="g9919"
+           transform="matrix(0.5,-0.8660254,0.8660254,0.5,-1401.9514,285.70493)">
+          <path
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             inkscape:export-filename="/home/hbons/Moblin/git/carrick-ng/data/icons/network-connecting.png"
+             sodipodi:open="true"
+             sodipodi:end="4.712389"
+             sodipodi:start="1.5707963"
+             sodipodi:type="arc"
+             style="fill:none;stroke:url(#linearGradient9925);stroke-width:9.47610474;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+             id="path9921"
+             sodipodi:cx="-25.809397"
+             sodipodi:cy="179.43886"
+             sodipodi:rx="22.98097"
+             sodipodi:ry="22.98097"
+             d="m -25.809396,202.41983 c -12.69204,0 -22.980971,-10.28893 -22.980971,-22.98097 0,-12.69204 10.28893,-22.98097 22.98097,-22.98097 0,0 0,0 1e-6,0"
+             transform="matrix(0.44779088,0.44764894,0.44779088,-0.44764894,-546.35763,1490.4099)" />
+          <path
+             transform="matrix(-0.44779088,-0.44764894,-0.44779088,0.44764894,-408.73834,1306.6845)"
+             d="m -25.809396,202.41983 c -12.69204,0 -22.980971,-10.28893 -22.980971,-22.98097 0,-12.69204 10.28893,-22.98097 22.98097,-22.98097 0,0 0,0 1e-6,0"
+             sodipodi:ry="22.98097"
+             sodipodi:rx="22.98097"
+             sodipodi:cy="179.43886"
+             sodipodi:cx="-25.809397"
+             id="path9923"
+             style="fill:none;stroke:url(#linearGradient9927);stroke-width:9.47610474;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+             sodipodi:type="arc"
+             sodipodi:start="1.5707963"
+             sodipodi:end="4.712389"
+             sodipodi:open="true"
+             inkscape:export-filename="/home/hbons/Moblin/git/carrick-ng/data/icons/network-connecting.png"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90" />
+        </g>
+        <g
+           transform="matrix(0.25881905,-0.96592582,0.96592582,0.25881905,-1608.8423,575.30063)"
+           id="g9929">
+          <path
+             transform="matrix(0.44779088,0.44764894,0.44779088,-0.44764894,-546.35763,1490.4099)"
+             d="m -25.809396,202.41983 c -12.69204,0 -22.980971,-10.28893 -22.980971,-22.98097 0,-12.69204 10.28893,-22.98097 22.98097,-22.98097 0,0 0,0 1e-6,0"
+             sodipodi:ry="22.98097"
+             sodipodi:rx="22.98097"
+             sodipodi:cy="179.43886"
+             sodipodi:cx="-25.809397"
+             id="path9931"
+             style="fill:none;stroke:url(#linearGradient9935);stroke-width:9.47610474;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+             sodipodi:type="arc"
+             sodipodi:start="1.5707963"
+             sodipodi:end="4.712389"
+             sodipodi:open="true"
+             inkscape:export-filename="/home/hbons/Moblin/git/carrick-ng/data/icons/network-connecting.png"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90" />
+          <path
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             inkscape:export-filename="/home/hbons/Moblin/git/carrick-ng/data/icons/network-connecting.png"
+             sodipodi:open="true"
+             sodipodi:end="4.712389"
+             sodipodi:start="1.5707963"
+             sodipodi:type="arc"
+             style="fill:none;stroke:url(#linearGradient9937);stroke-width:9.47610474;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+             id="path9933"
+             sodipodi:cx="-25.809397"
+             sodipodi:cy="179.43886"
+             sodipodi:rx="22.98097"
+             sodipodi:ry="22.98097"
+             d="m -25.809396,202.41983 c -12.69204,0 -22.980971,-10.28893 -22.980971,-22.98097 0,-12.69204 10.28893,-22.98097 22.98097,-22.98097 0,0 0,0 1e-6,0"
+             transform="matrix(-0.44779088,-0.44764894,-0.44779088,0.44764894,-408.73834,1306.6845)" />
+        </g>
+        <g
+           id="g9939"
+           transform="matrix(0,-1,1,0,-1732.0952,920.99923)">
+          <path
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             inkscape:export-filename="/home/hbons/Moblin/git/carrick-ng/data/icons/network-connecting.png"
+             sodipodi:open="true"
+             sodipodi:end="4.712389"
+             sodipodi:start="1.5707963"
+             sodipodi:type="arc"
+             style="fill:none;stroke:url(#linearGradient9945);stroke-width:9.47610474;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+             id="path9941"
+             sodipodi:cx="-25.809397"
+             sodipodi:cy="179.43886"
+             sodipodi:rx="22.98097"
+             sodipodi:ry="22.98097"
+             d="m -25.809396,202.41983 c -12.69204,0 -22.980971,-10.28893 -22.980971,-22.98097 0,-12.69204 10.28893,-22.98097 22.98097,-22.98097 0,0 0,0 1e-6,0"
+             transform="matrix(0.44779088,0.44764894,0.44779088,-0.44764894,-546.35763,1490.4099)" />
+          <path
+             transform="matrix(-0.44779088,-0.44764894,-0.44779088,0.44764894,-408.73834,1306.6845)"
+             d="m -25.809396,202.41983 c -12.69204,0 -22.980971,-10.28893 -22.980971,-22.98097 0,-12.69204 10.28893,-22.98097 22.98097,-22.98097 0,0 0,0 1e-6,0"
+             sodipodi:ry="22.98097"
+             sodipodi:rx="22.98097"
+             sodipodi:cy="179.43886"
+             sodipodi:cx="-25.809397"
+             id="path9943"
+             style="fill:none;stroke:url(#linearGradient9947);stroke-width:9.47610474;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+             sodipodi:type="arc"
+             sodipodi:start="1.5707963"
+             sodipodi:end="4.712389"
+             sodipodi:open="true"
+             inkscape:export-filename="/home/hbons/Moblin/git/carrick-ng/data/icons/network-connecting.png"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90" />
+        </g>
+        <g
+           transform="matrix(-0.25881905,-0.96592583,0.96592583,-0.25881905,-1760.0394,1299.2419)"
+           id="g9949">
+          <path
+             transform="matrix(0.44779088,0.44764894,0.44779088,-0.44764894,-546.35763,1490.4099)"
+             d="m -25.809396,202.41983 c -12.69204,0 -22.980971,-10.28893 -22.980971,-22.98097 0,-12.69204 10.28893,-22.98097 22.98097,-22.98097 0,0 0,0 1e-6,0"
+             sodipodi:ry="22.98097"
+             sodipodi:rx="22.98097"
+             sodipodi:cy="179.43886"
+             sodipodi:cx="-25.809397"
+             id="path9951"
+             style="fill:none;stroke:url(#linearGradient9955);stroke-width:9.47610474;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+             sodipodi:type="arc"
+             sodipodi:start="1.5707963"
+             sodipodi:end="4.712389"
+             sodipodi:open="true"
+             inkscape:export-filename="/home/hbons/Moblin/git/carrick-ng/data/icons/network-connecting.png"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90" />
+          <path
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             inkscape:export-filename="/home/hbons/Moblin/git/carrick-ng/data/icons/network-connecting.png"
+             sodipodi:open="true"
+             sodipodi:end="4.712389"
+             sodipodi:start="1.5707963"
+             sodipodi:type="arc"
+             style="fill:none;stroke:url(#linearGradient9957);stroke-width:9.47610474;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+             id="path9953"
+             sodipodi:cx="-25.809397"
+             sodipodi:cy="179.43886"
+             sodipodi:rx="22.98097"
+             sodipodi:ry="22.98097"
+             d="m -25.809396,202.41983 c -12.69204,0 -22.980971,-10.28893 -22.980971,-22.98097 0,-12.69204 10.28893,-22.98097 22.98097,-22.98097 0,0 0,0 1e-6,0"
+             transform="matrix(-0.44779088,-0.44764894,-0.44779088,0.44764894,-408.73834,1306.6845)" />
+        </g>
+        <g
+           id="g9959"
+           transform="matrix(-0.50000001,-0.86602541,0.86602541,-0.50000001,-1687.4994,1684.2521)">
+          <path
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             inkscape:export-filename="/home/hbons/Moblin/git/carrick-ng/data/icons/network-connecting.png"
+             sodipodi:open="true"
+             sodipodi:end="4.712389"
+             sodipodi:start="1.5707963"
+             sodipodi:type="arc"
+             style="fill:none;stroke:url(#linearGradient9965);stroke-width:9.47610474;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+             id="path9961"
+             sodipodi:cx="-25.809397"
+             sodipodi:cy="179.43886"
+             sodipodi:rx="22.98097"
+             sodipodi:ry="22.98097"
+             d="m -25.809396,202.41983 c -12.69204,0 -22.980971,-10.28893 -22.980971,-22.98097 0,-12.69204 10.28893,-22.98097 22.98097,-22.98097 0,0 0,0 1e-6,0"
+             transform="matrix(0.44779088,0.44764894,0.44779088,-0.44764894,-546.35763,1490.4099)" />
+          <path
+             transform="matrix(-0.44779088,-0.44764894,-0.44779088,0.44764894,-408.73834,1306.6845)"
+             d="m -25.809396,202.41983 c -12.69204,0 -22.980971,-10.28893 -22.980971,-22.98097 0,-12.69204 10.28893,-22.98097 22.98097,-22.98097 0,0 0,0 1e-6,0"
+             sodipodi:ry="22.98097"
+             sodipodi:rx="22.98097"
+             sodipodi:cy="179.43886"
+             sodipodi:cx="-25.809397"
+             id="path9963"
+             style="fill:none;stroke:url(#linearGradient9967);stroke-width:9.47610474;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+             sodipodi:type="arc"
+             sodipodi:start="1.5707963"
+             sodipodi:end="4.712389"
+             sodipodi:open="true"
+             inkscape:export-filename="/home/hbons/Moblin/git/carrick-ng/data/icons/network-connecting.png"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90" />
+        </g>
+        <g
+           transform="matrix(-0.70710679,-0.70710678,0.70710678,-0.70710679,-1516.1476,2049.792)"
+           id="g9969">
+          <path
+             transform="matrix(0.44779088,0.44764894,0.44779088,-0.44764894,-546.35763,1490.4099)"
+             d="m -25.809396,202.41983 c -12.69204,0 -22.980971,-10.28893 -22.980971,-22.98097 0,-12.69204 10.28893,-22.98097 22.98097,-22.98097 0,0 0,0 1e-6,0"
+             sodipodi:ry="22.98097"
+             sodipodi:rx="22.98097"
+             sodipodi:cy="179.43886"
+             sodipodi:cx="-25.809397"
+             id="path9971"
+             style="fill:none;stroke:url(#linearGradient9975);stroke-width:9.47610474;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+             sodipodi:type="arc"
+             sodipodi:start="1.5707963"
+             sodipodi:end="4.712389"
+             sodipodi:open="true"
+             inkscape:export-filename="/home/hbons/Moblin/git/carrick-ng/data/icons/network-connecting.png"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90" />
+          <path
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             inkscape:export-filename="/home/hbons/Moblin/git/carrick-ng/data/icons/network-connecting.png"
+             sodipodi:open="true"
+             sodipodi:end="4.712389"
+             sodipodi:start="1.5707963"
+             sodipodi:type="arc"
+             style="fill:none;stroke:url(#linearGradient9977);stroke-width:9.47610474;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+             id="path9973"
+             sodipodi:cx="-25.809397"
+             sodipodi:cy="179.43886"
+             sodipodi:rx="22.98097"
+             sodipodi:ry="22.98097"
+             d="m -25.809396,202.41983 c -12.69204,0 -22.980971,-10.28893 -22.980971,-22.98097 0,-12.69204 10.28893,-22.98097 22.98097,-22.98097 0,0 0,0 1e-6,0"
+             transform="matrix(-0.44779088,-0.44764894,-0.44779088,0.44764894,-408.73834,1306.6845)" />
+        </g>
+        <g
+           id="g9979"
+           transform="matrix(-0.86602541,-0.5,0.5,-0.86602541,-1638.3903,2418.9506)">
+          <path
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             inkscape:export-filename="/home/hbons/Moblin/git/carrick-ng/data/icons/network-connecting.png"
+             sodipodi:open="true"
+             sodipodi:end="4.712389"
+             sodipodi:start="1.5707963"
+             sodipodi:type="arc"
+             style="fill:none;stroke:url(#linearGradient9985);stroke-width:9.47610474;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+             id="path9981"
+             sodipodi:cx="-25.809397"
+             sodipodi:cy="179.43886"
+             sodipodi:rx="22.98097"
+             sodipodi:ry="22.98097"
+             d="m -25.809396,202.41983 c -12.69204,0 -22.980971,-10.28893 -22.980971,-22.98097 0,-12.69204 10.28893,-22.98097 22.98097,-22.98097 0,0 0,0 1e-6,0"
+             transform="matrix(0.44779088,0.44764894,0.44779088,-0.44764894,-546.35763,1490.4099)" />
+          <path
+             transform="matrix(-0.44779088,-0.44764894,-0.44779088,0.44764894,-408.73834,1306.6845)"
+             d="m -25.809396,202.41983 c -12.69204,0 -22.980971,-10.28893 -22.980971,-22.98097 0,-12.69204 10.28893,-22.98097 22.98097,-22.98097 0,0 0,0 1e-6,0"
+             sodipodi:ry="22.98097"
+             sodipodi:rx="22.98097"
+             sodipodi:cy="179.43886"
+             sodipodi:cx="-25.809397"
+             id="path9983"
+             style="fill:none;stroke:url(#linearGradient9987);stroke-width:9.47610474;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+             sodipodi:type="arc"
+             sodipodi:start="1.5707963"
+             sodipodi:end="4.712389"
+             sodipodi:open="true"
+             inkscape:export-filename="/home/hbons/Moblin/git/carrick-ng/data/icons/network-connecting.png"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90" />
+        </g>
+        <g
+           transform="matrix(-0.96592583,-0.25881904,0.25881904,-0.96592583,-1300.7946,2673.8415)"
+           id="g9989">
+          <path
+             transform="matrix(0.44779088,0.44764894,0.44779088,-0.44764894,-546.35763,1490.4099)"
+             d="m -25.809396,202.41983 c -12.69204,0 -22.980971,-10.28893 -22.980971,-22.98097 0,-12.69204 10.28893,-22.98097 22.98097,-22.98097 0,0 0,0 1e-6,0"
+             sodipodi:ry="22.98097"
+             sodipodi:rx="22.98097"
+             sodipodi:cy="179.43886"
+             sodipodi:cx="-25.809397"
+             id="path9991"
+             style="fill:none;stroke:url(#linearGradient9995);stroke-width:9.47610474;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+             sodipodi:type="arc"
+             sodipodi:start="1.5707963"
+             sodipodi:end="4.712389"
+             sodipodi:open="true"
+             inkscape:export-filename="/home/hbons/Moblin/git/carrick-ng/data/icons/network-connecting.png"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90" />
+          <path
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             inkscape:export-filename="/home/hbons/Moblin/git/carrick-ng/data/icons/network-connecting.png"
+             sodipodi:open="true"
+             sodipodi:end="4.712389"
+             sodipodi:start="1.5707963"
+             sodipodi:type="arc"
+             style="fill:none;stroke:url(#linearGradient9997);stroke-width:9.47610474;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+             id="path9993"
+             sodipodi:cx="-25.809397"
+             sodipodi:cy="179.43886"
+             sodipodi:rx="22.98097"
+             sodipodi:ry="22.98097"
+             d="m -25.809396,202.41983 c -12.69204,0 -22.980971,-10.28893 -22.980971,-22.98097 0,-12.69204 10.28893,-22.98097 22.98097,-22.98097 0,0 0,0 1e-6,0"
+             transform="matrix(-0.44779088,-0.44764894,-0.44779088,0.44764894,-408.73834,1306.6845)" />
+        </g>
+        <g
+           id="g9999"
+           transform="matrix(-1,0,0,-1,-907.096,2845.0944)">
+          <path
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             inkscape:export-filename="/home/hbons/Moblin/git/carrick-ng/data/icons/network-connecting.png"
+             sodipodi:open="true"
+             sodipodi:end="4.712389"
+             sodipodi:start="1.5707963"
+             sodipodi:type="arc"
+             style="fill:none;stroke:url(#linearGradient10005);stroke-width:9.47610474;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+             id="path10001"
+             sodipodi:cx="-25.809397"
+             sodipodi:cy="179.43886"
+             sodipodi:rx="22.98097"
+             sodipodi:ry="22.98097"
+             d="m -25.809396,202.41983 c -12.69204,0 -22.980971,-10.28893 -22.980971,-22.98097 0,-12.69204 10.28893,-22.98097 22.98097,-22.98097 0,0 0,0 1e-6,0"
+             transform="matrix(0.44779088,0.44764894,0.44779088,-0.44764894,-546.35763,1490.4099)" />
+          <path
+             transform="matrix(-0.44779088,-0.44764894,-0.44779088,0.44764894,-408.73834,1306.6845)"
+             d="m -25.809396,202.41983 c -12.69204,0 -22.980971,-10.28893 -22.980971,-22.98097 0,-12.69204 10.28893,-22.98097 22.98097,-22.98097 0,0 0,0 1e-6,0"
+             sodipodi:ry="22.98097"
+             sodipodi:rx="22.98097"
+             sodipodi:cy="179.43886"
+             sodipodi:cx="-25.809397"
+             id="path10003"
+             style="fill:none;stroke:url(#linearGradient10007);stroke-width:9.47610474;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+             sodipodi:type="arc"
+             sodipodi:start="1.5707963"
+             sodipodi:end="4.712389"
+             sodipodi:open="true"
+             inkscape:export-filename="/home/hbons/Moblin/git/carrick-ng/data/icons/network-connecting.png"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90" />
+        </g>
+        <g
+           transform="matrix(-0.96592583,0.25881905,-0.25881905,-0.96592583,-480.8533,2921.0386)"
+           id="g10009">
+          <path
+             transform="matrix(0.44779088,0.44764894,0.44779088,-0.44764894,-546.35763,1490.4099)"
+             d="m -25.809396,202.41983 c -12.69204,0 -22.980971,-10.28893 -22.980971,-22.98097 0,-12.69204 10.28893,-22.98097 22.98097,-22.98097 0,0 0,0 1e-6,0"
+             sodipodi:ry="22.98097"
+             sodipodi:rx="22.98097"
+             sodipodi:cy="179.43886"
+             sodipodi:cx="-25.809397"
+             id="path10011"
+             style="fill:none;stroke:url(#linearGradient10015);stroke-width:9.47610474;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+             sodipodi:type="arc"
+             sodipodi:start="1.5707963"
+             sodipodi:end="4.712389"
+             sodipodi:open="true"
+             inkscape:export-filename="/home/hbons/Moblin/git/carrick-ng/data/icons/network-connecting.png"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90" />
+          <path
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             inkscape:export-filename="/home/hbons/Moblin/git/carrick-ng/data/icons/network-connecting.png"
+             sodipodi:open="true"
+             sodipodi:end="4.712389"
+             sodipodi:start="1.5707963"
+             sodipodi:type="arc"
+             style="fill:none;stroke:url(#linearGradient10017);stroke-width:9.47610474;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+             id="path10013"
+             sodipodi:cx="-25.809397"
+             sodipodi:cy="179.43886"
+             sodipodi:rx="22.98097"
+             sodipodi:ry="22.98097"
+             d="m -25.809396,202.41983 c -12.69204,0 -22.980971,-10.28893 -22.980971,-22.98097 0,-12.69204 10.28893,-22.98097 22.98097,-22.98097 0,0 0,0 1e-6,0"
+             transform="matrix(-0.44779088,-0.44764894,-0.44779088,0.44764894,-408.73834,1306.6845)" />
+        </g>
+        <g
+           id="g10019"
+           transform="matrix(-0.86602541,0.50000001,-0.50000001,-0.86602541,-47.843104,2896.4986)">
+          <path
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             inkscape:export-filename="/home/hbons/Moblin/git/carrick-ng/data/icons/network-connecting.png"
+             sodipodi:open="true"
+             sodipodi:end="4.712389"
+             sodipodi:start="1.5707963"
+             sodipodi:type="arc"
+             style="fill:none;stroke:url(#linearGradient10025);stroke-width:9.47610474;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+             id="path10021"
+             sodipodi:cx="-25.809397"
+             sodipodi:cy="179.43886"
+             sodipodi:rx="22.98097"
+             sodipodi:ry="22.98097"
+             d="m -25.809396,202.41983 c -12.69204,0 -22.980971,-10.28893 -22.980971,-22.98097 0,-12.69204 10.28893,-22.98097 22.98097,-22.98097 0,0 0,0 1e-6,0"
+             transform="matrix(0.44779088,0.44764894,0.44779088,-0.44764894,-546.35763,1490.4099)" />
+          <path
+             transform="matrix(-0.44779088,-0.44764894,-0.44779088,0.44764894,-408.73834,1306.6845)"
+             d="m -25.809396,202.41983 c -12.69204,0 -22.980971,-10.28893 -22.980971,-22.98097 0,-12.69204 10.28893,-22.98097 22.98097,-22.98097 0,0 0,0 1e-6,0"
+             sodipodi:ry="22.98097"
+             sodipodi:rx="22.98097"
+             sodipodi:cy="179.43886"
+             sodipodi:cx="-25.809397"
+             id="path10023"
+             style="fill:none;stroke:url(#linearGradient10027);stroke-width:9.47610474;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+             sodipodi:type="arc"
+             sodipodi:start="1.5707963"
+             sodipodi:end="4.712389"
+             sodipodi:open="true"
+             inkscape:export-filename="/home/hbons/Moblin/git/carrick-ng/data/icons/network-connecting.png"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90" />
+        </g>
+        <g
+           transform="matrix(-0.70710678,0.70710679,-0.70710679,-0.70710678,365.69678,2773.1468)"
+           id="g10029">
+          <path
+             transform="matrix(0.44779088,0.44764894,0.44779088,-0.44764894,-546.35763,1490.4099)"
+             d="m -25.809396,202.41983 c -12.69204,0 -22.980971,-10.28893 -22.980971,-22.98097 0,-12.69204 10.28893,-22.98097 22.98097,-22.98097 0,0 0,0 1e-6,0"
+             sodipodi:ry="22.98097"
+             sodipodi:rx="22.98097"
+             sodipodi:cy="179.43886"
+             sodipodi:cx="-25.809397"
+             id="path10031"
+             style="fill:none;stroke:url(#linearGradient10035);stroke-width:9.47610474;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+             sodipodi:type="arc"
+             sodipodi:start="1.5707963"
+             sodipodi:end="4.712389"
+             sodipodi:open="true"
+             inkscape:export-filename="/home/hbons/Moblin/git/carrick-ng/data/icons/network-connecting.png"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90" />
+          <path
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             inkscape:export-filename="/home/hbons/Moblin/git/carrick-ng/data/icons/network-connecting.png"
+             sodipodi:open="true"
+             sodipodi:end="4.712389"
+             sodipodi:start="1.5707963"
+             sodipodi:type="arc"
+             style="fill:none;stroke:url(#linearGradient10037);stroke-width:9.47610474;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+             id="path10033"
+             sodipodi:cx="-25.809397"
+             sodipodi:cy="179.43886"
+             sodipodi:rx="22.98097"
+             sodipodi:ry="22.98097"
+             d="m -25.809396,202.41983 c -12.69204,0 -22.980971,-10.28893 -22.980971,-22.98097 0,-12.69204 10.28893,-22.98097 22.98097,-22.98097 0,0 0,0 1e-6,0"
+             transform="matrix(-0.44779088,-0.44764894,-0.44779088,0.44764894,-408.73834,1306.6845)" />
+        </g>
+        <g
+           id="g10039"
+           transform="matrix(-0.5,0.86602541,-0.86602541,-0.5,734.8554,2559.3895)">
+          <path
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             inkscape:export-filename="/home/hbons/Moblin/git/carrick-ng/data/icons/network-connecting.png"
+             sodipodi:open="true"
+             sodipodi:end="4.712389"
+             sodipodi:start="1.5707963"
+             sodipodi:type="arc"
+             style="fill:none;stroke:url(#linearGradient10045);stroke-width:9.47610474;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+             id="path10041"
+             sodipodi:cx="-25.809397"
+             sodipodi:cy="179.43886"
+             sodipodi:rx="22.98097"
+             sodipodi:ry="22.98097"
+             d="m -25.809396,202.41983 c -12.69204,0 -22.980971,-10.28893 -22.980971,-22.98097 0,-12.69204 10.28893,-22.98097 22.98097,-22.98097 0,0 0,0 1e-6,0"
+             transform="matrix(0.44779088,0.44764894,0.44779088,-0.44764894,-546.35763,1490.4099)" />
+          <path
+             transform="matrix(-0.44779088,-0.44764894,-0.44779088,0.44764894,-408.73834,1306.6845)"
+             d="m -25.809396,202.41983 c -12.69204,0 -22.980971,-10.28893 -22.980971,-22.98097 0,-12.69204 10.28893,-22.98097 22.98097,-22.98097 0,0 0,0 1e-6,0"
+             sodipodi:ry="22.98097"
+             sodipodi:rx="22.98097"
+             sodipodi:cy="179.43886"
+             sodipodi:cx="-25.809397"
+             id="path10043"
+             style="fill:none;stroke:url(#linearGradient10047);stroke-width:9.47610474;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+             sodipodi:type="arc"
+             sodipodi:start="1.5707963"
+             sodipodi:end="4.712389"
+             sodipodi:open="true"
+             inkscape:export-filename="/home/hbons/Moblin/git/carrick-ng/data/icons/network-connecting.png"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90" />
+        </g>
+        <g
+           transform="matrix(-0.25881904,0.96592583,-0.96592583,-0.25881904,1037.7463,2269.7938)"
+           id="g10049">
+          <path
+             transform="matrix(0.44779088,0.44764894,0.44779088,-0.44764894,-546.35763,1490.4099)"
+             d="m -25.809396,202.41983 c -12.69204,0 -22.980971,-10.28893 -22.980971,-22.98097 0,-12.69204 10.28893,-22.98097 22.98097,-22.98097 0,0 0,0 1e-6,0"
+             sodipodi:ry="22.98097"
+             sodipodi:rx="22.98097"
+             sodipodi:cy="179.43886"
+             sodipodi:cx="-25.809397"
+             id="path10051"
+             style="fill:none;stroke:url(#linearGradient10055);stroke-width:9.47610474;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+             sodipodi:type="arc"
+             sodipodi:start="1.5707963"
+             sodipodi:end="4.712389"
+             sodipodi:open="true"
+             inkscape:export-filename="/home/hbons/Moblin/git/carrick-ng/data/icons/network-connecting.png"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90" />
+          <path
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             inkscape:export-filename="/home/hbons/Moblin/git/carrick-ng/data/icons/network-connecting.png"
+             sodipodi:open="true"
+             sodipodi:end="4.712389"
+             sodipodi:start="1.5707963"
+             sodipodi:type="arc"
+             style="fill:none;stroke:url(#linearGradient10057);stroke-width:9.47610474;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+             id="path10053"
+             sodipodi:cx="-25.809397"
+             sodipodi:cy="179.43886"
+             sodipodi:rx="22.98097"
+             sodipodi:ry="22.98097"
+             d="m -25.809396,202.41983 c -12.69204,0 -22.980971,-10.28893 -22.980971,-22.98097 0,-12.69204 10.28893,-22.98097 22.98097,-22.98097 0,0 0,0 1e-6,0"
+             transform="matrix(-0.44779088,-0.44764894,-0.44779088,0.44764894,-408.73834,1306.6845)" />
+        </g>
+        <g
+           id="g10059"
+           transform="matrix(0,1,-1,0,872.99915,1972.0952)">
+          <path
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             inkscape:export-filename="/home/hbons/Moblin/git/carrick-ng/data/icons/network-connecting.png"
+             sodipodi:open="true"
+             sodipodi:end="4.712389"
+             sodipodi:start="1.5707963"
+             sodipodi:type="arc"
+             style="fill:none;stroke:url(#linearGradient10065);stroke-width:9.47610474;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+             id="path10061"
+             sodipodi:cx="-25.809397"
+             sodipodi:cy="179.43886"
+             sodipodi:rx="22.98097"
+             sodipodi:ry="22.98097"
+             d="m -25.809396,202.41983 c -12.69204,0 -22.980971,-10.28893 -22.980971,-22.98097 0,-12.69204 10.28893,-22.98097 22.98097,-22.98097 0,0 0,0 1e-6,0"
+             transform="matrix(0.44779088,0.44764894,0.44779088,-0.44764894,-546.35763,1490.4099)" />
+          <path
+             transform="matrix(-0.44779088,-0.44764894,-0.44779088,0.44764894,-408.73834,1306.6845)"
+             d="m -25.809396,202.41983 c -12.69204,0 -22.980971,-10.28893 -22.980971,-22.98097 0,-12.69204 10.28893,-22.98097 22.98097,-22.98097 0,0 0,0 1e-6,0"
+             sodipodi:ry="22.98097"
+             sodipodi:rx="22.98097"
+             sodipodi:cy="179.43886"
+             sodipodi:cx="-25.809397"
+             id="path10063"
+             style="fill:none;stroke:url(#linearGradient10067);stroke-width:9.47610474;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+             sodipodi:type="arc"
+             sodipodi:start="1.5707963"
+             sodipodi:end="4.712389"
+             sodipodi:open="true"
+             inkscape:export-filename="/home/hbons/Moblin/git/carrick-ng/data/icons/network-connecting.png"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90" />
+        </g>
+        <g
+           transform="matrix(0.25881905,0.96592583,-0.96592583,0.25881905,996.94332,1593.8525)"
+           id="g10069">
+          <path
+             transform="matrix(0.44779088,0.44764894,0.44779088,-0.44764894,-546.35763,1490.4099)"
+             d="m -25.809396,202.41983 c -12.69204,0 -22.980971,-10.28893 -22.980971,-22.98097 0,-12.69204 10.28893,-22.98097 22.98097,-22.98097 0,0 0,0 1e-6,0"
+             sodipodi:ry="22.98097"
+             sodipodi:rx="22.98097"
+             sodipodi:cy="179.43886"
+             sodipodi:cx="-25.809397"
+             id="path10071"
+             style="fill:none;stroke:url(#linearGradient10075);stroke-width:9.47610474;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+             sodipodi:type="arc"
+             sodipodi:start="1.5707963"
+             sodipodi:end="4.712389"
+             sodipodi:open="true"
+             inkscape:export-filename="/home/hbons/Moblin/git/carrick-ng/data/icons/network-connecting.png"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90" />
+          <path
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             inkscape:export-filename="/home/hbons/Moblin/git/carrick-ng/data/icons/network-connecting.png"
+             sodipodi:open="true"
+             sodipodi:end="4.712389"
+             sodipodi:start="1.5707963"
+             sodipodi:type="arc"
+             style="fill:none;stroke:url(#linearGradient10077);stroke-width:9.47610474;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+             id="path10073"
+             sodipodi:cx="-25.809397"
+             sodipodi:cy="179.43886"
+             sodipodi:rx="22.98097"
+             sodipodi:ry="22.98097"
+             d="m -25.809396,202.41983 c -12.69204,0 -22.980971,-10.28893 -22.980971,-22.98097 0,-12.69204 10.28893,-22.98097 22.98097,-22.98097 0,0 0,0 1e-6,0"
+             transform="matrix(-0.44779088,-0.44764894,-0.44779088,0.44764894,-408.73834,1306.6845)" />
+        </g>
+        <g
+           id="g10079"
+           transform="matrix(0.50000001,0.86602541,-0.86602541,0.50000001,1020.4033,1208.8423)">
+          <path
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             inkscape:export-filename="/home/hbons/Moblin/git/carrick-ng/data/icons/network-connecting.png"
+             sodipodi:open="true"
+             sodipodi:end="4.712389"
+             sodipodi:start="1.5707963"
+             sodipodi:type="arc"
+             style="fill:none;stroke:url(#linearGradient10085);stroke-width:9.47610474;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+             id="path10081"
+             sodipodi:cx="-25.809397"
+             sodipodi:cy="179.43886"
+             sodipodi:rx="22.98097"
+             sodipodi:ry="22.98097"
+             d="m -25.809396,202.41983 c -12.69204,0 -22.980971,-10.28893 -22.980971,-22.98097 0,-12.69204 10.28893,-22.98097 22.98097,-22.98097 0,0 0,0 1e-6,0"
+             transform="matrix(0.44779088,0.44764894,0.44779088,-0.44764894,-546.35763,1490.4099)" />
+          <path
+             transform="matrix(-0.44779088,-0.44764894,-0.44779088,0.44764894,-408.73834,1306.6845)"
+             d="m -25.809396,202.41983 c -12.69204,0 -22.980971,-10.28893 -22.980971,-22.98097 0,-12.69204 10.28893,-22.98097 22.98097,-22.98097 0,0 0,0 1e-6,0"
+             sodipodi:ry="22.98097"
+             sodipodi:rx="22.98097"
+             sodipodi:cy="179.43886"
+             sodipodi:cx="-25.809397"
+             id="path10083"
+             style="fill:none;stroke:url(#linearGradient10087);stroke-width:9.47610474;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+             sodipodi:type="arc"
+             sodipodi:start="1.5707963"
+             sodipodi:end="4.712389"
+             sodipodi:open="true"
+             inkscape:export-filename="/home/hbons/Moblin/git/carrick-ng/data/icons/network-connecting.png"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90" />
+        </g>
+        <g
+           transform="matrix(0.70710679,0.70710678,-0.70710678,0.70710679,945.05153,843.30242)"
+           id="g10089">
+          <path
+             transform="matrix(0.44779088,0.44764894,0.44779088,-0.44764894,-546.35763,1490.4099)"
+             d="m -25.809396,202.41983 c -12.69204,0 -22.980971,-10.28893 -22.980971,-22.98097 0,-12.69204 10.28893,-22.98097 22.98097,-22.98097 0,0 0,0 1e-6,0"
+             sodipodi:ry="22.98097"
+             sodipodi:rx="22.98097"
+             sodipodi:cy="179.43886"
+             sodipodi:cx="-25.809397"
+             id="path10091"
+             style="fill:none;stroke:url(#linearGradient10095);stroke-width:9.47610474;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+             sodipodi:type="arc"
+             sodipodi:start="1.5707963"
+             sodipodi:end="4.712389"
+             sodipodi:open="true"
+             inkscape:export-filename="/home/hbons/Moblin/git/carrick-ng/data/icons/network-connecting.png"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90" />
+          <path
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             inkscape:export-filename="/home/hbons/Moblin/git/carrick-ng/data/icons/network-connecting.png"
+             sodipodi:open="true"
+             sodipodi:end="4.712389"
+             sodipodi:start="1.5707963"
+             sodipodi:type="arc"
+             style="fill:none;stroke:url(#linearGradient10097);stroke-width:9.47610474;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+             id="path10093"
+             sodipodi:cx="-25.809397"
+             sodipodi:cy="179.43886"
+             sodipodi:rx="22.98097"
+             sodipodi:ry="22.98097"
+             d="m -25.809396,202.41983 c -12.69204,0 -22.980971,-10.28893 -22.980971,-22.98097 0,-12.69204 10.28893,-22.98097 22.98097,-22.98097 0,0 0,0 1e-6,0"
+             transform="matrix(-0.44779088,-0.44764894,-0.44779088,0.44764894,-408.73834,1306.6845)" />
+        </g>
+        <g
+           id="g10099"
+           transform="matrix(0.86602541,0.5,-0.5,0.86602541,779.29419,522.1438)">
+          <path
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             inkscape:export-filename="/home/hbons/Moblin/git/carrick-ng/data/icons/network-connecting.png"
+             sodipodi:open="true"
+             sodipodi:end="4.712389"
+             sodipodi:start="1.5707963"
+             sodipodi:type="arc"
+             style="fill:none;stroke:url(#linearGradient10105);stroke-width:9.47610474;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+             id="path10101"
+             sodipodi:cx="-25.809397"
+             sodipodi:cy="179.43886"
+             sodipodi:rx="22.98097"
+             sodipodi:ry="22.98097"
+             d="m -25.809396,202.41983 c -12.69204,0 -22.980971,-10.28893 -22.980971,-22.98097 0,-12.69204 10.28893,-22.98097 22.98097,-22.98097 0,0 0,0 1e-6,0"
+             transform="matrix(0.44779088,0.44764894,0.44779088,-0.44764894,-546.35763,1490.4099)" />
+          <path
+             transform="matrix(-0.44779088,-0.44764894,-0.44779088,0.44764894,-408.73834,1306.6845)"
+             d="m -25.809396,202.41983 c -12.69204,0 -22.980971,-10.28893 -22.980971,-22.98097 0,-12.69204 10.28893,-22.98097 22.98097,-22.98097 0,0 0,0 1e-6,0"
+             sodipodi:ry="22.98097"
+             sodipodi:rx="22.98097"
+             sodipodi:cy="179.43886"
+             sodipodi:cx="-25.809397"
+             id="path10103"
+             style="fill:none;stroke:url(#linearGradient10107);stroke-width:9.47610474;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+             sodipodi:type="arc"
+             sodipodi:start="1.5707963"
+             sodipodi:end="4.712389"
+             sodipodi:open="true"
+             inkscape:export-filename="/home/hbons/Moblin/git/carrick-ng/data/icons/network-connecting.png"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90" />
+        </g>
+        <g
+           transform="matrix(0.96592583,0.25881904,-0.25881904,0.96592583,537.69848,267.25286)"
+           id="g10109">
+          <path
+             transform="matrix(0.44779088,0.44764894,0.44779088,-0.44764894,-546.35763,1490.4099)"
+             d="m -25.809396,202.41983 c -12.69204,0 -22.980971,-10.28893 -22.980971,-22.98097 0,-12.69204 10.28893,-22.98097 22.98097,-22.98097 0,0 0,0 1e-6,0"
+             sodipodi:ry="22.98097"
+             sodipodi:rx="22.98097"
+             sodipodi:cy="179.43886"
+             sodipodi:cx="-25.809397"
+             id="path10111"
+             style="fill:none;stroke:url(#linearGradient10115);stroke-width:9.47610474;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+             sodipodi:type="arc"
+             sodipodi:start="1.5707963"
+             sodipodi:end="4.712389"
+             sodipodi:open="true"
+             inkscape:export-filename="/home/hbons/Moblin/git/carrick-ng/data/icons/network-connecting.png"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90" />
+          <path
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             inkscape:export-filename="/home/hbons/Moblin/git/carrick-ng/data/icons/network-connecting.png"
+             sodipodi:open="true"
+             sodipodi:end="4.712389"
+             sodipodi:start="1.5707963"
+             sodipodi:type="arc"
+             style="fill:none;stroke:url(#linearGradient10117);stroke-width:9.47610474;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+             id="path10113"
+             sodipodi:cx="-25.809397"
+             sodipodi:cy="179.43886"
+             sodipodi:rx="22.98097"
+             sodipodi:ry="22.98097"
+             d="m -25.809396,202.41983 c -12.69204,0 -22.980971,-10.28893 -22.980971,-22.98097 0,-12.69204 10.28893,-22.98097 22.98097,-22.98097 0,0 0,0 1e-6,0"
+             transform="matrix(-0.44779088,-0.44764894,-0.44779088,0.44764894,-408.73834,1306.6845)" />
+        </g>
+        <g
+           id="g10119"
+           transform="translate(239.99988,96.000007)">
+          <path
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             inkscape:export-filename="/home/hbons/Moblin/git/carrick-ng/data/icons/network-connecting.png"
+             sodipodi:open="true"
+             sodipodi:end="4.712389"
+             sodipodi:start="1.5707963"
+             sodipodi:type="arc"
+             style="fill:none;stroke:url(#linearGradient10125);stroke-width:9.47610474;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+             id="path10121"
+             sodipodi:cx="-25.809397"
+             sodipodi:cy="179.43886"
+             sodipodi:rx="22.98097"
+             sodipodi:ry="22.98097"
+             d="m -25.809396,202.41983 c -12.69204,0 -22.980971,-10.28893 -22.980971,-22.98097 0,-12.69204 10.28893,-22.98097 22.98097,-22.98097 0,0 0,0 1e-6,0"
+             transform="matrix(0.44779088,0.44764894,0.44779088,-0.44764894,-546.35763,1490.4099)" />
+          <path
+             transform="matrix(-0.44779088,-0.44764894,-0.44779088,0.44764894,-408.73834,1306.6845)"
+             d="m -25.809396,202.41983 c -12.69204,0 -22.980971,-10.28893 -22.980971,-22.98097 0,-12.69204 10.28893,-22.98097 22.98097,-22.98097 0,0 0,0 1e-6,0"
+             sodipodi:ry="22.98097"
+             sodipodi:rx="22.98097"
+             sodipodi:cy="179.43886"
+             sodipodi:cx="-25.809397"
+             id="path10123"
+             style="fill:none;stroke:url(#linearGradient10127);stroke-width:9.47610474;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+             sodipodi:type="arc"
+             sodipodi:start="1.5707963"
+             sodipodi:end="4.712389"
+             sodipodi:open="true"
+             inkscape:export-filename="/home/hbons/Moblin/git/carrick-ng/data/icons/network-connecting.png"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90" />
+        </g>
+        <g
+           transform="matrix(0.96592583,-0.25881905,0.25881905,0.96592583,-90.242824,20.055834)"
+           id="g10129">
+          <path
+             transform="matrix(0.44779088,0.44764894,0.44779088,-0.44764894,-546.35763,1490.4099)"
+             d="m -25.809396,202.41983 c -12.69204,0 -22.980971,-10.28893 -22.980971,-22.98097 0,-12.69204 10.28893,-22.98097 22.98097,-22.98097 0,0 0,0 1e-6,0"
+             sodipodi:ry="22.98097"
+             sodipodi:rx="22.98097"
+             sodipodi:cy="179.43886"
+             sodipodi:cx="-25.809397"
+             id="path10131"
+             style="fill:none;stroke:url(#linearGradient10135);stroke-width:9.47610474;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+             sodipodi:type="arc"
+             sodipodi:start="1.5707963"
+             sodipodi:end="4.712389"
+             sodipodi:open="true"
+             inkscape:export-filename="/home/hbons/Moblin/git/carrick-ng/data/icons/network-connecting.png"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90" />
+          <path
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             inkscape:export-filename="/home/hbons/Moblin/git/carrick-ng/data/icons/network-connecting.png"
+             sodipodi:open="true"
+             sodipodi:end="4.712389"
+             sodipodi:start="1.5707963"
+             sodipodi:type="arc"
+             style="fill:none;stroke:url(#linearGradient10137);stroke-width:9.47610474;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+             id="path10133"
+             sodipodi:cx="-25.809397"
+             sodipodi:cy="179.43886"
+             sodipodi:rx="22.98097"
+             sodipodi:ry="22.98097"
+             d="m -25.809396,202.41983 c -12.69204,0 -22.980971,-10.28893 -22.980971,-22.98097 0,-12.69204 10.28893,-22.98097 22.98097,-22.98097 0,0 0,0 1e-6,0"
+             transform="matrix(-0.44779088,-0.44764894,-0.44779088,0.44764894,-408.73834,1306.6845)" />
+        </g>
+      </g>
+    </g>
     <flowRoot
        transform="matrix(3.2694204,0,0,3.2694204,57.286837,-1896.0541)"
        style="display:inline;font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#5a5a5a;fill-opacity:1;stroke:none;font-family:BetecknaLowerCase;-inkscape-font-specification:BetecknaLowerCase Bold"
