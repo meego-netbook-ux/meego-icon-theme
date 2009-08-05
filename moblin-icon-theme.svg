@@ -25647,6 +25647,30 @@
          inkscape:export-filename="/home/jimmac/src/cvs/moblin/moblin-icon-theme/moblin/48x48/animations/process-working.png"
          id="g9034"
          transform="matrix(0.66666667,0,0,0.66666667,-183.33333,666.03003)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g7385"
+         id="use9335"
+         transform="matrix(0.66666667,0,0,0.66666667,-183.33333,626.03003)"
+         width="1052.3622"
+         height="744.09003" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9335"
+         id="use9337"
+         transform="matrix(0.6875,0,0,0.6875,-171.875,591.90316)"
+         width="1052.3622"
+         height="744.09003" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g7385"
+         id="use9339"
+         transform="matrix(0.33333333,0,0,0.33333333,-166.66667,1192.0601)"
+         width="1052.3622"
+         height="744.09003" />
     </g>
     <flowRoot
        transform="matrix(3.2694204,0,0,3.2694204,57.286837,-1896.0541)"
