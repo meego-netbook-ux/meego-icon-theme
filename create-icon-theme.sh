@@ -33,7 +33,7 @@ cd "$OUTPUT"
 echo "Creating index.theme"
 
 echo -e "[Icon Theme]\nName=$THEME_NAME\nComment=$THEME_COMMENT\n" > index.theme
-echo -n "Inherits=hicolor\n" >> index.theme
+echo "Inherits=hicolor" >> index.theme
 echo -n "Directories=" >> index.theme
 
 DIRS=`find * -type d | grep -v git | grep -v scalable | grep "/"`
