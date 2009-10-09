@@ -30,11 +30,11 @@
      objecttolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="169.15783"
-     inkscape:cy="-144.93993"
+     inkscape:zoom="4"
+     inkscape:cx="706.22847"
+     inkscape:cy="623.06798"
      inkscape:document-units="px"
-     inkscape:current-layer="mail-attachment"
+     inkscape:current-layer="text-x-preview"
      showgrid="true"
      inkscape:window-width="1596"
      inkscape:window-height="1078"
@@ -13888,6 +13888,16 @@
          height="16"
          x="-545"
          y="239.09" />
+      <rect
+         style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+         id="rect10103"
+         width="48"
+         height="48"
+         x="640"
+         y="90.090027"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/mimetypes/text-x-preview.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -15365,7 +15375,10 @@
          width="48"
          height="48"
          x="640"
-         y="90.090027" />
+         y="90.090027"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/mimetypes/text-x-preview.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -15428,7 +15441,10 @@
          width="48"
          height="48"
          x="640"
-         y="90.090027" />
+         y="90.090027"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/mimetypes/text-x-preview.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
       <rect
          transform="scale(-1,1)"
          style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
@@ -15488,7 +15504,10 @@
          inkscape:label="Layer 1"
          id="layer1-16"
          style="fill:#bebebe;fill-opacity:1;display:inline"
-         transform="translate(641.00654,90.09843)">
+         transform="translate(641.00654,90.09843)"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/mimetypes/text-x-preview.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
         <rect
            ry="1.5"
            rx="1.5"
@@ -15688,7 +15707,25 @@
          width="48"
          height="48"
          x="640"
-         y="90.090027" />
+         y="90.090027"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/mimetypes/text-x-preview.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer28"
+       inkscape:label="text">
+      <rect
+         style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+         id="rect10085"
+         width="48"
+         height="48"
+         x="640"
+         y="90.090027"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/mimetypes/text-x-preview.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -15700,7 +15737,10 @@
          width="48"
          height="48"
          x="640"
-         y="90.090027" />
+         y="90.090027"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/mimetypes/text-x-preview.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
     </g>
     <g
        inkscape:groupmode="layer"
