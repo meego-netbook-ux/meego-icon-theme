@@ -48,9 +48,9 @@ for foo in $DIRS
 do
 	size=`echo $foo | cut -b -5`
 	if [ "$size" = 48x48 ] ; then
-		echo -en "\n\n[$size]\nSize=`echo $size | sed 's/\x.*//'`\nContext=`basename $foo`\nType=Scalable" >> index.theme
+		echo -en "\n\n[$foo]\nSize=`echo $size | sed 's/\x.*//'`\nContext=`basename $foo`\nType=Scalable" >> index.theme
 	else
-		echo -en "\n\n[$size]\nSize=`echo $size | sed 's/\x.*//'`\nContext=`basename $foo`\nType=Fixed" >> index.theme
+		echo -en "\n\n[$foo]\nSize=`echo $size | sed 's/\x.*//'`\nContext=`basename $foo`\nType=Fixed" >> index.theme
 	fi
 done
 
