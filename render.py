@@ -22,8 +22,8 @@ import tempfile
 
 __author__    = 'Damien Lespiau <damien.lespiau@intel.com'
 __version__   = '0.1'
-__date__      = '20091209'
-__copyright__ = 'Copyright (©) 2009 Intel Corporation'
+__date__      = '20100106'
+__copyright__ = 'Copyright (©) 2009-10 Intel Corporation'
 __license__   = 'GPL v2'
 
 verbose = 0
@@ -220,6 +220,10 @@ class IconTheme:
             if re_default_rect_id.match(id):
                 debug("Dropping " + id)
                 continue
+
+            # strip the moblin- prefix
+            if id.startswith('moblin-'):
+                id = id[7:]
 
             if not((width == '16' and height == '16') or
                    (width == '24' and height == '24')):
