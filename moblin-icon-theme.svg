@@ -31,12 +31,12 @@
      objecttolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="797.67487"
-     inkscape:cy="776.68996"
+     inkscape:zoom="1"
+     inkscape:cx="396.45895"
+     inkscape:cy="726.73984"
      inkscape:document-units="px"
-     inkscape:current-layer="Rectangles"
-     showgrid="true"
+     inkscape:current-layer="layer4"
+     showgrid="false"
      inkscape:window-width="1272"
      inkscape:window-height="743"
      inkscape:window-x="0"
@@ -70,6 +70,84 @@
   </sodipodi:namedview>
   <defs
      id="defs4">
+    <linearGradient
+       id="linearGradient19808">
+      <stop
+         id="stop19810"
+         offset="0"
+         style="stop-color:#5f625d;stop-opacity:1" />
+      <stop
+         id="stop19812"
+         offset="1"
+         style="stop-color:#2e3436;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient19794">
+      <stop
+         style="stop-color:#fa9e14;stop-opacity:1"
+         offset="0"
+         id="stop19796" />
+      <stop
+         style="stop-color:#e96623;stop-opacity:1"
+         offset="1"
+         id="stop19798" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient19788">
+      <stop
+         id="stop19790"
+         offset="0"
+         style="stop-color:#fcd301;stop-opacity:1" />
+      <stop
+         id="stop19792"
+         offset="1"
+         style="stop-color:#fcb610;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient19766">
+      <stop
+         id="stop19768"
+         offset="0"
+         style="stop-color:#a9d152;stop-opacity:1" />
+      <stop
+         id="stop19770"
+         offset="1"
+         style="stop-color:#72b23a;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient19760">
+      <stop
+         id="stop19762"
+         offset="0"
+         style="stop-color:#30bfea;stop-opacity:1" />
+      <stop
+         id="stop19764"
+         offset="1"
+         style="stop-color:#089bcb;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient19754">
+      <stop
+         id="stop19756"
+         offset="0"
+         style="stop-color:#7179ba;stop-opacity:1" />
+      <stop
+         id="stop19758"
+         offset="1"
+         style="stop-color:#484ea1;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient19714"
+       inkscape:collect="always">
+      <stop
+         id="stop19716"
+         offset="0"
+         style="stop-color:#83897d;stop-opacity:1" />
+      <stop
+         id="stop19718"
+         offset="1"
+         style="stop-color:#888a85;stop-opacity:0;" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient11188">
@@ -1244,51 +1322,6 @@
          id="stop7729-9-3-6" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
-       id="linearGradient14805-2-6">
-      <stop
-         style="stop-color:#babdb6;stop-opacity:1"
-         offset="0"
-         id="stop14807-4-6" />
-      <stop
-         style="stop-color:#888a85;stop-opacity:0;"
-         offset="1"
-         id="stop14809-8-4" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient7701-9-2">
-      <stop
-         style="stop-color:#fcd301;stop-opacity:1"
-         offset="0"
-         id="stop7703-3-8" />
-      <stop
-         style="stop-color:#fcb610;stop-opacity:1"
-         offset="1"
-         id="stop7705-8-9" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient7695-9-7">
-      <stop
-         style="stop-color:#fa9e14;stop-opacity:1"
-         offset="0"
-         id="stop7697-0-0" />
-      <stop
-         style="stop-color:#e96623;stop-opacity:1"
-         offset="1"
-         id="stop7699-5-1" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient12101-7-3">
-      <stop
-         id="stop12103-3-7"
-         offset="0"
-         style="stop-color:#5f625d;stop-opacity:1" />
-      <stop
-         id="stop12105-79-7"
-         offset="1"
-         style="stop-color:#2e3436;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient
        id="linearGradient7725-3-4">
       <stop
          style="stop-color:#ad7fa8;stop-opacity:1"
@@ -1298,60 +1331,6 @@
          style="stop-color:#75507b;stop-opacity:1"
          offset="1"
          id="stop7729-9-2" />
-    </linearGradient>
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient14805-2-6"
-       id="radialGradient7674-6-0"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.4915982,0,0,2.4915933,-1625.6034,-2094.2062)"
-       cx="474.98953"
-       cy="1398.3351"
-       fx="474.98953"
-       fy="1398.3351"
-       r="23.499924" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient7719-3-9"
-       id="linearGradient7676-0-2"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.4809693,0,0,2.2631579,324.41707,-53.21233)"
-       x1="-314.93762"
-       y1="623.28674"
-       x2="-314.93762"
-       y2="631.35229" />
-    <linearGradient
-       id="linearGradient7719-3-9">
-      <stop
-         style="stop-color:#7179ba;stop-opacity:1"
-         offset="0"
-         id="stop7721-9-0" />
-      <stop
-         style="stop-color:#484ea1;stop-opacity:1"
-         offset="1"
-         id="stop7723-8-9" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient7713-7-5">
-      <stop
-         style="stop-color:#30bfea;stop-opacity:1"
-         offset="0"
-         id="stop7715-6-1" />
-      <stop
-         style="stop-color:#089bcb;stop-opacity:1"
-         offset="1"
-         id="stop7717-2-0" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient7707-3-8">
-      <stop
-         style="stop-color:#a9d152;stop-opacity:1"
-         offset="0"
-         id="stop7709-9-8" />
-      <stop
-         style="stop-color:#73b43b;stop-opacity:1"
-         offset="1"
-         id="stop7711-9-6" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -1460,142 +1439,6 @@
        r="15.999903" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient7725-3-4"
-       id="linearGradient17938"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.4149271,0,0,2.2029174,223.60434,-15.315631)"
-       x1="-314.93762"
-       y1="623.28674"
-       x2="-314.93762"
-       y2="631.35229" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient7725-3-4"
-       id="linearGradient17941"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.5303361,0,0,2.308188,259.97469,-81.54031)"
-       x1="-314.93762"
-       y1="623.28674"
-       x2="-314.93762"
-       y2="631.35229" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient14805-2-6"
-       id="radialGradient17944"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.4915982,0,0,2.4915933,-1705.6034,-2094.2062)"
-       cx="474.98953"
-       cy="1398.3351"
-       fx="474.98953"
-       fy="1398.3351"
-       r="23.499924" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient14805-2-6"
-       id="radialGradient17987"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.4915982,0,0,2.4915933,-1545.6034,-2094.2062)"
-       cx="474.98953"
-       cy="1398.3351"
-       fx="474.98953"
-       fy="1398.3351"
-       r="23.499924" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient7713-7-5"
-       id="linearGradient17989"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.4809693,0,0,2.2631579,404.41707,-53.21233)"
-       x1="-314.93762"
-       y1="623.28674"
-       x2="-314.93762"
-       y2="631.35229" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient14805-2-6"
-       id="radialGradient17991"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.4915982,0,0,2.4915933,-1475.6034,-2094.2062)"
-       cx="474.98953"
-       cy="1398.3351"
-       fx="474.98953"
-       fy="1398.3351"
-       r="23.499924" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient7707-3-8"
-       id="linearGradient17993"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.4809693,0,0,2.2631579,474.4171,-53.21233)"
-       x1="-314.93762"
-       y1="623.28674"
-       x2="-314.93762"
-       y2="633.77545" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient14805-2-6"
-       id="radialGradient17995"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.4915982,0,0,2.4915933,-1545.6034,-2004.2062)"
-       cx="474.98953"
-       cy="1398.3351"
-       fx="474.98953"
-       fy="1398.3351"
-       r="23.499924" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient12101-7-3"
-       id="linearGradient17997"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.4809693,0,0,2.2631579,404.41707,36.78767)"
-       x1="-314.93762"
-       y1="623.28674"
-       x2="-314.93762"
-       y2="633.85443" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient14805-2-6"
-       id="radialGradient17999"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.4915982,0,0,2.4915933,-1625.6034,-2004.2062)"
-       cx="474.98953"
-       cy="1398.3351"
-       fx="474.98953"
-       fy="1398.3351"
-       r="23.499924" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient7695-9-7"
-       id="linearGradient18001"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.4809693,0,0,2.2631579,324.41707,36.78767)"
-       x1="-314.93762"
-       y1="623.28674"
-       x2="-314.93762"
-       y2="631.35229" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient14805-2-6"
-       id="radialGradient18003"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.4915982,0,0,2.4915933,-1705.6034,-2004.2062)"
-       cx="474.98953"
-       cy="1398.3351"
-       fx="474.98953"
-       fy="1398.3351"
-       r="23.499924" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient7701-9-2"
-       id="linearGradient18005"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.4809693,0,0,2.2631579,244.41707,36.78767)"
-       x1="-314.93762"
-       y1="623.28674"
-       x2="-314.93762"
-       y2="631.35229" />
-    <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient9316-4"
        id="linearGradient18039"
        gradientUnits="userSpaceOnUse"
@@ -1625,6 +1468,146 @@
        fx="-5.6432996"
        fy="1203.9858"
        r="15.999903" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient19808"
+       id="linearGradient19815"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.4795803,0,0,2.2619669,404.49139,38.10897)"
+       x1="-314.93762"
+       y1="622.17883"
+       x2="-314.93762"
+       y2="632.45813" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient19714"
+       id="linearGradient19818"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.021738,0,0,1.0217709,172.19499,60.734605)"
+       x1="-532.7287"
+       y1="1393.5172"
+       x2="-560.01086"
+       y2="1332.8383" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient19794"
+       id="linearGradient19821"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.4795803,0,0,2.2619669,324.49143,38.10897)"
+       x1="-314.93762"
+       y1="622.17883"
+       x2="-314.93762"
+       y2="632.45813" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient19714"
+       id="linearGradient19824"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.021738,0,0,1.0217709,92.195022,60.734605)"
+       x1="-532.7287"
+       y1="1393.5172"
+       x2="-560.01086"
+       y2="1332.8383" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient19788"
+       id="linearGradient19827"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.4795803,0,0,2.2619669,244.49147,38.10897)"
+       x1="-314.93762"
+       y1="622.17883"
+       x2="-314.93762"
+       y2="632.45813" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient19714"
+       id="linearGradient19830"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.021738,0,0,1.0217709,12.195021,60.734605)"
+       x1="-532.7287"
+       y1="1393.5172"
+       x2="-560.01086"
+       y2="1332.8383" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient19766"
+       id="linearGradient19833"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.4795803,0,0,2.2619669,474.49135,-51.891031)"
+       x1="-314.93762"
+       y1="622.17883"
+       x2="-314.93762"
+       y2="632.45813" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient19714"
+       id="linearGradient19836"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.021738,0,0,1.0217709,242.19496,-29.265396)"
+       x1="-532.7287"
+       y1="1393.5172"
+       x2="-560.01086"
+       y2="1332.8383" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient19760"
+       id="linearGradient19839"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.4795803,0,0,2.2619669,404.49139,-51.891031)"
+       x1="-314.93762"
+       y1="622.17883"
+       x2="-314.93762"
+       y2="632.45813" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient19714"
+       id="linearGradient19842"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.021738,0,0,1.0217709,172.19499,-29.265396)"
+       x1="-532.7287"
+       y1="1393.5172"
+       x2="-560.01086"
+       y2="1332.8383" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient19754"
+       id="linearGradient19845"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.4795803,0,0,2.2619669,324.49143,-51.891031)"
+       x1="-314.93762"
+       y1="622.17883"
+       x2="-314.93762"
+       y2="632.45813" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient19714"
+       id="linearGradient19848"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.021738,0,0,1.0217709,92.195022,-29.265396)"
+       x1="-532.7287"
+       y1="1393.5172"
+       x2="-560.01086"
+       y2="1332.8383" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7725-3-4"
+       id="linearGradient19851"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.4795803,0,0,2.2619669,244.49147,-51.891031)"
+       x1="-314.93762"
+       y1="622.17883"
+       x2="-314.93762"
+       y2="632.45813" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient19714"
+       id="linearGradient19854"
+       gradientUnits="userSpaceOnUse"
+       x1="-532.7287"
+       y1="1393.5172"
+       x2="-560.01086"
+       y2="1332.8383"
+       gradientTransform="matrix(1.021738,0,0,1.0217709,12.195021,-29.265396)" />
   </defs>
   <metadata
      id="metadata7">
@@ -2076,7 +2059,7 @@
   <g
      inkscape:groupmode="layer"
      id="Rectangles"
-     style="opacity:0.06944442;display:inline"
+     style="opacity:0.06944442;display:none"
      transform="translate(595,-303.72041)">
     <rect
        inkscape:label="media"
@@ -4537,7 +4520,7 @@
        id="moblin-skype"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
        transform="scale(-1,1)"
-       inkscape:label="communication" />
+       inkscape:label="communicate" />
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
@@ -4548,7 +4531,7 @@
        width="24"
        id="moblin-pidgin"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       inkscape:label="communication" />
+       inkscape:label="communicate" />
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
@@ -4666,7 +4649,7 @@
        inkscape:export-filename="/home/hbons/Intel/git/moblin-icon-theme/image.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       inkscape:label="communication" />
+       inkscape:label="communicate" />
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
@@ -4699,7 +4682,7 @@
        width="24"
        id="moblin-thunderbird"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       inkscape:label="communication" />
+       inkscape:label="communicate" />
     <rect
        y="1378.0901"
        x="-137"
@@ -4778,7 +4761,7 @@
        style="opacity:0.98999999;fill:#000000;fill-opacity:1;stroke:none;display:inline"
        inkscape:label="system" />
     <rect
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;display:inline"
+       style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
        id="moblin-preferences-desktop-accessibility"
        width="24"
        height="24"
@@ -30598,7 +30581,7 @@
            sodipodi:cy="274"
            sodipodi:rx="11"
            sodipodi:ry="11"
-           d="m -239,274 c 0,6.07513 -4.92487,11 -11,11 -6.07513,0 -11,-4.92487 -11,-11 0,-6.07513 4.92487,-11 11,-11 6.07513,0 11,4.92487 11,11 z"
+           d="m -239,274 a 11,11 0 1 1 -22,0 11,11 0 1 1 22,0 z"
            transform="translate(311,105.36218)" />
         <path
            sodipodi:type="arc"
@@ -30608,7 +30591,7 @@
            sodipodi:cy="269"
            sodipodi:rx="2"
            sodipodi:ry="2"
-           d="m -248,269 c 0,1.10457 -0.89543,2 -2,2 -1.10457,0 -2,-0.89543 -2,-2 0,-1.10457 0.89543,-2 2,-2 1.10457,0 2,0.89543 2,2 z"
+           d="m -248,269 a 2,2 0 1 1 -4,0 2,2 0 1 1 4,0 z"
            transform="translate(311.00025,105.36192)" />
         <path
            style="color:#000000;fill:none;stroke:#bebebe;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -36831,274 +36814,174 @@
        id="layer4"
        inkscape:label="Tiles"
        style="display:inline">
-      <g
-         id="g17946"
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
          inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/web.png"
-         inkscape:export-xdpi="90"
+         style="fill:#ffffff;fill-opacity:1;stroke:url(#linearGradient19854);stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect7678"
+         width="46.99979"
+         height="47.001259"
+         x="-560.48914"
+         y="1347.5894"
+         rx="4.4870734"
+         ry="4.4872179" />
+      <rect
          inkscape:export-ydpi="90"
-         transform="matrix(1.021738,0,0,1.0217709,12.195021,-29.265396)">
-        <rect
-           ry="5.1269016"
-           rx="5.1270671"
-           y="1347.5181"
-           x="-560.5"
-           height="45.999802"
-           width="45.999847"
-           id="rect7678"
-           style="fill:none;stroke:url(#radialGradient17944);stroke-width:0.97870862;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-        <rect
-           style="fill:url(#linearGradient17941);fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.97870862;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="rect7681"
-           width="43.739342"
-           height="43.855572"
-           x="-559.31274"
-           y="1348.59"
-           rx="3.5521028"
-           ry="3.5614314" />
-        <rect
-           ry="2.5233707"
-           rx="2.523452"
-           y="1349.5901"
-           x="-558.31525"
-           height="41.855431"
-           width="41.744385"
-           id="rect17913"
-           style="fill:url(#linearGradient17938);fill-opacity:1;fill-rule:nonzero;stroke:#75507b;stroke-width:0.97870862;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-      </g>
-      <g
-         id="g17951"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/web.png"
+         ry="2.4899182"
+         rx="2.4898381"
+         y="1349.6011"
+         x="-558.36194"
+         height="42.977367"
+         width="42.86198"
+         id="rect7681"
+         style="fill:url(#linearGradient19851);fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
          inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/media.png"
-         inkscape:export-xdpi="90"
+         ry="4.4872179"
+         rx="4.4870734"
+         y="1347.5894"
+         x="-480.48923"
+         height="47.001259"
+         width="46.99979"
+         id="rect19730"
+         style="fill:#ffffff;fill-opacity:1;stroke:url(#linearGradient19848);stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
          inkscape:export-ydpi="90"
-         transform="matrix(1.0212799,0,0,1.0228122,10.235637,-30.728431)">
-        <g
-           id="g7182"
-           style="display:inline"
-           transform="translate(0,2.4999999e-6)">
-          <rect
-             style="fill:none;stroke:url(#radialGradient7674-6-0);stroke-width:0.97842979;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-             id="rect7666"
-             width="45.999847"
-             height="45.999802"
-             x="-480.5"
-             y="1347.5181"
-             rx="5.1293669"
-             ry="5.1216822" />
-          <rect
-             ry="3.5578058"
-             rx="3.5536962"
-             y="1349.0178"
-             x="-478.88599"
-             height="43"
-             width="42.885986"
-             id="rect7668"
-             style="fill:url(#linearGradient7676-0-2);fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.95685947;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-        </g>
-        <rect
-           style="fill:none;stroke:#484ea1;stroke-width:0.97842979;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="rect17917"
-           width="41.744385"
-           height="41.855431"
-           x="-478.31525"
-           y="1349.5901"
-           rx="3.0141656"
-           ry="3.0096502" />
-      </g>
-      <g
-         id="g17957"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/media.png"
+         style="fill:url(#linearGradient19845);fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect19732"
+         width="42.86198"
+         height="42.977367"
+         x="-478.36206"
+         y="1349.6011"
+         rx="2.4898381"
+         ry="2.4899182" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
          inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/preferences.png"
-         inkscape:export-xdpi="90"
+         style="fill:#ffffff;fill-opacity:1;stroke:url(#linearGradient19842);stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect19738"
+         width="46.99979"
+         height="47.001259"
+         x="-400.48935"
+         y="1347.5894"
+         rx="4.4870734"
+         ry="4.4872179" />
+      <rect
          inkscape:export-ydpi="90"
-         transform="matrix(1.0215063,0,0,1.0228293,8.6240273,-30.751531)">
-        <g
-           id="g7186"
-           style="display:inline"
-           transform="translate(0,2.4999999e-6)">
-          <rect
-             ry="5.1215968"
-             rx="5.1282301"
-             y="1347.5181"
-             x="-400.5"
-             height="45.999802"
-             width="45.999847"
-             id="rect7662"
-             style="fill:none;stroke:url(#radialGradient17987);stroke-width:0.97831315;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-          <rect
-             style="fill:url(#linearGradient17989);fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.95662618;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-             id="rect7664"
-             width="42.885986"
-             height="43"
-             x="-398.88602"
-             y="1349.0178"
-             rx="3.5529087"
-             ry="3.5577462" />
-        </g>
-        <rect
-           ry="3.0095997"
-           rx="3.0134976"
-           y="1349.5901"
-           x="-398.31525"
-           height="41.855431"
-           width="41.744385"
-           id="rect17921"
-           style="fill:none;stroke:#089bcb;stroke-width:0.97831315;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-      </g>
-      <g
-         id="g17963"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/preferences.png"
+         ry="2.4899182"
+         rx="2.4898381"
+         y="1349.6011"
+         x="-398.36218"
+         height="42.977367"
+         width="42.86198"
+         id="rect19740"
+         style="fill:url(#linearGradient19839);fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
          inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/office.png"
-         inkscape:export-xdpi="90"
+         ry="4.4872179"
+         rx="4.4870734"
+         y="1347.5894"
+         x="-330.48944"
+         height="47.001259"
+         width="46.99979"
+         id="rect19746"
+         style="fill:#ffffff;fill-opacity:1;stroke:url(#linearGradient19836);stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
          inkscape:export-ydpi="90"
-         transform="matrix(1.0212799,0,0,1.0228122,7.0436507,-30.728431)">
-        <g
-           id="g7190"
-           style="display:inline"
-           transform="translate(0,2.4999999e-6)">
-          <rect
-             ry="5.1216822"
-             rx="5.1293669"
-             y="1347.5181"
-             x="-330.5"
-             height="45.999802"
-             width="45.999847"
-             id="rect7650"
-             style="fill:none;stroke:url(#radialGradient17991);stroke-width:0.97842979;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-          <rect
-             style="fill:url(#linearGradient17993);fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.95685947;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-             id="rect7652"
-             width="42.885986"
-             height="43"
-             x="-328.88602"
-             y="1349.0178"
-             rx="3.5536962"
-             ry="3.5578058" />
-        </g>
-        <rect
-           style="fill:none;stroke:#67a436;stroke-width:0.97842979;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="rect17923"
-           width="41.744385"
-           height="41.855431"
-           x="-328.31525"
-           y="1349.5901"
-           rx="3.0141656"
-           ry="3.0096502" />
-      </g>
-      <g
-         id="g17981"
-         transform="matrix(1.0212799,0,0,1.0228122,10.235637,-32.781528)"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/games.png"
          inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90">
-        <g
-           id="g7202"
-           style="display:inline"
-           transform="translate(0,2.4999999e-6)">
-          <rect
-             style="fill:none;stroke:url(#radialGradient17999);stroke-width:0.97842979;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-             id="rect7638"
-             width="45.999847"
-             height="45.999802"
-             x="-480.5"
-             y="1437.5181"
-             rx="5.1293669"
-             ry="5.1216822" />
-          <rect
-             ry="3.5578058"
-             rx="3.5536962"
-             y="1439.0178"
-             x="-478.88599"
-             height="43"
-             width="42.885986"
-             id="rect7640"
-             style="fill:url(#linearGradient18001);fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.95685947;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-        </g>
-        <rect
-           ry="3.0096502"
-           rx="3.0141656"
-           y="1439.5901"
-           x="-478.31525"
-           height="41.855431"
-           width="41.744385"
-           id="rect17925"
-           style="fill:none;stroke:#e96623;stroke-width:0.97842978999999997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-      </g>
-      <g
-         id="g17969"
-         transform="matrix(1.0212799,0,0,1.0228122,8.5332445,-32.781528)"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/system.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/office.png"
+         style="fill:url(#linearGradient19833);fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect19748"
+         width="42.86198"
+         height="42.977367"
+         x="-328.36227"
+         y="1349.6011"
+         rx="2.4898381"
+         ry="2.4899182" />
+      <rect
+         inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90">
-        <g
-           id="g7194"
-           style="display:inline"
-           transform="translate(0,2.4999999e-6)">
-          <rect
-             ry="5.1216822"
-             rx="5.1293669"
-             y="1437.5181"
-             x="-400.5"
-             height="45.999802"
-             width="45.999847"
-             id="rect14777"
-             style="fill:none;stroke:url(#radialGradient17995);stroke-width:0.97842979;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-          <rect
-             style="fill:url(#linearGradient17997);fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.95685947;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-             id="rect12097"
-             width="42.885986"
-             height="43"
-             x="-398.88599"
-             y="1439.0178"
-             rx="3.5536962"
-             ry="3.5578058" />
-        </g>
-        <rect
-           style="fill:none;stroke:#2e3436;stroke-width:0.97842979;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="rect17927"
-           width="41.744385"
-           height="41.855431"
-           x="-398.31525"
-           y="1439.5901"
-           rx="3.0141656"
-           ry="3.0096502" />
-      </g>
-      <g
-         id="g17975"
-         transform="matrix(1.0212799,0,0,1.0228122,11.93803,-32.781528)"
          inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/communicate.png"
+         ry="4.4872179"
+         rx="4.4870734"
+         y="1437.5898"
+         x="-560.48914"
+         height="47.001259"
+         width="46.99979"
+         id="rect19772"
+         style="fill:#ffffff;fill-opacity:1;stroke:url(#linearGradient19830);stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90">
-        <g
-           id="g7198"
-           style="display:inline"
-           transform="translate(0,2.4999999e-6)">
-          <rect
-             style="fill:none;stroke:url(#radialGradient18003);stroke-width:0.97842979;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-             id="rect7646"
-             width="45.999847"
-             height="45.999802"
-             x="-560.5"
-             y="1437.5181"
-             rx="5.1293669"
-             ry="5.1216822" />
-          <rect
-             ry="3.5578058"
-             rx="3.5536962"
-             y="1439.0178"
-             x="-558.88599"
-             height="43"
-             width="42.885986"
-             id="rect7648"
-             style="fill:url(#linearGradient18005);fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.95685947;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-        </g>
-        <rect
-           style="fill:none;stroke:#fcb610;stroke-width:0.97842978999999997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="rect17929"
-           width="41.744385"
-           height="41.855431"
-           x="-558.31525"
-           y="1439.5901"
-           rx="3.0141656"
-           ry="3.0096502" />
-      </g>
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/communicate.png"
+         style="fill:url(#linearGradient19827);fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect19774"
+         width="42.86198"
+         height="42.977367"
+         x="-558.36194"
+         y="1439.6016"
+         rx="2.4898381"
+         ry="2.4899182" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/games.png"
+         style="fill:#ffffff;fill-opacity:1;stroke:url(#linearGradient19824);stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect19776"
+         width="46.99979"
+         height="47.001259"
+         x="-480.48923"
+         y="1437.5898"
+         rx="4.4870734"
+         ry="4.4872179" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/games.png"
+         ry="2.4899182"
+         rx="2.4898381"
+         y="1439.6016"
+         x="-478.36206"
+         height="42.977367"
+         width="42.86198"
+         id="rect19778"
+         style="fill:url(#linearGradient19821);fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/system.png"
+         ry="4.4872179"
+         rx="4.4870734"
+         y="1437.5898"
+         x="-400.48935"
+         height="47.001259"
+         width="46.99979"
+         id="rect19800"
+         style="fill:#ffffff;fill-opacity:1;stroke:url(#linearGradient19818);stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/system.png"
+         style="fill:url(#linearGradient19815);fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect19802"
+         width="42.86198"
+         height="42.977367"
+         x="-398.36218"
+         y="1439.6016"
+         rx="2.4898381"
+         ry="2.4899182" />
       <g
          id="g17884"
          inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/32x32/web.png"
