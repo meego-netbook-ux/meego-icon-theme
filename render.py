@@ -8,6 +8,7 @@ Usage: render-applications-icons [options] filename
 
 Options:
     -o, --output    directory        where to put the generated files
+    -i, --id        XML id           only generate the corresponding icon
     -h, --help                       print this help
     -v, --verbose                    verbose output"""
 
@@ -22,11 +23,12 @@ import tempfile
 
 __author__    = 'Damien Lespiau <damien.lespiau@intel.com'
 __version__   = '0.1'
-__date__      = '20100106'
+__date__      = '20100107'
 __copyright__ = 'Copyright (©) 2009-10 Intel Corporation'
 __license__   = 'GPL v2'
 
-verbose = 0
+verbose    = 0
+opt_xml_id = None
 
 class RendererException(Exception):
     pass
@@ -213,9 +215,15 @@ class IconTheme:
         dirs = { '16': output_dir_16, '24': output_dir_24 }
 
         for rect in res:
+            global opt_xml_id
+
             id = rect.prop('id')
             width = rect.prop('width')
             height = rect.prop('height')
+
+            # if opt_xml_id, only generate this id
+            if opt_xml_id and id != opt_xml_id:
+                continue
 
             if re_default_rect_id.match(id):
                 debug("Dropping " + id)
@@ -274,8 +282,14 @@ class IconTheme:
                                  "/svg:rect")
 
         for node in res:
+            global opt_xml_id
+
             fg_name = node.prop('id')
             fg_file = os.path.join(tmp_dir, fg_name + '.png')
+
+            # if opt_xml_id, only generate this id
+            if opt_xml_id and fg_name != opt_xml_id:
+                continue
 
             tile_name = node.prop('label')
             tile_file = os.path.join('tiles',
@@ -300,10 +314,10 @@ def main(argv):
     opt_output = "."
 
     try:
-        opts, args = getopt.getopt(argv, 'hvo:', ('help',
-                                                  'verbose',
-                                                  'output=',
-                                                  'extra-verbose'))
+        opts, args = getopt.getopt(argv, 'hvo:i:', ('help',
+                                                    'verbose',
+                                                    'output=',
+                                                    'id='))
     except getopt.GetoptError:
         usage()
     for opt, arg, in opts:
@@ -316,6 +330,9 @@ def main(argv):
             verbose = 2
         elif opt in ('-o', '--output'):
             opt_output = arg
+        elif opt in ('-i', '--id'):
+            global opt_xml_id
+            opt_xml_id = arg
         else:
             assert False, "Unhandled option"
 
