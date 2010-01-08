@@ -31,9 +31,9 @@
      objecttolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="936.39724"
-     inkscape:cy="275.7833"
+     inkscape:zoom="2"
+     inkscape:cx="862.46323"
+     inkscape:cy="317.91399"
      inkscape:document-units="px"
      inkscape:current-layer="Rectangles"
      showgrid="true"
@@ -3946,11 +3946,12 @@
        inkscape:label="#rect12107" />
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="rect12874"
+       id="16-go-right"
        width="16"
        height="16"
        x="20.999941"
-       y="1702.0901" />
+       y="1702.0901"
+       inkscape:label="" />
     <rect
        y="1702.0901"
        x="52.999939"
