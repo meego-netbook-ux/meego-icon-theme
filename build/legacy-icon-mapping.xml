@@ -417,16 +417,12 @@
 	    <link>stock_zoom-out</link>
 	    <link>viewmag-</link>
         </icon>
-    </context>
-    <context dir="icons">
 	<icon name="process-idle">
 	    <link>gnome-spinner-rest</link>
 	</icon>
 	<icon name="process-working">
 	    <link>gnome-spinner</link>
 	</icon>
-    </context>
-    <context dir="icons">
 	<icon name="accessories-calculator">
 	    <link>gnome-calculator</link>
 	    <link>kcalc</link>
@@ -552,8 +548,6 @@
 	    <link>terminal</link>
 	    <link>xfce-terminal</link>
 	</icon>
-    </context>
-    <context dir="icons">
 	<icon name="applications-accessories">
 	    <link>gnome-util</link>
 	    <link>package_utilities</link>
@@ -623,8 +617,6 @@
 	    <link>redhat-system_settings</link>
 	    <link>xfce-system-settings</link>
 	</icon>
-    </context>
-    <context dir="icons">
 	<icon name="audio-card">
 	    <link>yast_soundcard</link>
 	</icon>
@@ -746,16 +738,12 @@
 	    <link>display</link>
 	    <link>xfce4-display</link>
 	</icon>
-    </context>
-    <context dir="icons">
 	<icon name="emblem-readonly">
 	    <link>emblem-nowrite</link>
 	</icon>
 	<icon name="emblem-unreadable">
 	    <link>emblem-noread</link>
 	</icon>
-    </context>
-    <context dir="icons">
 	<icon name="face-angel">
 	    <link>stock_smiley-18</link>
 	</icon>
@@ -797,8 +785,6 @@
 	<icon name="face-wink">
 	    <link>stock_smiley-3</link>
 	</icon>
-    </context>
-    <context dir="icons">
 	<icon name="application-certificate">
 	    <link>stock_certificate</link>
 	</icon>
@@ -992,8 +978,6 @@
 	    <link>gnome-mime-application-vnd.oasis.opendocument.spreadsheet-template</link>
 	    <link>gnome-mime-application-vnd.sun.xml.calc.template</link>
 	</icon>
-    </context>
-    <context dir="icons">
 	<icon name="folder">
 	    <link>gnome-fs-directory</link>
 	    <link>gtk-directory</link>
@@ -1067,8 +1051,6 @@
 	    <link>gnome-stock-trash</link>
 	    <link>xfce-trash_empty</link>
 	</icon>
-    </context>
-    <context dir="icons">
 	<icon name="appointment-missed">
 	    <link>stock_appointment-reminder-excl</link>
 	</icon>
