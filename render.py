@@ -229,18 +229,18 @@ class IconTheme:
                 debug("Dropping " + id)
                 continue
 
+            if not((width == '16' and height == '16') or
+                   (width == '24' and height == '24')):
+                debug("Dropping " + id)
+                continue
+
             # strip the moblin- prefix
             if id.startswith('moblin-'):
                 id = id[7:]
 
             # strip the 16- prefix
-            if width == 16 and id.startswith('16-'):
+            if width == '16' and id.startswith('16-'):
                 id = id[3:]
-
-            if not((width == '16' and height == '16') or
-                   (width == '24' and height == '24')):
-                debug("Dropping " + id)
-                continue
 
             file = os.path.join(dirs[width], id + '.png')
             print('Generating ' + file)
