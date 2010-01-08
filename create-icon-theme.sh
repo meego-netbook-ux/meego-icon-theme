@@ -73,7 +73,7 @@ do
                       echo "theme_DATA = $files" >> $dir/$context/Makefile.am
                       echo "EXTRA_DIST = \$(theme_DATA)" >> $dir/$context/Makefile.am
                       echo "install-data-local: install-themeDATA"  >> $dir/$context/Makefile.am
-                      echo "	(cd \"\$(DESTDIR)\$(themedir)\" && \$(ICONMAP) -c $context )" >> $dir/$context/Makefile.am
+                      echo "	(cd \"\$(DESTDIR)\$(themedir)\" && \$(abs_top_srcdir)/icon-name-mapping -x \$(abs_top_srcdir)/legacy-icon-mapping.xml -c $context )" >> $dir/$context/Makefile.am
                       echo "MAINTAINERCLEANFILES = Makefile.in" >> $dir/$context/Makefile.am
               done
 done

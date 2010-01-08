@@ -2,7 +2,7 @@
 <!DOCTYPE mapping SYSTEM "legacy-icon-mapping.dtd">
 
 <mapping>
-    <context dir="actions">
+    <context dir="icons">
 	<icon name="address-book-new">
 	    <link>stock_new-address-book</link>
 	</icon>
@@ -418,7 +418,7 @@
 	    <link>viewmag-</link>
         </icon>
     </context>
-    <context dir="animations">
+    <context dir="icons">
 	<icon name="process-idle">
 	    <link>gnome-spinner-rest</link>
 	</icon>
@@ -426,7 +426,7 @@
 	    <link>gnome-spinner</link>
 	</icon>
     </context>
-    <context dir="apps">
+    <context dir="icons">
 	<icon name="accessories-calculator">
 	    <link>gnome-calculator</link>
 	    <link>kcalc</link>
@@ -553,7 +553,7 @@
 	    <link>xfce-terminal</link>
 	</icon>
     </context>
-    <context dir="categories">
+    <context dir="icons">
 	<icon name="applications-accessories">
 	    <link>gnome-util</link>
 	    <link>package_utilities</link>
@@ -624,7 +624,7 @@
 	    <link>xfce-system-settings</link>
 	</icon>
     </context>
-    <context dir="devices">
+    <context dir="icons">
 	<icon name="audio-card">
 	    <link>yast_soundcard</link>
 	</icon>
@@ -747,7 +747,7 @@
 	    <link>xfce4-display</link>
 	</icon>
     </context>
-    <context dir="emblems">
+    <context dir="icons">
 	<icon name="emblem-readonly">
 	    <link>emblem-nowrite</link>
 	</icon>
@@ -755,7 +755,7 @@
 	    <link>emblem-noread</link>
 	</icon>
     </context>
-    <context dir="emotes">
+    <context dir="icons">
 	<icon name="face-angel">
 	    <link>stock_smiley-18</link>
 	</icon>
@@ -798,7 +798,7 @@
 	    <link>stock_smiley-3</link>
 	</icon>
     </context>
-    <context dir="mimetypes">
+    <context dir="icons">
 	<icon name="application-certificate">
 	    <link>stock_certificate</link>
 	</icon>
@@ -993,7 +993,7 @@
 	    <link>gnome-mime-application-vnd.sun.xml.calc.template</link>
 	</icon>
     </context>
-    <context dir="places">
+    <context dir="icons">
 	<icon name="folder">
 	    <link>gnome-fs-directory</link>
 	    <link>gtk-directory</link>
@@ -1068,7 +1068,7 @@
 	    <link>xfce-trash_empty</link>
 	</icon>
     </context>
-    <context dir="status">
+    <context dir="icons">
 	<icon name="appointment-missed">
 	    <link>stock_appointment-reminder-excl</link>
 	</icon>
