@@ -21,7 +21,7 @@ if test "x$have_utils" = "xyes"; then
 else
    AC_MSG_RESULT([no])
    AC_MSG_ERROR([icon-naming-utils >= $UTILS_REQUIRED is required to build
-                 and install sato-icon-theme])
+                 and install moblin-icon-theme])
 fi
 
 
