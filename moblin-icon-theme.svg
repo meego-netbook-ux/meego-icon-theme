@@ -31,9 +31,9 @@
      objecttolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8"
-     inkscape:cx="918.50286"
-     inkscape:cy="1488.5092"
+     inkscape:zoom="4"
+     inkscape:cx="756.08028"
+     inkscape:cy="582.06397"
      inkscape:document-units="px"
      inkscape:current-layer="Rectangles"
      showgrid="true"
@@ -3504,7 +3504,7 @@
        x="241"
        height="24"
        width="24"
-       id="phone-cell"
+       id="phone"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
        inkscape:label="#rect11285" />
     <rect
@@ -3549,11 +3549,12 @@
        inkscape:label="#rect11295" />
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="rect11297"
+       id="video-display"
        width="24"
        height="24"
        x="144.99998"
-       y="578.09003" />
+       y="578.09003"
+       inkscape:label="#rect11297" />
     <rect
        y="578.09003"
        x="177"
@@ -6315,6 +6316,14 @@
        id="pda"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
        inkscape:label="#rect11321" />
+    <rect
+       inkscape:label="#rect12932"
+       y="1510.0901"
+       x="84.999939"
+       height="16"
+       width="16"
+       id="16-user-idle"
+       style="fill:#000000;fill-opacity:1;stroke:none;display:inline" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -7982,19 +7991,21 @@
        style="fill:none;stroke:#bebebe;stroke-width:1.99999964;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
     <path
        style="fill:none;stroke:#bebebe;stroke-width:1.99999964;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       d="m 179.09498,403.09 19.9832,0"
+       d="m 179.09498,402.09 19.9832,0"
        id="path21646" />
     <path
        id="path21648"
-       d="m 179.08888,403.1059 0,-15.023"
-       style="fill:none;stroke:#bebebe;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+       d="m 179.08888,402.1059 0,-14.023"
+       style="fill:none;stroke:#bebebe;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#bebebe;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       d="m 199.08888,403.1087 0,-15.0259"
-       id="path21650" />
+       d="m 199.08888,402.1087 0,-14.0259"
+       id="path21650"
+       sodipodi:nodetypes="cc" />
     <path
        id="path21652"
-       d="m 189.08888,406.1443 0,-3.0623"
+       d="m 189.08888,405.1443 0,-3.0623"
        style="fill:none;stroke:#bebebe;stroke-width:1.99999952;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
     <path
        id="path21681"
@@ -8260,11 +8271,11 @@
        style="fill:none;stroke:#bebebe;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
     <path
        id="path21654"
-       d="m 186.06528,409.1287 2.839,-2.8389"
+       d="m 186.06528,408.1287 2.839,-2.8389"
        style="fill:none;stroke:#bebebe;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
     <path
        style="fill:none;stroke:#bebebe;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       d="m 192.08768,409.1287 -2.8389,-2.8389"
+       d="m 192.08768,408.1287 -2.8389,-2.8389"
        id="path21657" />
     <rect
        style="fill:none;stroke:#bebebe;stroke-width:2.00000024;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:220;display:inline"
@@ -28180,7 +28191,7 @@
          sodipodi:nodetypes="cc" />
       <path
          style="opacity:0.98999999;fill:none;stroke:#bebebe;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-         d="m 165.9884,407.10164 -17.9884,0"
+         d="m 166.9884,407.10164 -18.9884,0"
          id="path32864-7"
          sodipodi:nodetypes="cc" />
       <path
@@ -35352,13 +35363,13 @@
        d="m -428.73178,846.09003 8.73178,0"
        style="fill:none;stroke:#febf00;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
     <path
-       style="fill:none;stroke:#bebebe;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       d="m 147.99995,495.09005 c 0,0 0,9 0,9 l 18,0 c 0,0 0,-9 0,-9 0,0 1,0 1,0 l 0,-8 c 0,-1.85826 -1.409,-3 -3,-3 l -13.96875,0 c -1.8129,0 -3,1.33241 -3,3 l -0.0313,8 c 0,0 1,0 1,0 z"
+       style="fill:none;stroke:#bebebe;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 148.8999,495.09005 c 0,0 0,9 0,9 l 16.20009,0 c 0,0 0,-9 0,-9 0,0 0.90001,0 0.90001,0 l 0,-8 c 0,-1.85826 -1.26811,-3 -2.70002,-3 l -12.57194,0 c -1.63162,0 -2.70002,1.33241 -2.70002,3 l -0.0282,8 c 0,0 0.9,0 0.9,0 z"
        id="path5460"
        sodipodi:nodetypes="ccccccccccc" />
     <path
        style="fill:none;stroke:#bebebe;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 151,492.09002 0,-3.99998 12,0 0,3.97788 -12,0.0222 0,-2e-5 0,-1e-5 z"
+       d="m 152,492.09002 0,-3.99998 10,0 0,3.97788 -10,0.0222 0,-2e-5 0,-1e-5 z"
        id="path5458"
        sodipodi:nodetypes="ccccccc" />
     <path
