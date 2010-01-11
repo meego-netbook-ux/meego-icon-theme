@@ -31,11 +31,11 @@
      objecttolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="817.1575"
-     inkscape:cy="936.93355"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="716.7708"
+     inkscape:cy="1634.1294"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer30"
      showgrid="true"
      inkscape:window-width="1272"
      inkscape:window-height="743"
@@ -6061,7 +6061,7 @@
        transform="scale(-1,1)" />
     <rect
        inkscape:label=""
-       style="opacity:0.06944442;fill:#000000;fill-opacity:1;stroke:none;display:inline"
+       style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
        id="x-document-template"
        width="24"
        height="24"
@@ -36058,57 +36058,57 @@
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" />
     <path
-       style="opacity:0.06944442;fill:none;stroke:#bebebe;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       style="opacity:1;fill:none;stroke:#bebebe;stroke-width:1.99999988000000006;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        d="m 85.02728,424.09008 -0.0945,-3.91952"
        id="path8336"
        sodipodi:nodetypes="cc" />
     <path
        id="path8338"
        d="m 101.0125,440.10204 0,-13.7878"
-       style="opacity:0.06944442;fill:none;stroke:#bebebe;stroke-width:1.99999964;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+       style="opacity:1;fill:none;stroke:#bebebe;stroke-width:1.99999963999999997;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
     <path
        sodipodi:nodetypes="cc"
        id="path8340"
        d="m 101.0049,440.09004 -4.02623,0"
-       style="opacity:0.06944442;fill:none;stroke:#bebebe;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+       style="opacity:1;fill:none;stroke:#bebebe;stroke-width:1.99999975999999990;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
     <path
        id="path8342"
        d="m 95,420.09004 -9.9783,0"
-       style="opacity:0.06944442;fill:none;stroke:#bebebe;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+       style="opacity:1;fill:none;stroke:#bebebe;stroke-width:1.99999988000000006;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
     <path
        sodipodi:nodetypes="cc"
        id="path8344"
        d="m 101.0125,426.17574 -6.0557,-6.0558"
-       style="opacity:0.06944442;fill:none;stroke:#bebebe;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+       style="opacity:1;fill:none;stroke:#bebebe;stroke-width:1.99999988000000006;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
     <path
        sodipodi:nodetypes="cc"
-       style="opacity:0.06944442;fill:none;stroke:#bebebe;stroke-width:1.99999964;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       style="opacity:1;fill:none;stroke:#bebebe;stroke-width:1.99999963999999997;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        d="m 84.93282,440.09008 0.0623,0"
        id="path12089-3" />
     <path
        sodipodi:nodetypes="cc"
-       style="opacity:0.06944442;fill:none;stroke:#bebebe;stroke-width:1.99999964;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       style="opacity:1;fill:none;stroke:#bebebe;stroke-width:1.99999963999999997;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        d="m 84.93282,436.09008 0.0623,0"
        id="path12089-6" />
     <path
        sodipodi:nodetypes="cc"
-       style="opacity:0.06944442;fill:none;stroke:#bebebe;stroke-width:1.99999964;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       style="opacity:1;fill:none;stroke:#bebebe;stroke-width:1.99999963999999997;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        d="m 84.93697,432.07969 0.0623,0"
        id="path12089-9" />
     <path
        sodipodi:nodetypes="cc"
-       style="opacity:0.06944442;fill:none;stroke:#bebebe;stroke-width:1.99999964;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       style="opacity:1;fill:none;stroke:#bebebe;stroke-width:1.99999963999999997;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        d="m 88.87052,440.09008 0.0623,0"
        id="path12089-0" />
     <path
        sodipodi:nodetypes="cc"
-       style="opacity:0.06944442;fill:none;stroke:#bebebe;stroke-width:1.99999964;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       style="opacity:1;fill:none;stroke:#bebebe;stroke-width:1.99999963999999997;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        d="m 92.93282,440.09008 0.0623,0"
        id="path12089-7" />
     <path
        id="path8404"
        d="m 84.93697,428.07969 0.0623,0"
-       style="opacity:0.06944442;fill:none;stroke:#bebebe;stroke-width:1.99999964;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       style="opacity:1;fill:none;stroke:#bebebe;stroke-width:1.99999963999999997;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        sodipodi:nodetypes="cc" />
   </g>
   <path
