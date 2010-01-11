@@ -21,7 +21,7 @@ import shutil
 import sys
 import tempfile
 
-__author__    = 'Damien Lespiau <damien.lespiau@intel.com'
+__author__    = 'Damien Lespiau <damien.lespiau@intel.com>'
 __version__   = '0.1'
 __date__      = '20100107'
 __copyright__ = 'Copyright (©) 2009-10 Intel Corporation'
