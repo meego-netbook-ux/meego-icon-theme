@@ -31,12 +31,12 @@
      objecttolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6568542"
-     inkscape:cx="716.7708"
-     inkscape:cy="1634.1294"
+     inkscape:zoom="8"
+     inkscape:cx="392.69481"
+     inkscape:cy="1537.6259"
      inkscape:document-units="px"
-     inkscape:current-layer="layer30"
-     showgrid="true"
+     inkscape:current-layer="Rectangles"
+     showgrid="false"
      inkscape:window-width="1272"
      inkscape:window-height="743"
      inkscape:window-x="0"
@@ -1485,7 +1485,7 @@
        xlink:href="#linearGradient19808"
        id="linearGradient19815"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.4795803,0,0,2.2619669,444.49139,38.10897)"
+       gradientTransform="matrix(2.4795803,0,0,2.2619669,452.49139,-24.89103)"
        x1="-314.93762"
        y1="622.17883"
        x2="-314.93762"
@@ -1495,7 +1495,7 @@
        xlink:href="#linearGradient19714"
        id="linearGradient19818"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.021738,0,0,1.0217709,212.19499,60.734605)"
+       gradientTransform="matrix(1.021738,0,0,1.0217709,220.19499,-2.265395)"
        x1="-532.7287"
        y1="1393.5172"
        x2="-560.01086"
@@ -1505,7 +1505,7 @@
        xlink:href="#linearGradient19794"
        id="linearGradient19821"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.4795803,0,0,2.2619669,344.49143,38.10897)"
+       gradientTransform="matrix(2.4795803,0,0,2.2619669,352.49143,-24.89103)"
        x1="-314.93762"
        y1="622.17883"
        x2="-314.93762"
@@ -1515,7 +1515,7 @@
        xlink:href="#linearGradient19714"
        id="linearGradient19824"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.021738,0,0,1.0217709,112.19502,60.734605)"
+       gradientTransform="matrix(1.021738,0,0,1.0217709,120.19502,-2.265395)"
        x1="-532.7287"
        y1="1393.5172"
        x2="-560.01086"
@@ -1525,7 +1525,7 @@
        xlink:href="#linearGradient19788"
        id="linearGradient19827"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.4795803,0,0,2.2619669,244.49147,38.10897)"
+       gradientTransform="matrix(2.4795803,0,0,2.2619669,252.49147,-24.89103)"
        x1="-314.93762"
        y1="625.05176"
        x2="-314.93762"
@@ -1535,7 +1535,7 @@
        xlink:href="#linearGradient19714"
        id="linearGradient19830"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.021738,0,0,1.0217709,12.195021,60.734605)"
+       gradientTransform="matrix(1.021738,0,0,1.0217709,20.195021,-2.265395)"
        x1="-532.7287"
        y1="1393.5172"
        x2="-560.01086"
@@ -1545,7 +1545,7 @@
        xlink:href="#linearGradient19766"
        id="linearGradient19833"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.4795803,0,0,2.2619669,534.49135,-51.891031)"
+       gradientTransform="matrix(2.4795803,0,0,2.2619669,542.49135,-114.89103)"
        x1="-314.93762"
        y1="622.17883"
        x2="-314.93762"
@@ -1555,7 +1555,7 @@
        xlink:href="#linearGradient19714"
        id="linearGradient19836"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.021738,0,0,1.0217709,302.19496,-29.265396)"
+       gradientTransform="matrix(1.021738,0,0,1.0217709,310.19496,-92.265396)"
        x1="-532.7287"
        y1="1393.5172"
        x2="-560.01086"
@@ -1565,7 +1565,7 @@
        xlink:href="#linearGradient19760"
        id="linearGradient19839"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.4795803,0,0,2.2619669,444.49139,-51.891031)"
+       gradientTransform="matrix(2.4795803,0,0,2.2619669,452.49139,-114.89103)"
        x1="-314.93762"
        y1="622.17883"
        x2="-314.93762"
@@ -1575,7 +1575,7 @@
        xlink:href="#linearGradient19714"
        id="linearGradient19842"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.021738,0,0,1.0217709,212.19499,-29.265396)"
+       gradientTransform="matrix(1.021738,0,0,1.0217709,220.19499,-92.265396)"
        x1="-532.7287"
        y1="1393.5172"
        x2="-560.01086"
@@ -1585,7 +1585,7 @@
        xlink:href="#linearGradient19754"
        id="linearGradient19845"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.4795803,0,0,2.2619669,344.49143,-51.891031)"
+       gradientTransform="matrix(2.4795803,0,0,2.2619669,352.49143,-114.89103)"
        x1="-314.93762"
        y1="622.17883"
        x2="-314.93762"
@@ -1595,7 +1595,7 @@
        xlink:href="#linearGradient19714"
        id="linearGradient19848"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.021738,0,0,1.0217709,112.19502,-29.265396)"
+       gradientTransform="matrix(1.021738,0,0,1.0217709,120.19502,-92.265396)"
        x1="-532.7287"
        y1="1393.5172"
        x2="-560.01086"
@@ -1605,7 +1605,7 @@
        xlink:href="#linearGradient7725-3-4"
        id="linearGradient19851"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.4795803,0,0,2.2619669,244.49147,-51.891031)"
+       gradientTransform="matrix(2.4795803,0,0,2.2619669,252.49147,-114.89103)"
        x1="-314.93762"
        y1="622.17883"
        x2="-314.93762"
@@ -1619,7 +1619,7 @@
        y1="1393.5172"
        x2="-560.01086"
        y2="1332.8383"
-       gradientTransform="matrix(1.021738,0,0,1.0217709,12.195021,-29.265396)" />
+       gradientTransform="matrix(1.021738,0,0,1.0217709,20.195021,-92.265396)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient8520"
@@ -1637,7 +1637,8 @@
        y1="1364.8448"
        x2="-515.49996"
        y2="1364.8448"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(8,-63)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient8207"
@@ -1647,7 +1648,7 @@
        y1="1364.8448"
        x2="-515.49996"
        y2="1364.8448"
-       gradientTransform="translate(100,0)" />
+       gradientTransform="translate(108,-63)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient8207"
@@ -1657,13 +1658,13 @@
        y1="1364.8448"
        x2="-515.49996"
        y2="1364.8448"
-       gradientTransform="translate(200,0)" />
+       gradientTransform="translate(208,-63)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient8207"
        id="linearGradient8225"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(290,0)"
+       gradientTransform="translate(298,-63)"
        x1="-558.36194"
        y1="1364.8448"
        x2="-515.49996"
@@ -1677,13 +1678,13 @@
        y1="1364.8448"
        x2="-515.49996"
        y2="1364.8448"
-       gradientTransform="translate(0,90)" />
+       gradientTransform="translate(8,27)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient8207"
        id="linearGradient8235"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(100,90)"
+       gradientTransform="translate(108,27)"
        x1="-558.36194"
        y1="1364.8448"
        x2="-515.49996"
@@ -1693,7 +1694,7 @@
        xlink:href="#linearGradient8207"
        id="linearGradient8237"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(200,90)"
+       gradientTransform="translate(208,27)"
        x1="-558.36194"
        y1="1364.8448"
        x2="-515.49996"
@@ -1847,6 +1848,20 @@
        sodipodi:type="inkscape:persp3d" />
     <inkscape:perspective
        id="perspective8592"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective8620"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective8649"
        inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
        inkscape:vp_z="1 : 0.5 : 1"
        inkscape:vp_y="0 : 1000 : 0"
@@ -2148,7 +2163,7 @@
            y="595.24408"
            style="font-size:32.680439px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#555753;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold" /></flowRegion><flowPara
          id="flowPara8567">16x16</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.4895895,0,0,0.4895895,-203.58497,1005.6136)"
+       transform="matrix(0.4895895,0,0,0.4895895,-332.58497,994.6136)"
        style="font-size:32.680439px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#555753;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
        id="flowRoot8569"
        xml:space="preserve"><flowRegion
@@ -2159,49 +2174,49 @@
            height="332.4971"
            width="466.48169"
            id="rect8574" /></flowRegion><flowPara
-         id="flowPara8576">Application tiles</flowPara></flowRoot>    <flowRoot
+         id="flowPara8576">App tiles</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot14507-8-0-5"
-       style="font-size:48.21987151999999810px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#555753;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
-       transform="matrix(0.3318134,0,0,0.3318134,-349.31334,1296.3485)"><flowRegion
+       style="font-size:48.21987152px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#555753;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       transform="matrix(0.3318134,0,0,0.3318134,-341.31334,1233.3485)"><flowRegion
          id="flowRegion14509-9-4-3"><rect
            id="rect14511-4-0-8"
            width="345.30063"
            height="169.6498"
            x="-721.60248"
            y="595.24408"
-           style="font-size:48.21987151999999810px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#555753;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" /></flowRegion><flowPara
+           style="font-size:48.21987152px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#555753;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" /></flowRegion><flowPara
          id="flowPara14513-7-6-5">Communicate</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot14507-8-0-5-1"
-       style="font-size:48.21987151999999810px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#555753;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
-       transform="matrix(0.3318134,0,0,0.3318134,-221.26786,1296.3485)"><flowRegion
+       style="font-size:48.21987152px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#555753;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       transform="matrix(0.3318134,0,0,0.3318134,-213.26786,1233.3485)"><flowRegion
          id="flowRegion14509-9-4-3-2"><rect
            id="rect14511-4-0-8-4"
            width="291.05328"
            height="163.62231"
            x="-721.60248"
            y="595.24408"
-           style="font-size:48.21987151999999810px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#555753;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" /></flowRegion><flowPara
+           style="font-size:48.21987152px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#555753;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" /></flowRegion><flowPara
          id="flowPara14513-7-6-5-6">Games</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot14507-8-0-5-1-7"
-       style="font-size:48.21987151999999810px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#555753;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
-       transform="matrix(0.3318134,0,0,0.3318134,-122.63529,1296.3485)"><flowRegion
+       style="font-size:48.21987152px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#555753;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       transform="matrix(0.3318134,0,0,0.3318134,-114.63529,1233.3485)"><flowRegion
          id="flowRegion14509-9-4-3-2-5"><rect
            id="rect14511-4-0-8-4-5"
            width="291.05328"
            height="163.62231"
            x="-721.60248"
            y="595.24408"
-           style="font-size:48.21987151999999810px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#555753;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" /></flowRegion><flowPara
+           style="font-size:48.21987152px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#555753;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" /></flowRegion><flowPara
          id="flowPara14513-7-6-5-6-0">System</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.3318134,0,0,0.3318134,-312.31803,1206.3485)"
-       style="font-size:48.21987151999999810px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#555753;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       transform="matrix(0.3318134,0,0,0.3318134,-304.31803,1143.3485)"
+       style="font-size:48.21987152px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#555753;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        id="flowRoot14458-8"
        xml:space="preserve"><flowRegion
          id="flowRegion14460-4"><rect
-           style="font-size:48.21987151999999810px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#555753;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+           style="font-size:48.21987152px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#555753;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
            y="595.24408"
            x="-721.60248"
            height="163.62231"
@@ -2210,44 +2225,44 @@
          id="flowPara14464-8">Web</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot14507"
-       style="font-size:48.21987151999999810px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#555753;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
-       transform="matrix(0.3318134,0,0,0.3318134,-217.96269,1206.3485)"><flowRegion
+       style="font-size:48.21987152px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#555753;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       transform="matrix(0.3318134,0,0,0.3318134,-209.96269,1143.3485)"><flowRegion
          id="flowRegion14509"><rect
            id="rect14511"
            width="291.05328"
            height="163.62231"
            x="-721.60248"
            y="595.24408"
-           style="font-size:48.21987151999999810px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#555753;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" /></flowRegion><flowPara
+           style="font-size:48.21987152px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#555753;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" /></flowRegion><flowPara
          id="flowPara14513">Media</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot14507-8"
-       style="font-size:48.21987151999999810px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#555753;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
-       transform="matrix(0.3318134,0,0,0.3318134,-137.34658,1206.3485)"><flowRegion
+       style="font-size:48.21987152px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#555753;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       transform="matrix(0.3318134,0,0,0.3318134,-129.34658,1143.3485)"><flowRegion
          id="flowRegion14509-9"><rect
            id="rect14511-4"
            width="291.05328"
            height="163.62231"
            x="-721.60248"
            y="595.24408"
-           style="font-size:48.21987151999999810px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#555753;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" /></flowRegion><flowPara
+           style="font-size:48.21987152px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#555753;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" /></flowRegion><flowPara
          id="flowPara14513-7">Preferences</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot14507-8-0"
-       style="font-size:48.21987151999999810px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#555753;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
-       transform="matrix(0.3318134,0,0,0.3318134,-27.392413,1206.3485)"><flowRegion
+       style="font-size:48.21987152px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#555753;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       transform="matrix(0.3318134,0,0,0.3318134,-19.392413,1143.3485)"><flowRegion
          id="flowRegion14509-9-4"><rect
            id="rect14511-4-0"
            width="291.05328"
            height="163.62231"
            x="-721.60248"
            y="595.24408"
-           style="font-size:48.21987151999999810px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#555753;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" /></flowRegion><flowPara
+           style="font-size:48.21987152px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#555753;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" /></flowRegion><flowPara
          id="flowPara14513-7-6">Office</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="Rectangles"
-     style="opacity:0.06944442;display:none"
+     style="opacity:0.06944442;display:inline"
      transform="translate(595,-303.72041)">
     <rect
        inkscape:label="media"
@@ -4228,14 +4243,6 @@
        x="112.99998"
        y="386.09003" />
     <rect
-       y="386.09003"
-       x="112.99998"
-       height="24"
-       width="24"
-       id="x-office-document-template"
-       style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       inkscape:label="#rect11241" />
-    <rect
        inkscape:label="#rect11239"
        y="386.09003"
        x="80.999992"
@@ -5704,7 +5711,7 @@
     <rect
        transform="scale(-1,1)"
        style="fill:#000000;fill-opacity:0.98113254;stroke:none;display:inline"
-       id="16-document"
+       id="16-document-x-generic"
        width="16"
        height="16"
        x="-132.99107"
@@ -6062,11 +6069,75 @@
     <rect
        inkscape:label=""
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="x-document-template"
+       id="x-office-document-template"
        width="24"
        height="24"
        x="80.9328"
        y="418.09006" />
+    <rect
+       y="418.09006"
+       x="80.9328"
+       height="24"
+       width="24"
+       id="x-document-template"
+       style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
+       inkscape:label="" />
+    <rect
+       inkscape:label="#rect6338-2"
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/Users/hylkebons/mit.png"
+       y="1606.0901"
+       x="-132.99107"
+       height="16"
+       width="16"
+       id="16-text-x-preview"
+       style="fill:#000000;fill-opacity:0.98113254;stroke:none;display:inline"
+       transform="scale(-1,1)" />
+    <rect
+       transform="scale(-1,1)"
+       style="fill:#000000;fill-opacity:0.98113254;stroke:none;display:inline"
+       id="16-text-x-script"
+       width="16"
+       height="16"
+       x="-132.99107"
+       y="1606.0901"
+       inkscape:export-filename="/Users/hylkebons/mit.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       inkscape:label="#rect6338-2" />
+    <rect
+       inkscape:label="#rect6338-2"
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/Users/hylkebons/mit.png"
+       y="1606.0901"
+       x="-132.99107"
+       height="16"
+       width="16"
+       id="16-text-x-document"
+       style="fill:#000000;fill-opacity:0.98113254;stroke:none;display:inline"
+       transform="scale(-1,1)" />
+    <rect
+       transform="scale(-1,1)"
+       style="fill:#000000;fill-opacity:0.98113254;stroke:none;display:inline"
+       id="16-text-html"
+       width="16"
+       height="16"
+       x="-132.99107"
+       y="1606.0901"
+       inkscape:export-filename="/Users/hylkebons/mit.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       inkscape:label="#rect6338-2" />
+    <rect
+       inkscape:label="#rect12960"
+       y="514.09003"
+       x="-239"
+       height="24"
+       width="24"
+       id="slideshow-play"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -7958,7 +8029,7 @@
     <path
        sodipodi:nodetypes="cc"
        id="path9789"
-       d="m -397.99998,919.05137 12.9832,0"
+       d="m -397.99998,919.05137 11.9832,0"
        style="fill:none;stroke:#bebebe;stroke-width:1.99999964;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
     <path
        sodipodi:nodetypes="cc"
@@ -7987,7 +8058,7 @@
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#bebebe;stroke-width:1.99999964;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       d="m -365.99998,919.05137 12.9832,0"
+       d="m -365.99998,919.05137 11.9832,0"
        id="path9809"
        sodipodi:nodetypes="cc" />
     <path
@@ -11836,21 +11907,6 @@
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" />
     <path
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;fill:#a0da00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:9.84898758;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
-       d="m -379.25004,911.58991 c -2.33834,0 -4.25002,1.91168 -4.25002,4.25006 0,2.33838 1.91168,4.25006 4.25002,4.25006 2.33834,0 4.25003,-1.91168 4.25003,-4.25006 0,-2.33838 -1.91169,-4.25006 -4.25003,-4.25006 z m 2.12501,1.90628 c 0.19172,0 0.38436,0.0718 0.53125,0.21875 0.29381,0.2938 0.29381,0.76871 0,1.06251 l -3.07813,3.07815 -0.0937,0.0938 c -0.003,0.005 0.003,0.0125 0,0.0155 -0.29381,0.29381 -0.7687,0.29381 -1.06251,0 l -1.06251,-1.06251 c -0.2938,-0.29381 -0.2938,-0.76872 0,-1.06252 0.29381,-0.29381 0.7687,-0.29381 1.06251,0 l 0.53125,0.53125 2.64064,-2.65629 c 0.1469,-0.1469 0.33954,-0.21874 0.53125,-0.21874 l 0,1.5e-4 z"
-       id="path3543-82"
-       inkscape:export-filename="/Users/hylkebons/mit.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300" />
-    <path
-       id="path7285"
-       d="m -344.2401,912.83944 c -1.65345,-1.65347 -4.35697,-1.65349 -6.01043,0 -1.65348,1.65349 -1.65346,4.35702 0,6.01048 1.65345,1.65347 4.35696,1.65349 6.01043,0 1.65347,-1.65347 1.65345,-4.35701 0,-6.01048 z"
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;fill:#ed2124;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:9.84898758;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
-       sodipodi:nodetypes="csssc"
-       inkscape:export-filename="/Users/hylkebons/mit.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300" />
-    <path
        sodipodi:nodetypes="cc"
        id="path9839"
        d="m -521,524.97209 0,-8.88206"
@@ -12767,19 +12823,6 @@
        style="fill:none;stroke:#febf00;stroke-width:1.99999964;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        d="m -254,810.10936 2.00277,1.98067"
        id="path22723" />
-    <rect
-       ry="0.75001103"
-       rx="0.75001103"
-       y="915.1145"
-       x="343.96121"
-       height="1.5000221"
-       width="6.5000343"
-       id="rect7287"
-       style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
-       transform="scale(-1,1)"
-       inkscape:export-filename="/Users/hylkebons/mit.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300" />
     <rect
        ry="1.5000002"
        rx="1.5000001"
@@ -22478,7 +22521,7 @@
        inkscape:export-ydpi="300">
       <path
          transform="matrix(0.1525864,-0.1525864,-0.1528094,-0.1528094,39.384338,31.464172)"
-         d="m -2.8284264,179.43886 c 0,12.69204 -10.2889306,22.98097 -22.9809706,22.98097 -12.692039,0 -22.98097,-10.28893 -22.98097,-22.98097 0,-12.69204 10.288931,-22.98097 22.98097,-22.98097 12.69204,0 22.9809706,10.28893 22.9809706,22.98097 z"
+         d="m -2.8284264,179.43886 a 22.98097,22.98097 0 1 1 -45.9619406,0 22.98097,22.98097 0 1 1 45.9619406,0 z"
          sodipodi:ry="22.98097"
          sodipodi:rx="22.98097"
          sodipodi:cy="179.43886"
@@ -22836,12 +22879,12 @@
          id="path21606" />
       <path
          sodipodi:nodetypes="cc"
-         style="fill:none;stroke:#089bcb;stroke-width:1.99999975999999990;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         style="fill:none;stroke:#089bcb;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
          d="m 26.012449,501.09503 -17.9695613,0"
          id="path21608" />
       <path
          sodipodi:nodetypes="cc"
-         style="fill:none;stroke:#089bcb;stroke-width:1.99999988000000006;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         style="fill:none;stroke:#089bcb;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
          d="m 23.618155,513.09503 -18.513049,0.0937"
          id="path21610" />
       <path
@@ -22857,7 +22900,7 @@
          inkscape:export-xdpi="300"
          inkscape:export-filename="/Users/hylkebons/mit.png"
          sodipodi:type="arc"
-         style="fill:none;stroke:#089bcb;stroke-width:18.38477324999999851;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+         style="fill:none;stroke:#089bcb;stroke-width:18.38477325;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
          id="path11421"
          sodipodi:cx="-25.809397"
          sodipodi:cy="179.43886"
@@ -29034,7 +29077,7 @@
        inkscape:groupmode="layer"
        id="layer3"
        inkscape:label="Work in Progress"
-       style="display:inline">
+       style="display:none">
       <flowRoot
          xml:space="preserve"
          id="flowRoot20367"
@@ -35242,8 +35285,8 @@
          id="rect7678"
          width="46.99979"
          height="47.001259"
-         x="-560.48914"
-         y="1347.5894"
+         x="-552.48914"
+         y="1284.5894"
          rx="4.4870734"
          ry="4.4872179" />
       <rect
@@ -35252,8 +35295,8 @@
          inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/web.png"
          ry="2.4899182"
          rx="2.4898381"
-         y="1349.6011"
-         x="-558.36194"
+         y="1286.6011"
+         x="-550.36194"
          height="42.977367"
          width="42.86198"
          id="rect7681"
@@ -35264,8 +35307,8 @@
          inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/media.png"
          ry="4.4872179"
          rx="4.4870734"
-         y="1347.5894"
-         x="-460.48923"
+         y="1284.5894"
+         x="-452.48923"
          height="47.001259"
          width="46.99979"
          id="rect19730"
@@ -35278,8 +35321,8 @@
          id="rect19732"
          width="42.86198"
          height="42.977367"
-         x="-458.36206"
-         y="1349.6011"
+         x="-450.36206"
+         y="1286.6011"
          rx="2.4898381"
          ry="2.4899182" />
       <rect
@@ -35290,8 +35333,8 @@
          id="rect19738"
          width="46.99979"
          height="47.001259"
-         x="-360.48935"
-         y="1347.5894"
+         x="-352.48935"
+         y="1284.5894"
          rx="4.4870734"
          ry="4.4872179" />
       <rect
@@ -35300,8 +35343,8 @@
          inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/preferences.png"
          ry="2.4899182"
          rx="2.4898381"
-         y="1349.6011"
-         x="-358.36218"
+         y="1286.6011"
+         x="-350.36218"
          height="42.977367"
          width="42.86198"
          id="rect19740"
@@ -35312,8 +35355,8 @@
          inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/office.png"
          ry="4.4872179"
          rx="4.4870734"
-         y="1347.5894"
-         x="-270.48944"
+         y="1284.5894"
+         x="-262.48944"
          height="47.001259"
          width="46.99979"
          id="rect19746"
@@ -35326,8 +35369,8 @@
          id="rect19748"
          width="42.86198"
          height="42.977367"
-         x="-268.36227"
-         y="1349.6011"
+         x="-260.36227"
+         y="1286.6011"
          rx="2.4898381"
          ry="2.4899182" />
       <rect
@@ -35336,8 +35379,8 @@
          inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/communicate.png"
          ry="4.4872179"
          rx="4.4870734"
-         y="1437.5898"
-         x="-560.48914"
+         y="1374.5898"
+         x="-552.48914"
          height="47.001259"
          width="46.99979"
          id="rect19772"
@@ -35350,8 +35393,8 @@
          id="rect19774"
          width="42.86198"
          height="42.977367"
-         x="-558.36194"
-         y="1439.6016"
+         x="-550.36194"
+         y="1376.6016"
          rx="2.4898381"
          ry="2.4899182" />
       <rect
@@ -35362,8 +35405,8 @@
          id="rect19776"
          width="46.99979"
          height="47.001259"
-         x="-460.48923"
-         y="1437.5898"
+         x="-452.48923"
+         y="1374.5898"
          rx="4.4870734"
          ry="4.4872179" />
       <rect
@@ -35372,8 +35415,8 @@
          inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/games.png"
          ry="2.4899182"
          rx="2.4898381"
-         y="1439.6016"
-         x="-458.36206"
+         y="1376.6016"
+         x="-450.36206"
          height="42.977367"
          width="42.86198"
          id="rect19778"
@@ -35384,8 +35427,8 @@
          inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/system.png"
          ry="4.4872179"
          rx="4.4870734"
-         y="1437.5898"
-         x="-360.48935"
+         y="1374.5898"
+         x="-352.48935"
          height="47.001259"
          width="46.99979"
          id="rect19800"
@@ -35398,15 +35441,16 @@
          id="rect19802"
          width="42.86198"
          height="42.977367"
-         x="-358.36218"
-         y="1439.6016"
+         x="-350.36218"
+         y="1376.6016"
          rx="2.4898381"
          ry="2.4899182" />
       <g
          id="g17884"
          inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/32x32/web.png"
          inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90">
+         inkscape:export-ydpi="90"
+         transform="translate(8,-63)">
         <g
            id="g7230"
            style="display:inline"
@@ -35435,7 +35479,8 @@
          id="g17889"
          inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/32x32/media.png"
          inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90">
+         inkscape:export-ydpi="90"
+         transform="translate(8,-63)">
         <rect
            style="fill:none;stroke:url(#radialGradient17882);stroke-width:1.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
            id="rect9230"
@@ -35459,7 +35504,8 @@
          id="g17893"
          inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/32x32/preferences.png"
          inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90">
+         inkscape:export-ydpi="90"
+         transform="translate(8,-63)">
         <rect
            ry="3.0387979"
            rx="3.0387979"
@@ -35483,7 +35529,8 @@
          id="g17897"
          inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/32x32/office.png"
          inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90">
+         inkscape:export-ydpi="90"
+         transform="translate(8,-63)">
         <rect
            style="fill:none;stroke:url(#radialGradient17870);stroke-width:1.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
            id="rect9246"
@@ -35507,7 +35554,8 @@
          id="g17901"
          inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/32x32/communicate.png"
          inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90">
+         inkscape:export-ydpi="90"
+         transform="translate(8,-63)">
         <rect
            ry="2.9762979"
            rx="2.9762979"
@@ -35531,7 +35579,8 @@
          id="g17905"
          inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/32x32/games.png"
          inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90">
+         inkscape:export-ydpi="90"
+         transform="translate(8,-63)">
         <rect
            style="fill:none;stroke:url(#radialGradient17858);stroke-width:1.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
            id="rect9262"
@@ -35555,7 +35604,8 @@
          id="g18047"
          inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/32x32/system.png"
          inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90">
+         inkscape:export-ydpi="90"
+         transform="translate(8,-63)">
         <rect
            ry="3.0075479"
            rx="3.0075479"
@@ -35577,7 +35627,7 @@
       </g>
       <path
          style="opacity:0.06692912;fill:url(#linearGradient8213);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999988;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         d="m -555.8721,1349.6011 37.8823,0 c 1.37937,0 2.48984,1.1105 2.48984,2.4899 l 0,7.9975 c 0,0 -42.86198,20 -42.86198,20 l 0,-27.9975 c 0,-1.3794 1.11047,-2.4899 2.48984,-2.4899 z"
+         d="m -547.8721,1286.6011 37.8823,0 c 1.37937,0 2.48984,1.1105 2.48984,2.4899 l 0,7.9975 c 0,0 -42.86198,20 -42.86198,20 l 0,-27.9975 c 0,-1.3794 1.11047,-2.4899 2.48984,-2.4899 z"
          id="rect8204"
          sodipodi:nodetypes="ccccccc"
          inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/web.png"
@@ -35586,7 +35636,7 @@
       <path
          sodipodi:nodetypes="ccccccc"
          id="path8215"
-         d="m -455.8721,1349.6011 37.8823,0 c 1.37937,0 2.48984,1.1105 2.48984,2.4899 l 0,7.9975 c 0,0 -42.86198,20 -42.86198,20 l 0,-27.9975 c 0,-1.3794 1.11047,-2.4899 2.48984,-2.4899 z"
+         d="m -447.8721,1286.6011 37.8823,0 c 1.37937,0 2.48984,1.1105 2.48984,2.4899 l 0,7.9975 c 0,0 -42.86198,20 -42.86198,20 l 0,-27.9975 c 0,-1.3794 1.11047,-2.4899 2.48984,-2.4899 z"
          style="opacity:0.06692912;fill:url(#linearGradient8217);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999988;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/media.png"
          inkscape:export-xdpi="90"
@@ -35594,14 +35644,14 @@
       <path
          sodipodi:nodetypes="ccccccc"
          id="path8219"
-         d="m -355.8721,1349.6011 37.8823,0 c 1.37937,0 2.48984,1.1105 2.48984,2.4899 l 0,7.9975 c 0,0 -42.86198,20 -42.86198,20 l 0,-27.9975 c 0,-1.3794 1.11047,-2.4899 2.48984,-2.4899 z"
+         d="m -347.8721,1286.6011 37.8823,0 c 1.37937,0 2.48984,1.1105 2.48984,2.4899 l 0,7.9975 c 0,0 -42.86198,20 -42.86198,20 l 0,-27.9975 c 0,-1.3794 1.11047,-2.4899 2.48984,-2.4899 z"
          style="opacity:0.08267715;fill:url(#linearGradient8223);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999988;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/preferences.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <path
          style="opacity:0.06692912;fill:url(#linearGradient8225);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999988;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         d="m -265.8721,1349.6011 37.8823,0 c 1.37937,0 2.48984,1.1105 2.48984,2.4899 l 0,7.9975 c 0,0 -42.86198,20 -42.86198,20 l 0,-27.9975 c 0,-1.3794 1.11047,-2.4899 2.48984,-2.4899 z"
+         d="m -257.8721,1286.6011 37.8823,0 c 1.37937,0 2.48984,1.1105 2.48984,2.4899 l 0,7.9975 c 0,0 -42.86198,20 -42.86198,20 l 0,-27.9975 c 0,-1.3794 1.11047,-2.4899 2.48984,-2.4899 z"
          id="path8221"
          sodipodi:nodetypes="ccccccc"
          inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/office.png"
@@ -35610,14 +35660,14 @@
       <path
          sodipodi:nodetypes="ccccccc"
          id="path8227"
-         d="m -555.8721,1439.6011 37.8823,0 c 1.37937,0 2.48984,1.1105 2.48984,2.4899 l 0,7.9975 c 0,0 -42.86198,20 -42.86198,20 l 0,-27.9975 c 0,-1.3794 1.11047,-2.4899 2.48984,-2.4899 z"
+         d="m -547.8721,1376.6011 37.8823,0 c 1.37937,0 2.48984,1.1105 2.48984,2.4899 l 0,7.9975 c 0,0 -42.86198,20 -42.86198,20 l 0,-27.9975 c 0,-1.3794 1.11047,-2.4899 2.48984,-2.4899 z"
          style="opacity:0.18503939;fill:url(#linearGradient8233);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999988;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/communicate.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <path
          style="opacity:0.10236218;fill:url(#linearGradient8235);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999988;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         d="m -455.8721,1439.6011 37.8823,0 c 1.37937,0 2.48984,1.1105 2.48984,2.4899 l 0,7.9975 c 0,0 -42.86198,20 -42.86198,20 l 0,-27.9975 c 0,-1.3794 1.11047,-2.4899 2.48984,-2.4899 z"
+         d="m -447.8721,1376.6011 37.8823,0 c 1.37937,0 2.48984,1.1105 2.48984,2.4899 l 0,7.9975 c 0,0 -42.86198,20 -42.86198,20 l 0,-27.9975 c 0,-1.3794 1.11047,-2.4899 2.48984,-2.4899 z"
          id="path8229"
          sodipodi:nodetypes="ccccccc"
          inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/games.png"
@@ -35625,7 +35675,7 @@
          inkscape:export-ydpi="90" />
       <path
          style="opacity:0.06692912;fill:url(#linearGradient8237);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999988;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         d="m -355.8721,1439.6011 37.8823,0 c 1.37937,0 2.48984,1.1105 2.48984,2.4899 l 0,7.9975 c 0,0 -42.86198,20 -42.86198,20 l 0,-27.9975 c 0,-1.3794 1.11047,-2.4899 2.48984,-2.4899 z"
+         d="m -347.8721,1376.6011 37.8823,0 c 1.37937,0 2.48984,1.1105 2.48984,2.4899 l 0,7.9975 c 0,0 -42.86198,20 -42.86198,20 l 0,-27.9975 c 0,-1.3794 1.11047,-2.4899 2.48984,-2.4899 z"
          id="path8231"
          sodipodi:nodetypes="ccccccc"
          inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/system.png"
@@ -36058,57 +36108,92 @@
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" />
     <path
-       style="opacity:1;fill:none;stroke:#bebebe;stroke-width:1.99999988000000006;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       style="fill:none;stroke:#bebebe;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        d="m 85.02728,424.09008 -0.0945,-3.91952"
        id="path8336"
        sodipodi:nodetypes="cc" />
     <path
        id="path8338"
        d="m 101.0125,440.10204 0,-13.7878"
-       style="opacity:1;fill:none;stroke:#bebebe;stroke-width:1.99999963999999997;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+       style="fill:none;stroke:#bebebe;stroke-width:1.99999964;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
     <path
        sodipodi:nodetypes="cc"
        id="path8340"
        d="m 101.0049,440.09004 -4.02623,0"
-       style="opacity:1;fill:none;stroke:#bebebe;stroke-width:1.99999975999999990;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+       style="fill:none;stroke:#bebebe;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
     <path
        id="path8342"
        d="m 95,420.09004 -9.9783,0"
-       style="opacity:1;fill:none;stroke:#bebebe;stroke-width:1.99999988000000006;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+       style="fill:none;stroke:#bebebe;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
     <path
        sodipodi:nodetypes="cc"
        id="path8344"
        d="m 101.0125,426.17574 -6.0557,-6.0558"
-       style="opacity:1;fill:none;stroke:#bebebe;stroke-width:1.99999988000000006;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+       style="fill:none;stroke:#bebebe;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
     <path
        sodipodi:nodetypes="cc"
-       style="opacity:1;fill:none;stroke:#bebebe;stroke-width:1.99999963999999997;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       style="fill:none;stroke:#bebebe;stroke-width:1.99999964;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        d="m 84.93282,440.09008 0.0623,0"
        id="path12089-3" />
     <path
        sodipodi:nodetypes="cc"
-       style="opacity:1;fill:none;stroke:#bebebe;stroke-width:1.99999963999999997;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       style="fill:none;stroke:#bebebe;stroke-width:1.99999964;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        d="m 84.93282,436.09008 0.0623,0"
        id="path12089-6" />
     <path
        sodipodi:nodetypes="cc"
-       style="opacity:1;fill:none;stroke:#bebebe;stroke-width:1.99999963999999997;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       style="fill:none;stroke:#bebebe;stroke-width:1.99999964;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        d="m 84.93697,432.07969 0.0623,0"
        id="path12089-9" />
     <path
        sodipodi:nodetypes="cc"
-       style="opacity:1;fill:none;stroke:#bebebe;stroke-width:1.99999963999999997;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       style="fill:none;stroke:#bebebe;stroke-width:1.99999964;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        d="m 88.87052,440.09008 0.0623,0"
        id="path12089-0" />
     <path
        sodipodi:nodetypes="cc"
-       style="opacity:1;fill:none;stroke:#bebebe;stroke-width:1.99999963999999997;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       style="fill:none;stroke:#bebebe;stroke-width:1.99999964;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        d="m 92.93282,440.09008 0.0623,0"
        id="path12089-7" />
     <path
        id="path8404"
        d="m 84.93697,428.07969 0.0623,0"
-       style="opacity:1;fill:none;stroke:#bebebe;stroke-width:1.99999963999999997;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       style="fill:none;stroke:#bebebe;stroke-width:1.99999964;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#a0da00;fill-opacity:1;stroke:#a0da00;stroke-width:1.15809178;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:100"
+       id="path8637"
+       sodipodi:cx="214.1875"
+       sodipodi:cy="611.24463"
+       sodipodi:rx="3.28125"
+       sodipodi:ry="3.28125"
+       d="m 217.46875,611.24463 a 3.28125,3.28125 0 1 1 -6.5625,0 3.28125,3.28125 0 1 1 6.5625,0 z"
+       transform="matrix(1.2952339,0,0,1.2952339,-657.36042,124.38524)" />
+    <path
+       sodipodi:nodetypes="cc"
+       id="path9795-5"
+       d="M -380.9922,918.06714 -378,915.09004"
+       style="fill:none;stroke:#ffffff;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m -381,918.06714 -0.9922,-0.9771"
+       id="path9797-0"
+       sodipodi:nodetypes="cc" />
+    <path
+       transform="matrix(1.2952339,0,0,1.2952339,-625.36042,124.38524)"
+       d="m 217.46875,611.24463 a 3.28125,3.28125 0 1 1 -6.5625,0 3.28125,3.28125 0 1 1 6.5625,0 z"
+       sodipodi:ry="3.28125"
+       sodipodi:rx="3.28125"
+       sodipodi:cy="611.24463"
+       sodipodi:cx="214.1875"
+       id="path8639"
+       style="fill:#ed2124;fill-opacity:1;stroke:#ed2124;stroke-width:1.15809177999999990;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:100"
+       sodipodi:type="arc" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1.99999963999999997;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m -351,916.09004 5.9832,0"
+       id="path9809-0"
        sodipodi:nodetypes="cc" />
   </g>
   <path
