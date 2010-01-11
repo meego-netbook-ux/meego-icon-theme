@@ -23,7 +23,7 @@ import tempfile
 
 __author__    = 'Damien Lespiau <damien.lespiau@intel.com>'
 __version__   = '0.1'
-__date__      = '20100107'
+__date__      = '20100111'
 __copyright__ = 'Copyright (©) 2009-10 Intel Corporation'
 __license__   = 'GPL v2'
 
@@ -234,21 +234,23 @@ class IconTheme:
                 debug("Dropping " + id)
                 continue
 
+            icon_name = id
+
             # strip the moblin- prefix
             if id.startswith('moblin-'):
-                id = id[7:]
+                icon_name = id[7:]
 
             # strip the 16- prefix
             if width == '16' and id.startswith('16-'):
-                id = id[3:]
+                icon_name = id[3:]
 
-            file = os.path.join(dirs[width], id + '.png')
+            file = os.path.join(dirs[width], icon_name + '.png')
             print('Generating ' + file)
             inkscape.export(id, file, int(width), int(height))
 
             # generate 48x48 icons with the 24x24 rects
             if width == '24':
-                file_48 = os.path.join (output_dir_48, id + '.png')
+                file_48 = os.path.join (output_dir_48, icon_name + '.png')
                 print('Generating ' + file_48)
                 inkscape.export(id, file_48, 48, 48)
 
