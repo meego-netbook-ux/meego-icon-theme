@@ -1,3 +1,5 @@
+NULL = #
+
 themedir = $(datadir)/icons/THEME_NAME
 
 SUBDIRS = REAL_SUB_DIRS
@@ -21,7 +23,10 @@ install-data-hook:
 
 
 EXTRA_DIST=                             \
-        index.theme
+	index.theme			\
+	icon-name-mapping		\
+	legacy-icon-mapping.xml		\
+	$(NULL)
 
 # Extra clean files so that maintainer-clean removes *everything*
 MAINTAINERCLEANFILES = aclocal.m4 compile config.guess config.sub \
