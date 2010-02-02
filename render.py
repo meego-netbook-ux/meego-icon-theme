@@ -290,12 +290,20 @@ class IconTheme:
         for node in res:
             global opt_xml_id
 
-            fg_name = node.prop('id')
-            fg_file = os.path.join(tmp_dir, fg_name + '.png')
+            fg_id = node.prop('id')
 
             # if opt_xml_id, only generate this id
-            if opt_xml_id and fg_name != opt_xml_id:
+            if opt_xml_id and fg_id != opt_xml_id:
                 continue
+
+            # if generating 32x32 icons, strip the 'moblin-' prefix (the 32x32
+            # icons are used the the zone panel only)
+            if tile_size == 32:
+                fg_name = fg_id[7:]
+            else:
+                fg_name = fg_id
+
+            fg_file = os.path.join(tmp_dir, fg_name + '.png')
 
             tile_name = node.prop('label')
             tile_file = os.path.join('tiles',
@@ -306,7 +314,7 @@ class IconTheme:
 
             print('Generating ' + icon_file)
 
-            inkscape.export(fg_name, fg_file, fg_size, fg_size)
+            inkscape.export(fg_id, fg_file, fg_size, fg_size)
             magick.composite(fg_file, tile_file, icon_file)
 
         # remove the temporary directory
