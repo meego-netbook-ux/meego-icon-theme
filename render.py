@@ -276,7 +276,7 @@ class IconTheme:
         app_svg = self.generate_app_svg(app_svg_filename)
         app_svg.change_stroke('white')
         if tile_size == 48:
-            app_svg.change_stroke_width(1.7)
+            app_svg.change_stroke_width(1.8)
         app_svg.write()
 
         inkscape = Inkscape(app_svg_filename)
@@ -359,7 +359,7 @@ def main(argv):
     icon_theme.set_output_directory(opt_output)
     icon_theme.generate_icons()
     icon_theme.generate_app_icons(32, 24)
-    icon_theme.generate_app_icons(48, 36)
+    icon_theme.generate_app_icons(48, 30)
 
 if __name__ == '__main__':
     main(sys.argv[1:])
