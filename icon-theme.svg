@@ -32,11 +32,11 @@
      objecttolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="112.31578"
-     inkscape:cy="330.9222"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="299.41332"
+     inkscape:cy="217.17494"
      inkscape:document-units="px"
-     inkscape:current-layer="Rectangles"
+     inkscape:current-layer="svg2"
      showgrid="false"
      inkscape:window-width="1280"
      inkscape:window-height="703"
@@ -1591,7 +1591,7 @@
        xlink:href="#linearGradient9149"
        id="linearGradient9673"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(50,96)"
+       gradientTransform="translate(50,95)"
        x1="-543.43719"
        y1="1708.5936"
        x2="-531.04041"
@@ -1601,7 +1601,7 @@
        xlink:href="#linearGradient9085"
        id="linearGradient9675"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,0,0.50514139,209.71893,971.52185)"
+       gradientTransform="matrix(1,0,0,0.50514139,209.55226,970.50806)"
        x1="-394.01108"
        y1="1704.396"
        x2="-394.12854"
@@ -1617,6 +1617,20 @@
        gradientUnits="userSpaceOnUse" />
     <inkscape:perspective
        id="perspective9176"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective9200"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective9738"
        inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
        inkscape:vp_z="1 : 0.5 : 1"
        inkscape:vp_y="0 : 1000 : 0"
@@ -30356,21 +30370,21 @@
          inkscape:export-xdpi="90"
          inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-drag-accept.png"
          id="path9665"
-         d="m -486.4375,1788.5954 c -1.24951,0 -2.16663,1.1096 -2.0625,2.5 l 0.0313,0.5 -0.96875,0 c -1.24951,0 -2.16663,1.1097 -2.0625,2.5 l 1.8125,24 c 0.10413,1.3903 1.18799,2.5 2.4375,2.5 l 33.59375,0 c 1.24951,0 2.16663,-1.1097 2.0625,-2.5 l -1.8125,-24 c -0.10413,-1.3903 -1.18799,-2.5 -2.4375,-2.5 l -17.53125,0 -0.0313,-0.5 c -0.10413,-1.3904 -1.18799,-2.5 -2.4375,-2.5 l -10.59375,0 z"
+         d="m -486.4375,1787.5954 c -1.24951,0 -2.16663,1.1096 -2.0625,2.5 l 0.0313,0.5 -0.96875,0 c -1.24951,0 -2.16663,1.1097 -2.0625,2.5 l 1.8125,24 c 0.10413,1.3903 1.18799,2.5 2.4375,2.5 l 33.59375,0 c 1.24951,0 2.16663,-1.1097 2.0625,-2.5 l -1.8125,-24 c -0.10413,-1.3903 -1.18799,-2.5 -2.4375,-2.5 l -17.53125,0 -0.0313,-0.5 c -0.10413,-1.3904 -1.18799,-2.5 -2.4375,-2.5 l -10.59375,0 z"
          style="fill:#ededed;fill-opacity:1;stroke:#ababab;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1" />
       <path
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
          inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-drag-accept.png"
          style="fill:#ededed;fill-opacity:1;stroke:#ababab;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1"
-         d="m -486.4375,1788.5954 c -1.24951,0 -2.16663,1.1096 -2.0625,2.5 l 0.0313,0.5 -0.96875,0 c -1.24951,0 -2.16663,1.1097 -2.0625,2.5 l 1.8125,24 c 0.10413,1.3903 1.18799,2.5 2.4375,2.5 l 33.59375,0 c 1.24951,0 2.16663,-1.1097 2.0625,-2.5 l -1.8125,-24 c -0.10413,-1.3903 -1.18799,-2.5 -2.4375,-2.5 l -17.53125,0 -0.0313,-0.5 c -0.10413,-1.3904 -1.18799,-2.5 -2.4375,-2.5 l -10.59375,0 z"
+         d="m -486.4375,1787.5954 c -1.24951,0 -2.16663,1.1096 -2.0625,2.5 l 0.0313,0.5 -0.96875,0 c -1.24951,0 -2.16663,1.1097 -2.0625,2.5 l 1.8125,24 c 0.10413,1.3903 1.18799,2.5 2.4375,2.5 l 33.59375,0 c 1.24951,0 2.16663,-1.1097 2.0625,-2.5 l -1.8125,-24 c -0.10413,-1.3903 -1.18799,-2.5 -2.4375,-2.5 l -17.53125,0 -0.0313,-0.5 c -0.10413,-1.3904 -1.18799,-2.5 -2.4375,-2.5 l -10.59375,0 z"
          id="path9667" />
       <path
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
          inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-drag-accept.png"
          style="fill:none;stroke:url(#linearGradient9673);stroke-width:1;stroke-miterlimit:4;stroke-opacity:1"
-         d="m -486.4375,1789.6562 c -0.62155,0 -1.06635,0.4578 -1,1.3438 a 1.0608163,1.0608163 0 0 1 0,0.031 l 0.0313,0.5 a 1.0608163,1.0608163 0 0 1 -1.0625,1.125 l -0.96875,0 c -0.62155,0 -1.06635,0.4578 -1,1.3438 l 1.8125,24 c 0.0663,0.8855 0.75351,1.5312 1.375,1.5312 l 33.59375,0 c 0.62149,0 1.06634,-0.4579 1,-1.3437 l -1.8125,-24 c -0.0663,-0.8857 -0.75345,-1.5313 -1.375,-1.5313 l -17.53125,0 a 1.0608163,1.0608163 0 0 1 -1.0625,-1 l -0.0313,-0.4687 0,-0.031 c -0.0803,-0.8689 -0.76095,-1.5 -1.375,-1.5 l -10.59375,0 z"
+         d="m -486.4375,1788.6562 c -0.62155,0 -1.06635,0.4578 -1,1.3438 a 1.0608163,1.0608163 0 0 1 0,0.031 l 0.0313,0.5 a 1.0608163,1.0608163 0 0 1 -1.0625,1.125 l -0.96875,0 c -0.62155,0 -1.06635,0.4578 -1,1.3438 l 1.8125,24 c 0.0663,0.8855 0.75351,1.5312 1.375,1.5312 l 33.59375,0 c 0.62149,0 1.06634,-0.4579 1,-1.3437 l -1.8125,-24 c -0.0663,-0.8857 -0.75345,-1.5313 -1.375,-1.5313 l -17.53125,0 a 1.0608163,1.0608163 0 0 1 -1.0625,-1 l -0.0313,-0.4687 0,-0.031 c -0.0803,-0.8689 -0.76095,-1.5 -1.375,-1.5 l -10.59375,0 z"
          id="path9669" />
       <rect
          inkscape:export-ydpi="90"
@@ -30380,8 +30394,8 @@
          id="rect9671"
          width="38"
          height="13.179175"
-         x="-186.14815"
-         y="1832.524"
+         x="-186.31482"
+         y="1831.5103"
          rx="2.25"
          ry="2.1409001"
          transform="matrix(1,0,-0.16440076,0.98639363,0,0)" />
