@@ -33,8 +33,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8284271"
-     inkscape:cx="867.85937"
-     inkscape:cy="855.59543"
+     inkscape:cx="112.31578"
+     inkscape:cy="330.9222"
      inkscape:document-units="px"
      inkscape:current-layer="Rectangles"
      showgrid="false"
@@ -1631,7 +1631,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -29713,28 +29713,28 @@
          height="48"
          x="-495"
          y="1679.0901"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-video.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-videos.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <path
          id="path9505"
          d="m -486.4375,1687.5954 c -1.24951,0 -2.16663,1.1096 -2.0625,2.5 l 0.0313,0.5 -0.96875,0 c -1.24951,0 -2.16663,1.1097 -2.0625,2.5 l 1.8125,24 c 0.10413,1.3903 1.18799,2.5 2.4375,2.5 l 33.59375,0 c 1.24951,0 2.16663,-1.1097 2.0625,-2.5 l -1.8125,-24 c -0.10413,-1.3903 -1.18799,-2.5 -2.4375,-2.5 l -17.53125,0 -0.0313,-0.5 c -0.10413,-1.3904 -1.18799,-2.5 -2.4375,-2.5 l -10.59375,0 z"
          style="fill:#ededed;fill-opacity:1;stroke:#ababab;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-video.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-videos.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <path
          style="fill:#ededed;fill-opacity:1;stroke:#ababab;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1"
          d="m -486.4375,1687.5954 c -1.24951,0 -2.16663,1.1096 -2.0625,2.5 l 0.0313,0.5 -0.96875,0 c -1.24951,0 -2.16663,1.1097 -2.0625,2.5 l 1.8125,24 c 0.10413,1.3903 1.18799,2.5 2.4375,2.5 l 33.59375,0 c 1.24951,0 2.16663,-1.1097 2.0625,-2.5 l -1.8125,-24 c -0.10413,-1.3903 -1.18799,-2.5 -2.4375,-2.5 l -17.53125,0 -0.0313,-0.5 c -0.10413,-1.3904 -1.18799,-2.5 -2.4375,-2.5 l -10.59375,0 z"
          id="path9507"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-video.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-videos.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <path
          style="fill:none;stroke:url(#linearGradient9523);stroke-width:1;stroke-miterlimit:4;stroke-opacity:1"
          d="m -486.4375,1688.6562 c -0.62155,0 -1.06635,0.4578 -1,1.3438 a 1.0608163,1.0608163 0 0 1 0,0.031 l 0.0313,0.5 a 1.0608163,1.0608163 0 0 1 -1.0625,1.125 l -0.96875,0 c -0.62155,0 -1.06635,0.4578 -1,1.3438 l 1.8125,24 c 0.0663,0.8855 0.75351,1.5312 1.375,1.5312 l 33.59375,0 c 0.62149,0 1.06634,-0.4579 1,-1.3437 l -1.8125,-24 c -0.0663,-0.8857 -0.75345,-1.5313 -1.375,-1.5313 l -17.53125,0 a 1.0608163,1.0608163 0 0 1 -1.0625,-1 l -0.0313,-0.4687 0,-0.031 c -0.0803,-0.8689 -0.76095,-1.5 -1.375,-1.5 l -10.59375,0 z"
          id="path9509"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-video.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-videos.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <rect
@@ -29747,7 +29747,7 @@
          rx="2.25"
          ry="2.2577989"
          transform="matrix(1,0,-0.08304563,0.99654575,0,0)"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-video.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-videos.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <rect
@@ -29954,7 +29954,7 @@
          transform="matrix(0,-1,1,0,0,0)"
          inkscape:transform-center-x="-2.0185665"
          inkscape:transform-center-y="-637.84447"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-video.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-videos.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <rect
@@ -29969,7 +29969,7 @@
          width="7.0095944"
          id="rect2929-6"
          style="fill:#44c5e5;fill-opacity:1;stroke:none;display:inline"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-video.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-videos.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <rect
@@ -29984,7 +29984,7 @@
          transform="matrix(0,-1,1,0,0,0)"
          inkscape:transform-center-x="-13.002209"
          inkscape:transform-center-y="-638.43183"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-video.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-videos.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <rect
@@ -29999,7 +29999,7 @@
          transform="matrix(0,-1,1,0,0,0)"
          inkscape:transform-center-x="-10.008936"
          inkscape:transform-center-y="-690.72641"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-video.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-videos.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <rect
@@ -30013,7 +30013,7 @@
          ry="0"
          inkscape:transform-center-x="-7.5011899"
          inkscape:transform-center-y="-589.09253"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-video.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-videos.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <rect
@@ -30027,7 +30027,7 @@
          width="9"
          id="rect2938-2"
          style="fill:#44c5e5;fill-opacity:1;stroke:none;display:inline"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-video.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-videos.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <rect
@@ -30041,7 +30041,7 @@
          width="8.9818897"
          id="rect2940-9"
          style="fill:#44c5e5;fill-opacity:1;stroke:none;display:inline"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-video.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-videos.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <rect
@@ -30056,7 +30056,7 @@
          inkscape:transform-center-x="-9.6108703"
          inkscape:transform-center-y="-582.11574"
          transform="scale(-1,-1)"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-video.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-videos.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <path
@@ -30072,7 +30072,7 @@
          sodipodi:start="2.3561945"
          sodipodi:end="3.1415927"
          sodipodi:open="true"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-video.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-videos.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <path
@@ -30088,7 +30088,7 @@
          sodipodi:ry="22.98097"
          d="m -42.059397,195.68886 c -4.309768,-4.30977 -6.73097,-10.15507 -6.73097,-16.25"
          transform="matrix(0.1087857,0,0,-0.1087857,-457.68498,1720.3818)"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-video.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-videos.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <path
@@ -30104,7 +30104,7 @@
          sodipodi:ry="22.98097"
          d="m -42.059397,195.68886 c -4.309768,-4.30977 -6.73097,-10.15507 -6.73097,-16.25"
          transform="matrix(0.1087857,0,0,-0.1087857,-467.68498,1720.3818)"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-video.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-videos.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <path
@@ -30120,7 +30120,7 @@
          sodipodi:start="2.3561945"
          sodipodi:end="3.1415927"
          sodipodi:open="true"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-video.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-videos.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <path
@@ -30136,7 +30136,7 @@
          sodipodi:ry="22.98097"
          d="m -42.059397,195.68886 c -4.309768,-4.30977 -6.73097,-10.15507 -6.73097,-16.25"
          transform="matrix(-0.1087857,0,0,0.1087857,-468.30038,1692.8055)"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-video.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-videos.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <path
@@ -30152,7 +30152,7 @@
          sodipodi:start="2.3561945"
          sodipodi:end="3.1415927"
          sodipodi:open="true"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-video.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-videos.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <path
@@ -30168,7 +30168,7 @@
          sodipodi:start="2.3561945"
          sodipodi:end="3.1415927"
          sodipodi:open="true"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-video.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-videos.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <path
@@ -30184,7 +30184,7 @@
          sodipodi:ry="22.98097"
          d="m -42.059397,195.68886 c -4.309768,-4.30977 -6.73097,-10.15507 -6.73097,-16.25"
          transform="matrix(-0.1087857,0,0,0.1087857,-478.30038,1692.8055)"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-video.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-videos.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <rect
