@@ -32,9 +32,9 @@
      objecttolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="50.062838"
-     inkscape:cy="416.3248"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="45.839888"
+     inkscape:cy="160.03602"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -1775,6 +1775,141 @@
        y1="1803.0938"
        x2="-523.55304"
        y2="1803.0938" />
+    <inkscape:perspective
+       id="perspective9750"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9384"
+       id="linearGradient9946"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,100)"
+       x1="-520.32233"
+       y1="1781.5234"
+       x2="-520.32233"
+       y2="1814.5909" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9338"
+       id="linearGradient9948"
+       gradientUnits="userSpaceOnUse"
+       x1="-539.2135"
+       y1="1803.0938"
+       x2="-523.55304"
+       y2="1803.0938" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9384"
+       id="linearGradient9950"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-50,100)"
+       x1="-520.32233"
+       y1="1781.5234"
+       x2="-520.32233"
+       y2="1814.5909" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9338"
+       id="linearGradient9952"
+       gradientUnits="userSpaceOnUse"
+       x1="-539.2135"
+       y1="1803.0938"
+       x2="-523.55304"
+       y2="1803.0938" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9384"
+       id="linearGradient9954"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(50,100)"
+       x1="-520.32233"
+       y1="1781.5234"
+       x2="-520.32233"
+       y2="1814.5909" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9338"
+       id="linearGradient9956"
+       gradientUnits="userSpaceOnUse"
+       x1="-539.2135"
+       y1="1803.0938"
+       x2="-523.55304"
+       y2="1803.0938" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9384"
+       id="linearGradient10005"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,150)"
+       x1="-520.32233"
+       y1="1781.5234"
+       x2="-520.32233"
+       y2="1814.5909" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9338"
+       id="linearGradient10007"
+       gradientUnits="userSpaceOnUse"
+       x1="-539.2135"
+       y1="1803.0938"
+       x2="-523.55304"
+       y2="1803.0938" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9384"
+       id="linearGradient10009"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-50,150)"
+       x1="-520.32233"
+       y1="1781.5234"
+       x2="-520.32233"
+       y2="1814.5909" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9338"
+       id="linearGradient10011"
+       gradientUnits="userSpaceOnUse"
+       x1="-539.2135"
+       y1="1803.0938"
+       x2="-523.55304"
+       y2="1803.0938" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9190"
+       id="linearGradient10027"
+       gradientUnits="userSpaceOnUse"
+       x1="-489.418"
+       y1="1750.2931"
+       x2="-477.41135"
+       y2="1750.2931" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9085"
+       id="linearGradient10029"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.0382043,48.408258,-19.899302)"
+       x1="-394.01108"
+       y1="1704.396"
+       x2="-394.12854"
+       y2="1730.3834" />
+    <inkscape:perspective
+       id="perspective10039"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective10070"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <metadata
      id="metadata7">
@@ -31227,6 +31362,494 @@
          inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/text-x-generic-template.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
+      <rect
+         y="1879.0901"
+         x="-545"
+         height="48"
+         width="48"
+         id="rect9899"
+         style="opacity:0;fill:#eeeeec;fill-opacity:1;stroke:none"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/x-office-presentation.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/x-office-presentation.png"
+         style="fill:url(#linearGradient9946);fill-opacity:1;stroke:#ababab;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:100"
+         d="m -534.7019,1884.0902 17.75735,0 c 2.9261,0 5.11075,2.9711 7.51902,5.4647 2.37739,2.4616 4.42553,3.6041 4.42553,6.3915 l 0,23.8457 c 0,1.2731 -1.02495,2.2981 -2.2981,2.2981 l -27.4038,0 c -1.27315,0 -2.2981,-1.025 -2.2981,-2.2981 l 0,-33.4038 c 0,-1.2731 1.02495,-2.2981 2.2981,-2.2981 z"
+         id="path9901"
+         sodipodi:nodetypes="cczccccccc" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/x-office-presentation.png"
+         transform="translate(0,100)"
+         sodipodi:type="inkscape:offset"
+         inkscape:radius="-1.973515"
+         inkscape:original="M -534.6875 1784.0938 C -535.96065 1784.0938 -537 1785.1019 -537 1786.375 L -537 1819.7812 C -537 1821.0543 -535.96065 1822.0938 -534.6875 1822.0938 L -507.3125 1822.0938 C -506.03935 1822.0938 -505 1821.0544 -505 1819.7812 L -505 1795.9375 C -505 1793.1501 -507.49761 1791.7741 -509.5625 1789.1875 C -511.62739 1786.6009 -514.0114 1784.0938 -516.9375 1784.0938 L -534.6875 1784.0938 z "
+         style="fill:none;stroke:url(#linearGradient9948);stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:100"
+         id="path9903"
+         d="m -534.6875,1786.0625 c -0.23138,0 -0.34375,0.1135 -0.34375,0.3125 l 0,33.4062 c 0,0.199 0.14482,0.3438 0.34375,0.3438 l 27.375,0 c 0.19903,0 0.34375,-0.1446 0.34375,-0.3438 l 0,-23.8437 c 0,-0.8043 -0.28424,-1.2965 -1.03125,-2.1563 -0.74701,-0.8597 -1.92571,-1.9118 -3.09375,-3.375 -1.99074,-2.4937 -4.04493,-4.3437 -5.84375,-4.3437 l -17.75,0 z" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/x-office-spreadsheet.png"
+         style="opacity:0;fill:#eeeeec;fill-opacity:1;stroke:none"
+         id="rect9905"
+         width="48"
+         height="48"
+         x="-595"
+         y="1879.0901" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/x-office-spreadsheet.png"
+         sodipodi:nodetypes="cczccccccc"
+         id="path9908"
+         d="m -584.7019,1884.0902 17.75735,0 c 2.9261,0 5.11075,2.9711 7.51902,5.4647 2.37739,2.4616 4.42553,3.6041 4.42553,6.3915 l 0,23.8457 c 0,1.2731 -1.02495,2.2981 -2.2981,2.2981 l -27.4038,0 c -1.27315,0 -2.2981,-1.025 -2.2981,-2.2981 l 0,-33.4038 c 0,-1.2731 1.02495,-2.2981 2.2981,-2.2981 z"
+         style="fill:url(#linearGradient9950);fill-opacity:1;stroke:#ababab;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:100" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/x-office-spreadsheet.png"
+         d="m -534.6875,1786.0625 c -0.23138,0 -0.34375,0.1135 -0.34375,0.3125 l 0,33.4062 c 0,0.199 0.14482,0.3438 0.34375,0.3438 l 27.375,0 c 0.19903,0 0.34375,-0.1446 0.34375,-0.3438 l 0,-23.8437 c 0,-0.8043 -0.28424,-1.2965 -1.03125,-2.1563 -0.74701,-0.8597 -1.92571,-1.9118 -3.09375,-3.375 -1.99074,-2.4937 -4.04493,-4.3437 -5.84375,-4.3437 l -17.75,0 z"
+         id="path9910"
+         style="fill:none;stroke:url(#linearGradient9952);stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:100"
+         inkscape:original="M -534.6875 1784.0938 C -535.96065 1784.0938 -537 1785.1019 -537 1786.375 L -537 1819.7812 C -537 1821.0543 -535.96065 1822.0938 -534.6875 1822.0938 L -507.3125 1822.0938 C -506.03935 1822.0938 -505 1821.0544 -505 1819.7812 L -505 1795.9375 C -505 1793.1501 -507.49761 1791.7741 -509.5625 1789.1875 C -511.62739 1786.6009 -514.0114 1784.0938 -516.9375 1784.0938 L -534.6875 1784.0938 z "
+         inkscape:radius="-1.973515"
+         sodipodi:type="inkscape:offset"
+         transform="translate(-50,100)" />
+      <rect
+         y="1879.0901"
+         x="-495"
+         height="48"
+         width="48"
+         id="rect9940"
+         style="opacity:0;fill:#eeeeec;fill-opacity:1;stroke:none"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/text-x-generic-template.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/application-x-executable.png"
+         style="fill:url(#linearGradient9954);fill-opacity:1;stroke:#ababab;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:100"
+         d="m -484.7019,1884.0902 17.75735,0 c 2.9261,0 5.11075,2.9711 7.51902,5.4647 2.37739,2.4616 4.42553,3.6041 4.42553,6.3915 l 0,23.8457 c 0,1.2731 -1.02495,2.2981 -2.2981,2.2981 l -27.4038,0 c -1.27315,0 -2.2981,-1.025 -2.2981,-2.2981 l 0,-33.4038 c 0,-1.2731 1.02495,-2.2981 2.2981,-2.2981 z"
+         id="path9942"
+         sodipodi:nodetypes="cczccccccc" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/application-x-executable.png"
+         transform="translate(50,100)"
+         sodipodi:type="inkscape:offset"
+         inkscape:radius="-1.973515"
+         inkscape:original="M -534.6875 1784.0938 C -535.96065 1784.0938 -537 1785.1019 -537 1786.375 L -537 1819.7812 C -537 1821.0543 -535.96065 1822.0938 -534.6875 1822.0938 L -507.3125 1822.0938 C -506.03935 1822.0938 -505 1821.0544 -505 1819.7812 L -505 1795.9375 C -505 1793.1501 -507.49761 1791.7741 -509.5625 1789.1875 C -511.62739 1786.6009 -514.0114 1784.0938 -516.9375 1784.0938 L -534.6875 1784.0938 z "
+         style="fill:none;stroke:url(#linearGradient9956);stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:100"
+         id="path9944"
+         d="m -534.6875,1786.0625 c -0.23138,0 -0.34375,0.1135 -0.34375,0.3125 l 0,33.4062 c 0,0.199 0.14482,0.3438 0.34375,0.3438 l 27.375,0 c 0.19903,0 0.34375,-0.1446 0.34375,-0.3438 l 0,-23.8437 c 0,-0.8043 -0.28424,-1.2965 -1.03125,-2.1563 -0.74701,-0.8597 -1.92571,-1.9118 -3.09375,-3.375 -1.99074,-2.4937 -4.04493,-4.3437 -5.84375,-4.3437 l -17.75,0 z" />
+      <path
+         id="path32862-4-4"
+         d="m -565.0116,1908.09 0,5.9884"
+         style="opacity:0.98999999000000005;fill:none;stroke:#44c5e5;stroke-width:1.99999975999999990;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         sodipodi:nodetypes="cc"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/x-office-spreadsheet.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="opacity:0.98999999000000005;fill:none;stroke:#44c5e5;stroke-width:1.99999975999999990;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         d="m -562.0116,1914.09 -17.9884,0"
+         id="path32864-7-3"
+         sodipodi:nodetypes="cc"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/x-office-spreadsheet.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         sodipodi:nodetypes="cc"
+         style="opacity:0.98999999000000005;fill:none;stroke:#44c5e5;stroke-width:1.99999975999999990;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         d="m -569.0116,1906.09 0,7.9884"
+         id="path32895-3-2"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/x-office-spreadsheet.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         sodipodi:nodetypes="cc"
+         id="path32897-0-7"
+         d="m -569,1908.09 3.9884,0"
+         style="opacity:0.98999999000000005;fill:none;stroke:#44c5e5;stroke-width:1.99999975999999990;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/x-office-spreadsheet.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         sodipodi:nodetypes="cc"
+         style="opacity:0.98999999000000005;fill:none;stroke:#44c5e5;stroke-width:1.99999975999999990;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         d="m -569.0116,1900.09 0,5.9884"
+         id="path32899-6-3"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/x-office-spreadsheet.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         id="path32901-8-2"
+         d="m -573.0116,1900.09 0,13.9884"
+         style="opacity:0.98999999000000005;fill:none;stroke:#44c5e5;stroke-width:1.99999975999999990;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         sodipodi:nodetypes="cc"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/x-office-spreadsheet.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="opacity:0.98999999000000005;fill:none;stroke:#44c5e5;stroke-width:1.99999975999999990;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         d="m -573,1900.09 3.9884,0"
+         id="path32903-7-3"
+         sodipodi:nodetypes="cc"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/x-office-spreadsheet.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         sodipodi:nodetypes="cc"
+         style="opacity:0.98999999000000005;fill:none;stroke:#44c5e5;stroke-width:1.99999975999999990;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         d="m -577,1904.09 0,9.9884"
+         id="path32905-5-2"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/x-office-spreadsheet.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="opacity:0.98999999000000005;fill:none;stroke:#44c5e5;stroke-width:1.99999975999999990;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         d="m -573.0116,1904.09 -3.9884,0"
+         id="path32907-0-7"
+         sodipodi:nodetypes="cc"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/x-office-spreadsheet.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         sodipodi:nodetypes="cc"
+         id="path8604-8"
+         d="m -580,1898.0784 0,15.9884"
+         style="opacity:0.98999999000000005;fill:none;stroke:#44c5e5;stroke-width:1.99999975999999990;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/x-office-spreadsheet.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         id="path21644-6"
+         d="m -529.01812,1897.0513 16.02868,0"
+         style="fill:none;stroke:#44c5e5;stroke-width:1.99999975999999990;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/x-office-presentation.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#44c5e5;stroke-width:1.99999940000000009;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         d="m -529.01452,1909.09 16.01837,0"
+         id="path21646-1"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/x-office-presentation.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         id="path21648-9"
+         d="m -529,1909.1011 0,-12.0308"
+         style="fill:none;stroke:#44c5e5;stroke-width:1.99999963999999997;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         sodipodi:nodetypes="cc"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/x-office-presentation.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#44c5e5;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         d="m -512.9893,1909.0997 0,-12.0201"
+         id="path21650-1"
+         sodipodi:nodetypes="cc"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/x-office-presentation.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         id="path21652-9"
+         d="m -521,1912.1523 0,-3.0623"
+         style="fill:none;stroke:#44c5e5;stroke-width:1.99999952000000003;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         sodipodi:nodetypes="cc"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/x-office-presentation.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         id="path21654-3"
+         d="m -523.99998,1915.0901 3,-3"
+         style="fill:none;stroke:#44c5e5;stroke-width:1.99999988000000006;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/x-office-presentation.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#44c5e5;stroke-width:1.99999988000000006;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         d="m -518.00002,1915.0899 -3,-3"
+         id="path21657-4"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/x-office-presentation.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         id="path11069-2"
+         d="m -460.04053,1901.09 -7.94449,0"
+         style="fill:none;stroke:#44c5e5;stroke-width:1.99999963999999997;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         sodipodi:nodetypes="cc"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/application-x-executable.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         sodipodi:nodetypes="cc"
+         style="fill:none;stroke:#44c5e5;stroke-width:1.99999988000000006;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         d="m -464,1897.1119 0,7.8652"
+         id="path11071-0"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/application-x-executable.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         id="path11085-0"
+         d="m -471,1906.1312 -5.35063,5.4565"
+         style="fill:none;stroke:#44c5e5;stroke-width:1.99999963999999997;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         sodipodi:nodetypes="cc"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/application-x-executable.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         sodipodi:nodetypes="cc"
+         style="fill:none;stroke:#44c5e5;stroke-width:1.99999975999999990;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         d="m -471,1906.1312 5.32294,5.2954"
+         id="path11087-4"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/application-x-executable.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         sodipodi:type="arc"
+         style="fill:none;stroke:#44c5e5;stroke-width:11.49042415999999989;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+         id="path2830-7"
+         sodipodi:cx="-25.809397"
+         sodipodi:cy="179.43886"
+         sodipodi:rx="22.98097"
+         sodipodi:ry="22.98097"
+         d="m -2.8284264,179.43886 a 22.98097,22.98097 0 1 1 -45.9619406,0 22.98097,22.98097 0 1 1 45.9619406,0 z"
+         transform="matrix(0.12307751,-0.12307763,0.12307751,0.12307763,-495.90831,1875.8285)"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/application-x-executable.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         transform="matrix(0.21538461,-0.21538718,0.21538461,0.21538718,-504.08942,1862.8823)"
+         d="M -23.582011,202.31163 A 22.98097,22.98097 0 0 1 -48.712519,177.54889"
+         sodipodi:ry="22.98097"
+         sodipodi:rx="22.98097"
+         sodipodi:cy="179.43886"
+         sodipodi:cx="-25.809397"
+         id="path11089-4"
+         style="fill:none;stroke:#44c5e5;stroke-width:6.56594752999999987;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+         sodipodi:type="arc"
+         sodipodi:start="1.4737209"
+         sodipodi:end="3.2239262"
+         sodipodi:open="true"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/application-x-executable.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/package-x-generic.png"
+         style="opacity:0;fill:#eeeeec;fill-opacity:1;stroke:none"
+         id="rect9958"
+         width="48"
+         height="48"
+         x="-545"
+         y="1929.0901" />
+      <path
+         sodipodi:nodetypes="cczccccccc"
+         id="path9960"
+         d="m -534.7019,1934.0902 17.75735,0 c 2.9261,0 5.11075,2.9711 7.51902,5.4647 2.37739,2.4616 4.42553,3.6041 4.42553,6.3915 l 0,23.8457 c 0,1.2731 -1.02495,2.2981 -2.2981,2.2981 l -27.4038,0 c -1.27315,0 -2.2981,-1.025 -2.2981,-2.2981 l 0,-33.4038 c 0,-1.2731 1.02495,-2.2981 2.2981,-2.2981 z"
+         style="fill:url(#linearGradient10005);fill-opacity:1;stroke:#ababab;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:100"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/package-x-generic.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <path
+         d="m -534.6875,1786.0625 c -0.23138,0 -0.34375,0.1135 -0.34375,0.3125 l 0,33.4062 c 0,0.199 0.14482,0.3438 0.34375,0.3438 l 27.375,0 c 0.19903,0 0.34375,-0.1446 0.34375,-0.3438 l 0,-23.8437 c 0,-0.8043 -0.28424,-1.2965 -1.03125,-2.1563 -0.74701,-0.8597 -1.92571,-1.9118 -3.09375,-3.375 -1.99074,-2.4937 -4.04493,-4.3437 -5.84375,-4.3437 l -17.75,0 z"
+         id="path9962"
+         style="fill:none;stroke:url(#linearGradient10007);stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:100"
+         inkscape:original="M -534.6875 1784.0938 C -535.96065 1784.0938 -537 1785.1019 -537 1786.375 L -537 1819.7812 C -537 1821.0543 -535.96065 1822.0938 -534.6875 1822.0938 L -507.3125 1822.0938 C -506.03935 1822.0938 -505 1821.0544 -505 1819.7812 L -505 1795.9375 C -505 1793.1501 -507.49761 1791.7741 -509.5625 1789.1875 C -511.62739 1786.6009 -514.0114 1784.0938 -516.9375 1784.0938 L -534.6875 1784.0938 z "
+         inkscape:radius="-1.973515"
+         sodipodi:type="inkscape:offset"
+         transform="translate(0,150)"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/package-x-generic.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         y="1929.0901"
+         x="-595"
+         height="48"
+         width="48"
+         id="rect9964"
+         style="opacity:0;fill:#eeeeec;fill-opacity:1;stroke:none"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/font-x-generic.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <path
+         style="fill:url(#linearGradient10009);fill-opacity:1;stroke:#ababab;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:100"
+         d="m -584.7019,1934.0902 17.75735,0 c 2.9261,0 5.11075,2.9711 7.51902,5.4647 2.37739,2.4616 4.42553,3.6041 4.42553,6.3915 l 0,23.8457 c 0,1.2731 -1.02495,2.2981 -2.2981,2.2981 l -27.4038,0 c -1.27315,0 -2.2981,-1.025 -2.2981,-2.2981 l 0,-33.4038 c 0,-1.2731 1.02495,-2.2981 2.2981,-2.2981 z"
+         id="path9966"
+         sodipodi:nodetypes="cczccccccc"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/font-x-generic.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <path
+         transform="translate(-50,150)"
+         sodipodi:type="inkscape:offset"
+         inkscape:radius="-1.973515"
+         inkscape:original="M -534.6875 1784.0938 C -535.96065 1784.0938 -537 1785.1019 -537 1786.375 L -537 1819.7812 C -537 1821.0543 -535.96065 1822.0938 -534.6875 1822.0938 L -507.3125 1822.0938 C -506.03935 1822.0938 -505 1821.0544 -505 1819.7812 L -505 1795.9375 C -505 1793.1501 -507.49761 1791.7741 -509.5625 1789.1875 C -511.62739 1786.6009 -514.0114 1784.0938 -516.9375 1784.0938 L -534.6875 1784.0938 z "
+         style="fill:none;stroke:url(#linearGradient10011);stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:100"
+         id="path9968"
+         d="m -534.6875,1786.0625 c -0.23138,0 -0.34375,0.1135 -0.34375,0.3125 l 0,33.4062 c 0,0.199 0.14482,0.3438 0.34375,0.3438 l 27.375,0 c 0.19903,0 0.34375,-0.1446 0.34375,-0.3438 l 0,-23.8437 c 0,-0.8043 -0.28424,-1.2965 -1.03125,-2.1563 -0.74701,-0.8597 -1.92571,-1.9118 -3.09375,-3.375 -1.99074,-2.4937 -4.04493,-4.3437 -5.84375,-4.3437 l -17.75,0 z"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/font-x-generic.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:#566268;stroke-opacity:1;display:inline"
+         id="rect10991-6"
+         width="24"
+         height="24"
+         x="508.25"
+         y="1943.5901"
+         transform="scale(-1,1)"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/package-x-generic.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <g
+         style="stroke:#44c5e5;stroke-opacity:1;display:inline"
+         id="g11471-6"
+         transform="translate(-505.25,1450.5068)"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/package-x-generic.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300">
+        <path
+           id="path10112"
+           d="m -20.75,487.58324 -3.969561,0"
+           style="fill:none;stroke:#44c5e5;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+           sodipodi:nodetypes="cc" />
+        <path
+           sodipodi:nodetypes="cc"
+           style="fill:none;stroke:#44c5e5;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+           d="m -20.75,490.58324 -3.969561,0"
+           id="path10114" />
+        <path
+           sodipodi:nodetypes="cc"
+           style="fill:none;stroke:#44c5e5;stroke-width:1.99999975999999990;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+           d="m -24.75,511.58324 3.969561,0"
+           id="path10116" />
+        <path
+           id="path10118"
+           d="m -24.75,508.58324 3.969561,0"
+           style="fill:none;stroke:#44c5e5;stroke-width:1.99999975999999990;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+           sodipodi:nodetypes="cc" />
+        <path
+           id="path10120"
+           d="m -24.75,505.58324 3.969561,0"
+           style="fill:none;stroke:#44c5e5;stroke-width:1.99999975999999990;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+           sodipodi:nodetypes="cc" />
+        <path
+           id="path10128"
+           d="m -24.75,494.58324 3.969561,0"
+           style="fill:none;stroke:#44c5e5;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+           sodipodi:nodetypes="cc" />
+        <path
+           sodipodi:nodetypes="cc"
+           style="fill:none;stroke:#44c5e5;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+           d="m -25.75,501.58324 5.969561,0"
+           id="path10130" />
+        <path
+           sodipodi:nodetypes="cc"
+           style="fill:none;stroke:#44c5e5;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+           d="m -20.75,494.61368 1,6.96956"
+           id="path10132" />
+        <path
+           id="path10134"
+           d="m -24.75,494.61368 -1,6.96956"
+           style="fill:none;stroke:#44c5e5;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+           sodipodi:nodetypes="cc" />
+        <path
+           sodipodi:nodetypes="cc"
+           style="fill:none;stroke:#44c5e5;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+           d="m -24.75,495.58324 3.969561,0"
+           id="path10136" />
+        <path
+           id="path10139"
+           d="m -24.75,496.58324 3.969561,0"
+           style="fill:none;stroke:#44c5e5;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+           sodipodi:nodetypes="cc" />
+        <path
+           id="path10146"
+           d="m -20.75,514.58324 -3.969561,0"
+           style="fill:none;stroke:#44c5e5;stroke-width:1.99999975999999990;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+           sodipodi:nodetypes="cc" />
+        <path
+           sodipodi:nodetypes="cc"
+           style="fill:none;stroke:#44c5e5;stroke-width:1.99999975999999990;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+           d="m -20.75,517.58324 -3.969561,0"
+           id="path10149" />
+      </g>
+      <path
+         sodipodi:type="arc"
+         style="fill:none;stroke:#44c5e5;stroke-width:18.38477516000000023;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+         id="path6532-9-4"
+         sodipodi:cx="-25.809397"
+         sodipodi:cy="179.43886"
+         sodipodi:rx="22.98097"
+         sodipodi:ry="22.98097"
+         d="m -2.8284264,179.43886 a 22.98097,22.98097 0 1 1 -45.9619406,0 22.98097,22.98097 0 1 1 45.9619406,0 z"
+         transform="matrix(0.1087857,0,0,-0.1087856,-567.85342,1975.649)"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/font-x-generic.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <path
+         transform="matrix(0.1087858,0,0,-0.1087857,-575.85342,1975.649)"
+         d="m -2.8284264,179.43886 a 22.98097,22.98097 0 1 1 -45.9619406,0 22.98097,22.98097 0 1 1 45.9619406,0 z"
+         sodipodi:ry="22.98097"
+         sodipodi:rx="22.98097"
+         sodipodi:cy="179.43886"
+         sodipodi:cx="-25.809397"
+         id="path3624-98-1-6"
+         style="fill:none;stroke:#44c5e5;stroke-width:18.38476561999999959;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+         sodipodi:type="arc"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/font-x-generic.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <path
+         transform="matrix(0.1087857,0,0,-0.1087856,-559.85342,1975.649)"
+         d="M -25.809396,202.41983 A 22.98097,22.98097 0 1 1 -3.2536825,175.03832"
+         sodipodi:ry="22.98097"
+         sodipodi:rx="22.98097"
+         sodipodi:cy="179.43886"
+         sodipodi:cx="-25.809397"
+         id="path7519-1"
+         style="fill:none;stroke:#44c5e5;stroke-width:18.38477516000000023;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+         sodipodi:type="arc"
+         sodipodi:start="1.5707963"
+         sodipodi:end="6.0905091"
+         sodipodi:open="true"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/font-x-generic.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <path
+         id="path22005-1"
+         d="m -576.16112,1958.653 0,-2.6294"
+         style="fill:none;stroke:#44c5e5;stroke-width:1.99999893000000006;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/font-x-generic.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <path
+         id="path22008-6"
+         d="m -573.16112,1955.5728 0,-3.6311"
+         style="fill:none;stroke:#44c5e5;stroke-width:1.99999880999999990;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/font-x-generic.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder.png"
+         style="opacity:0;fill:#eeeeec;fill-opacity:1;stroke:none"
+         id="rect10015"
+         width="48"
+         height="48"
+         x="-495"
+         y="1929.0901" />
     </g>
     <g
        inkscape:groupmode="layer"
