@@ -1,6 +1,0 @@
-themedir = $(datadir)/icons/moblin/16x16/icons
-theme_DATA = audio-x-generic.png camera-photo.png camera-video.png computer.png document-open.png document-recent.png document-template.png document-x-generic.png document-x-spreadsheet.png drive-harddisk.png drive-optical.png drive-removable-media.png edit-clear.png edit-delete.png edit-find.png email.png folder-downloads.png folder-music.png folder-open.png folder-pictures.png folder.png folder-remote.png folder-videos.png go-back.png go-bottom.png go-down.png go-first.png go-last.png go-next.png go-top.png go-up.png gtk-edit.png image-x-generic.png ipod.png list-add.png list-remove.png mail-attachment.png mail-inbox.png mail-outbox.png mail-send.png mail-sent.png media-flash.png media-optical.png network-workgroup.png new-email.png phone.png text-html.png text-x-document.png text-x-preview.png text-x-script.png user-available.png user-away.png user-busy.png user-desktop.png user-home.png user-idle.png user-offline.png user-trash-full.png user-trash.png video-x-generic.png view-refresh.png window-close.png zoom-in.png zoom-orginal.png zoom-out.png
-EXTRA_DIST = $(theme_DATA)
-install-data-local: install-themeDATA
-	(cd "$(DESTDIR)$(themedir)" && $(abs_top_srcdir)/icon-name-mapping -x $(abs_top_srcdir)/legacy-icon-mapping.xml -c icons )
-MAINTAINERCLEANFILES = Makefile.in
