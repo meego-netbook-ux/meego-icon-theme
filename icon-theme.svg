@@ -32,9 +32,9 @@
      objecttolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6568542"
-     inkscape:cx="745.37942"
-     inkscape:cy="559.60168"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="165.23744"
+     inkscape:cy="675.4081"
      inkscape:document-units="px"
      inkscape:current-layer="Rectangles"
      showgrid="true"
@@ -2133,6 +2133,13 @@
          style="opacity:0.06382979;fill:#000000;fill-opacity:1;stroke:none;display:inline"
          inkscape:label="#rect12954" />
     </clipPath>
+    <inkscape:perspective
+       id="perspective9748"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <metadata
      id="metadata7">
@@ -2142,7 +2149,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2468,6 +2475,16 @@
      id="Rectangles"
      style="opacity:0.06944442;display:none"
      transform="translate(595,-303.72041)">
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="progress-working"
+       width="256"
+       height="95.999954"
+       x="-563"
+       y="1342.0901"
+       inkscape:label="#rect8963"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        inkscape:label="media"
        y="1250.0901"
@@ -21101,7 +21118,7 @@
     </g>
     <g
        id="use11081"
-       transform="matrix(-0.4829628,-0.1294092,0.1294092,-0.4829628,-765.26742,2002.4213)">
+       transform="matrix(-0.4829628,-0.1294092,0.1294092,-0.4829628,-766.26742,2002.4213)">
       <path
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
@@ -21136,7 +21153,7 @@
          inkscape:export-ydpi="90" />
     </g>
     <g
-       transform="matrix(-0.4330127,-0.2499996,0.2499996,-0.4330127,-877.89395,1875.0494)"
+       transform="matrix(-0.4330127,-0.2499996,0.2499996,-0.4330127,-878.89395,1875.0494)"
        id="use11083">
       <path
          transform="matrix(-0.1639738,0.6115708,-0.6116228,-0.1637799,-372.32298,1442.5061)"
@@ -21173,7 +21190,7 @@
     </g>
     <g
        id="use11085"
-       transform="matrix(-0.3535535,-0.353553,0.353553,-0.3535535,-1208.6022,1746.5884)">
+       transform="matrix(-0.3535535,-0.353553,0.353553,-0.3535535,-1209.6022,1746.5884)">
       <path
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
@@ -21208,7 +21225,7 @@
          inkscape:export-ydpi="90" />
     </g>
     <g
-       transform="matrix(-0.2500002,-0.4330124,0.4330124,-0.2500002,-1238.1387,1563.9682)"
+       transform="matrix(-0.2500002,-0.4330124,0.4330124,-0.2500002,-1239.1387,1563.9682)"
        id="use11087">
       <path
          transform="matrix(-0.1639738,0.6115708,-0.6116228,-0.1637799,-372.32298,1442.5061)"
@@ -21245,7 +21262,7 @@
     </g>
     <g
        id="use11089"
-       transform="matrix(-0.1294098,-0.4829627,0.4829627,-0.1294098,-1218.31,1371.636)">
+       transform="matrix(-0.1294098,-0.4829627,0.4829627,-0.1294098,-1219.31,1371.636)">
       <path
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
@@ -21280,7 +21297,7 @@
          inkscape:export-ydpi="90" />
     </g>
     <g
-       transform="matrix(-3.5448249e-7,-0.4999998,0.4999998,-3.5448249e-7,-1148.2874,1182.7017)"
+       transform="matrix(-3.5448249e-7,-0.4999998,0.4999998,-3.5448249e-7,-1149.2874,1182.7017)"
        id="use11091">
       <path
          transform="matrix(-0.1639738,0.6115708,-0.6116228,-0.1637799,-372.32298,1442.5061)"
@@ -21317,7 +21334,7 @@
     </g>
     <g
        id="use11093"
-       transform="matrix(0.1294091,-0.4829628,0.4829628,0.1294091,-1030.678,1010.0396)">
+       transform="matrix(0.1294091,-0.4829628,0.4829628,0.1294091,-1031.678,1010.0396)">
       <path
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
@@ -21352,7 +21369,7 @@
          inkscape:export-ydpi="90" />
     </g>
     <g
-       transform="matrix(0.2499995,-0.4330127,0.4330127,0.2499995,-871.31125,865.43183)"
+       transform="matrix(0.2499995,-0.4330127,0.4330127,0.2499995,-872.31125,865.43183)"
        id="use11095">
       <path
          transform="matrix(-0.1639738,0.6115708,-0.6116228,-0.1637799,-372.32298,1442.5061)"
@@ -21389,7 +21406,7 @@
     </g>
     <g
        id="use11097"
-       transform="matrix(0.3535529,-0.3535535,0.3535535,0.3535529,-678.86104,758.71043)">
+       transform="matrix(0.3535529,-0.3535535,0.3535535,0.3535529,-679.86104,758.71043)">
       <path
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
@@ -21424,7 +21441,7 @@
          inkscape:export-ydpi="90" />
     </g>
     <g
-       transform="matrix(0.4829626,-0.1294098,0.1294098,0.4829626,-271.92165,684.97623)"
+       transform="matrix(0.4829626,-0.1294098,0.1294098,0.4829626,-272.92165,684.97623)"
        id="use11099">
       <path
          transform="matrix(-0.1639738,0.6115708,-0.6116228,-0.1637799,-372.32298,1442.5061)"
