@@ -32,11 +32,11 @@
      objecttolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="238.97663"
-     inkscape:cy="783.62449"
+     inkscape:zoom="1"
+     inkscape:cx="821.60282"
+     inkscape:cy="574.22452"
      inkscape:document-units="px"
-     inkscape:current-layer="Rectangles"
+     inkscape:current-layer="layer2"
      showgrid="true"
      inkscape:window-width="1280"
      inkscape:window-height="749"
@@ -2161,6 +2161,13 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 0.5 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective9857"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <metadata
      id="metadata7">
@@ -2170,7 +2177,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -7246,6 +7253,18 @@
        width="16"
        id="16-empathy-offline"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline" />
+    <rect
+       y="1506.0901"
+       x="-233"
+       height="24"
+       width="24"
+       id="rect9827"
+       style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
+       transform="scale(-1,1)"
+       inkscape:export-filename="/Users/hylkebons/mit.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       inkscape:label="web" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -32589,6 +32608,46 @@
          sodipodi:start="1.5492854"
          sodipodi:end="3.2170978"
          sodipodi:open="true" />
+      <path
+         sodipodi:type="arc"
+         style="fill:none;stroke:#566268;stroke-width:22.80530548;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+         id="path9873"
+         sodipodi:cx="-25.809397"
+         sodipodi:cy="179.43886"
+         sodipodi:rx="22.98097"
+         sodipodi:ry="22.98097"
+         d="m -2.8284264,179.43886 a 22.98097,22.98097 0 1 1 -45.9619406,0 22.98097,22.98097 0 1 1 45.9619406,0 z"
+         transform="matrix(0.06247079,-0.06155751,0.06247079,0.06155751,218.37235,1505.4548)" />
+      <path
+         id="path9875"
+         d="m 211.0074,1524.09 19.9926,0"
+         style="fill:none;stroke:#566268;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.99945403;stroke-dasharray:none;display:inline"
+         sodipodi:nodetypes="cc" />
+      <path
+         transform="matrix(0.06247079,-0.06155751,0.06247079,0.06155751,211.37235,1505.4548)"
+         d="m -2.8284264,179.43886 a 22.98097,22.98097 0 1 1 -45.9619406,0 22.98097,22.98097 0 1 1 45.9619406,0 z"
+         sodipodi:ry="22.98097"
+         sodipodi:rx="22.98097"
+         sodipodi:cy="179.43886"
+         sodipodi:cx="-25.809397"
+         id="path9878"
+         style="fill:none;stroke:#566268;stroke-width:22.80530548;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="fill:none;stroke:#566268;stroke-width:22.80530548;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+         id="path9880"
+         sodipodi:cx="-25.809397"
+         sodipodi:cy="179.43886"
+         sodipodi:rx="22.98097"
+         sodipodi:ry="22.98097"
+         d="m -2.8284264,179.43886 a 22.98097,22.98097 0 1 1 -45.9619406,0 22.98097,22.98097 0 1 1 45.9619406,0 z"
+         transform="matrix(0.06247079,-0.06155751,0.06247079,0.06155751,204.37235,1505.4548)" />
+      <path
+         sodipodi:nodetypes="cc"
+         style="fill:none;stroke:#566268;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.99945403;stroke-dasharray:none;display:inline"
+         d="m 211.0074,1512.09 19.9926,0"
+         id="path9882" />
     </g>
     <g
        inkscape:groupmode="layer"
