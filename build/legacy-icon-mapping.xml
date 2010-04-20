@@ -1225,5 +1225,14 @@
 	    <link>pk-update-security</link>
 	    <link>pk-update-high</link>
 	</icon>
+	<icon name="evolution">
+		<link>evolution-mail</link>
+	</icon>
+	<icon name="dates">
+		<link>x-office-calendar</link>
+	</icon>
+	<icon name="contacts">
+		<link>x-office-address-book</link>
+	</icon>
     </context>
 </mapping>
