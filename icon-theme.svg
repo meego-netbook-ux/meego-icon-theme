@@ -32,12 +32,12 @@
      objecttolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="274.88098"
-     inkscape:cy="1265.0634"
+     inkscape:zoom="4"
+     inkscape:cx="298.89943"
+     inkscape:cy="1266.6243"
      inkscape:document-units="px"
-     inkscape:current-layer="layer30"
-     showgrid="false"
+     inkscape:current-layer="Rectangles"
+     showgrid="true"
      inkscape:window-width="1236"
      inkscape:window-height="950"
      inkscape:window-x="1853"
@@ -7125,7 +7125,7 @@
        y="311" />
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="rect10278"
+       id="stock_task-recurring"
        width="24"
        height="24"
        x="-303"
@@ -52287,6 +52287,118 @@
        sodipodi:start="5.8195458"
        sodipodi:end="9.2433346"
        sodipodi:open="true" />
+    <path
+       style="fill:none;stroke:#566268;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m -290.02712,820.15254 -6.91541,10e-6"
+       id="path8543-6"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:none;stroke:#566268;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m -289.02791,820.15253 -3.00527,-3.00526"
+       id="path8545-3"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path8547-2"
+       d="m -289.02791,820.14726 -3.00527,3.00527"
+       style="fill:none;stroke:#566268;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#566268;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m -299.04586,817.945 1e-5,-7.04588"
+       id="path8549-4"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/Users/hylkebons/mit.png"
+       sodipodi:type="arc"
+       style="fill:#dedede;stroke:#566268;stroke-width:3.18102241;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:220;display:inline"
+       id="path8554-8"
+       sodipodi:cx="2.4264877"
+       sodipodi:cy="6.5634222"
+       sodipodi:rx="3.9762781"
+       sodipodi:ry="3.9762781"
+       d="M -1.5497904,6.563422 A 3.9762781,3.9762781 0 0 1 2.4264878,2.5871441"
+       transform="matrix(0.6287287,0,0,-0.6287287,-298.03888,821.77914)"
+       sodipodi:start="3.1415927"
+       sodipodi:end="4.712389"
+       sodipodi:open="true" />
+    <path
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/Users/hylkebons/mit.png"
+       sodipodi:open="true"
+       sodipodi:end="4.5007425"
+       sodipodi:start="3.1415927"
+       transform="matrix(0.6287287,0,0,0.6287287,-298.06768,806.52605)"
+       d="M -1.5497904,6.563422 A 3.9762781,3.9762781 0 0 1 1.5911912,2.6758694"
+       sodipodi:ry="3.9762781"
+       sodipodi:rx="3.9762781"
+       sodipodi:cy="6.5634222"
+       sodipodi:cx="2.4264877"
+       id="path8556-7"
+       style="fill:#dedede;stroke:#566268;stroke-width:3.18102241;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:220;display:inline"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:nodetypes="cc"
+       id="path8558-5"
+       d="m -291.98616,808.15252 6.91543,10e-6"
+       style="fill:none;stroke:#566268;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path8560-6"
+       d="m -292.98538,808.15253 3.00528,3.00527"
+       style="fill:none;stroke:#566268;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:none;stroke:#566268;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m -292.98538,808.1578 3.00528,-3.00527"
+       id="path8562-04"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path8564-65"
+       d="m -282.96742,810.36008 -2e-5,7.04586"
+       style="fill:none;stroke:#566268;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:open="true"
+       sodipodi:end="4.712389"
+       sodipodi:start="3.1415927"
+       transform="matrix(-0.6287287,0,0,0.6287287,-283.9744,806.52593)"
+       d="M -1.5497904,6.563422 A 3.9762781,3.9762781 0 0 1 2.4264878,2.5871441"
+       sodipodi:ry="3.9762781"
+       sodipodi:rx="3.9762781"
+       sodipodi:cy="6.5634222"
+       sodipodi:cx="2.4264877"
+       id="path8568-3"
+       style="fill:#dedede;stroke:#566268;stroke-width:3.18102241;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:220;display:inline"
+       sodipodi:type="arc"
+       inkscape:export-filename="/Users/hylkebons/mit.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#dedede;stroke:#566268;stroke-width:3.18102241;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:220;display:inline"
+       id="path8570-2"
+       sodipodi:cx="2.4264877"
+       sodipodi:cy="6.5634222"
+       sodipodi:rx="3.9762781"
+       sodipodi:ry="3.9762781"
+       d="M -1.5497904,6.563422 A 3.9762781,3.9762781 0 0 1 1.7814906,2.6398058"
+       transform="matrix(-0.6287287,0,0,-0.6287287,-283.94561,821.77903)"
+       sodipodi:start="3.1415927"
+       sodipodi:end="4.5494578"
+       sodipodi:open="true"
+       inkscape:export-filename="/Users/hylkebons/mit.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
   </g>
   <path
      sodipodi:nodetypes="cc"
