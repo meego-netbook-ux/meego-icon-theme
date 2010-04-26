@@ -33,15 +33,15 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="213.54891"
-     inkscape:cy="1266.2327"
+     inkscape:cx="241.01586"
+     inkscape:cy="1261.9097"
      inkscape:document-units="px"
-     inkscape:current-layer="Rectangles"
+     inkscape:current-layer="layer30"
      showgrid="false"
      inkscape:window-width="1236"
      inkscape:window-height="950"
-     inkscape:window-x="1634"
-     inkscape:window-y="77"
+     inkscape:window-x="1843"
+     inkscape:window-y="62"
      inkscape:snap-intersection-line-segments="false"
      inkscape:snap-bbox="true"
      inkscape:snap-nodes="false"
@@ -1798,7 +1798,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -7104,7 +7104,7 @@
        x="-826.09009"
        height="24"
        width="24"
-       id="rect10274"
+       id="gtk-dialog-error"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
        transform="matrix(0,-1,-1,0,0,0)"
        inkscape:export-filename="/home/hbons/Desktop/3-way-call.png"
@@ -52195,6 +52195,26 @@
        style="fill:none;stroke:#566268;stroke-width:2.00000167;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.99945403;stroke-dasharray:none;display:inline"
        d="m -384.83104,815.09135 -4.48922,0"
        id="path16300" />
+    <path
+       transform="matrix(-1.1918603,0,0,-1.1918606,-342.84662,828.81832)"
+       d="m 18.587229,12.357385 a 8.3902435,8.3902435 0 1 1 -16.7804873,0 8.3902435,8.3902435 0 1 1 16.7804873,0 z"
+       sodipodi:ry="8.3902435"
+       sodipodi:rx="8.3902435"
+       sodipodi:cy="12.357385"
+       sodipodi:cx="10.196985"
+       id="path11232-6"
+       style="fill:none;stroke:#566268;stroke-width:1.67804921;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       sodipodi:type="arc"
+       inkscape:export-filename="/Users/hylkebons/mit.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="color:#000000;fill:#566268;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect16320"
+       width="11.962882"
+       height="4.0216699"
+       x="-360.96289"
+       y="812.19214" />
   </g>
   <path
      sodipodi:nodetypes="cc"
