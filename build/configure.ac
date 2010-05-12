@@ -1,6 +1,6 @@
 AC_PREREQ(2.53)
 
-AC_INIT([moblin-icon-theme], [2.2.8])
+AC_INIT([moblin-icon-theme], [2.2.9])
 AC_CONFIG_SRCDIR([24x24])
 
 AM_INIT_AUTOMAKE([1.9 tar-ustar foreign])
