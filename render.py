@@ -2,7 +2,7 @@
 # coding=utf-8
 """render-application-icons
 
-A small script to generate Moblin icons for applications.
+A small script to generate netbook icons for applications.
 
 Usage: render-applications-icons [options] filename
 
@@ -168,7 +168,7 @@ class IconTheme:
         res = self.file.xpath_eval("/svg:svg"
                                    "/svg:g[@inkscape:groupmode='layer' and "
                                    "       @id='Rectangles']"
-                                   "/svg:rect[starts-with(@id,'moblin-')]")
+                                   "/svg:rect[starts-with(@id,'netbook-')]")
         for rect in res:
             rectangle = rect.copyNode(2)
             rectangles_layer.addChild(rectangle)
@@ -236,8 +236,8 @@ class IconTheme:
 
             icon_name = id
 
-            # strip the moblin- prefix
-            if id.startswith('moblin-'):
+            # strip the netbook- prefix
+            if id.startswith('netbook-'):
                 icon_name = id[7:]
 
             # strip the 16- prefix
@@ -298,7 +298,7 @@ class IconTheme:
             if opt_xml_id and fg_id != opt_xml_id:
                 continue
 
-            # if generating 32x32 icons, strip the 'moblin-' prefix (the 32x32
+            # if generating 32x32 icons, strip the 'netbook-' prefix (the 32x32
             # icons are used the the zone panel only)
             if tile_size == 32:
                 fg_name = fg_id[7:]

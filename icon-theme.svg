@@ -2411,7 +2411,7 @@
        x="-265"
        height="24"
        width="24"
-       id="moblin-gimp"
+       id="netbook-gimp"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
        transform="scale(-1,1)" />
     <rect
@@ -4460,7 +4460,7 @@
        x="240.9111"
        height="24"
        width="24"
-       id="moblin-applets-screenshooter"
+       id="netbook-applets-screenshooter"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
        inkscape:label="media" />
     <rect
@@ -4468,7 +4468,7 @@
        x="145"
        height="24"
        width="24"
-       id="moblin-dax"
+       id="netbook-dax"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
        inkscape:label="media" />
     <rect
@@ -4477,19 +4477,19 @@
        x="16.889088"
        height="24"
        width="24"
-       id="moblin-file-roller"
+       id="netbook-file-roller"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline" />
     <rect
        y="1154.0901"
        x="209"
        height="24"
        width="24"
-       id="moblin-yelp"
+       id="netbook-yelp"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
        inkscape:label="system" />
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-accessories-text-editor"
+       id="netbook-accessories-text-editor"
        width="24"
        height="24"
        x="177"
@@ -4497,7 +4497,7 @@
        inkscape:label="office" />
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-empathy"
+       id="netbook-empathy"
        width="24"
        height="24"
        x="112.99264"
@@ -4505,7 +4505,7 @@
        inkscape:label="communicate" />
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-gnome-network-properties"
+       id="netbook-gnome-network-properties"
        width="24"
        height="24"
        x="145"
@@ -4513,7 +4513,7 @@
        inkscape:label="preferences" />
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-web-browser"
+       id="netbook-web-browser"
        width="24"
        height="24"
        x="17.044195"
@@ -4524,12 +4524,12 @@
        x="16.91111"
        height="24"
        width="24"
-       id="moblin-cheese"
+       id="netbook-cheese"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
        inkscape:label="media" />
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-trackpad-mouse"
+       id="netbook-trackpad-mouse"
        width="24"
        height="24"
        x="16.889088"
@@ -4537,7 +4537,7 @@
        inkscape:label="preferences" />
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-system-config-printer"
+       id="netbook-system-config-printer"
        width="24"
        height="24"
        x="48.934135"
@@ -4546,7 +4546,7 @@
     <rect
        transform="scale(-1,1)"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-gnome-display-properties"
+       id="netbook-gnome-display-properties"
        width="24"
        height="24"
        x="-105.08889"
@@ -4560,7 +4560,7 @@
        x="49"
        height="24"
        width="24"
-       id="moblin-contacts"
+       id="netbook-contacts"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
        inkscape:label="communicate" />
     <rect
@@ -4568,12 +4568,12 @@
        x="49"
        height="24"
        width="24"
-       id="moblin-dialer"
+       id="netbook-dialer"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
        inkscape:label="communicate" />
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-anjal"
+       id="netbook-anjal"
        width="24"
        height="24"
        x="145"
@@ -4581,7 +4581,7 @@
        inkscape:label="communicate" />
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-dalston"
+       id="netbook-dalston"
        width="24"
        height="24"
        x="209"
@@ -4592,12 +4592,12 @@
        x="177"
        height="24"
        width="24"
-       id="moblin-gnome-sound-recorder"
+       id="netbook-gnome-sound-recorder"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
        inkscape:label="media" />
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-bluetooth"
+       id="netbook-bluetooth"
        width="24"
        height="24"
        x="240.91113"
@@ -4605,7 +4605,7 @@
        inkscape:label="preferences" />
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-web-services"
+       id="netbook-web-services"
        width="24"
        height="24"
        x="81.044189"
@@ -4616,12 +4616,12 @@
        x="81"
        height="24"
        width="24"
-       id="moblin-garage"
+       id="netbook-garage"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
        inkscape:label="system" />
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-utilities-terminal"
+       id="netbook-utilities-terminal"
        width="24"
        height="24"
        x="113"
@@ -4629,7 +4629,7 @@
        inkscape:label="system" />
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-accessories-calculator"
+       id="netbook-accessories-calculator"
        width="24"
        height="24"
        x="145"
@@ -4637,7 +4637,7 @@
        inkscape:label="office" />
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-preferences-sound"
+       id="netbook-preferences-sound"
        width="24"
        height="24"
        x="305.08887"
@@ -4649,7 +4649,7 @@
     <rect
        transform="scale(-1,1)"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-preferences-desktop-keyboard"
+       id="netbook-preferences-desktop-keyboard"
        width="24"
        height="24"
        x="-296.99829"
@@ -4660,7 +4660,7 @@
        inkscape:label="preferences" />
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-preferences-other"
+       id="netbook-preferences-other"
        width="24"
        height="24"
        x="273"
@@ -4672,7 +4672,7 @@
        x="209"
        height="24"
        width="24"
-       id="moblin-tasks"
+       id="netbook-tasks"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline" />
     <rect
        inkscape:label="preferences"
@@ -4680,11 +4680,11 @@
        x="177"
        height="24"
        width="24"
-       id="moblin-system-config-date"
+       id="netbook-system-config-date"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline" />
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-evince"
+       id="netbook-evince"
        width="24"
        height="24"
        x="273"
@@ -4695,12 +4695,12 @@
        x="305"
        height="24"
        width="24"
-       id="moblin-preferences-desktop-keyboard-shortcuts"
+       id="netbook-preferences-desktop-keyboard-shortcuts"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
        inkscape:label="preferences" />
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-ooo-calc"
+       id="netbook-ooo-calc"
        width="24"
        height="24"
        x="241"
@@ -4712,11 +4712,11 @@
        x="305"
        height="24"
        width="24"
-       id="moblin-dates"
+       id="netbook-dates"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline" />
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-gallery"
+       id="netbook-gallery"
        width="24"
        height="24"
        x="49"
@@ -4731,11 +4731,11 @@
        x="81"
        height="24.000011"
        width="24"
-       id="moblin-develop"
+       id="netbook-develop"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline" />
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-share"
+       id="netbook-share"
        width="24"
        height="24"
        x="113"
@@ -4744,7 +4744,7 @@
     <rect
        inkscape:label="media"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-hornsey"
+       id="netbook-hornsey"
        width="24"
        height="24"
        x="177"
@@ -4768,7 +4768,7 @@
     <rect
        transform="scale(-1,1)"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-media-player-banshee"
+       id="netbook-media-player-banshee"
        width="24"
        height="24"
        x="-233"
@@ -4777,7 +4777,7 @@
     <rect
        transform="scale(-1,1)"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-firefox"
+       id="netbook-firefox"
        width="24"
        height="24"
        x="-297"
@@ -4789,13 +4789,13 @@
        x="-329"
        height="24"
        width="24"
-       id="moblin-totem"
+       id="netbook-totem"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
        transform="scale(-1,1)" />
     <rect
        transform="scale(-1,1)"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-mplayer"
+       id="netbook-mplayer"
        width="24"
        height="24"
        x="-329"
@@ -4803,7 +4803,7 @@
        inkscape:label="media" />
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-gwibber"
+       id="netbook-gwibber"
        width="24"
        height="24"
        x="17"
@@ -4812,39 +4812,39 @@
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/hbons/Intel/git/moblin-icon-theme/image.png"
+       inkscape:export-filename="/home/hbons/Intel/git/netbook-icon-theme/image.png"
        y="1282.09"
        x="49.06356"
        height="24"
        width="24"
-       id="moblin-ghex"
+       id="netbook-ghex"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
        inkscape:label="games" />
     <rect
        inkscape:label="media"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-gtk-recordmydesktop"
+       id="netbook-gtk-recordmydesktop"
        width="24"
        height="24"
        x="80.06356"
        y="1282.09"
-       inkscape:export-filename="/home/hbons/Intel/git/moblin-icon-theme/image.png"
+       inkscape:export-filename="/home/hbons/Intel/git/netbook-icon-theme/image.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/hbons/Intel/git/moblin-icon-theme/image.png"
+       inkscape:export-filename="/home/hbons/Intel/git/netbook-icon-theme/image.png"
        y="1282.09"
        x="113.06356"
        height="24"
        width="24"
-       id="moblin-gnometris"
+       id="netbook-gnometris"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
        inkscape:label="games" />
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-gnome-aisleriot"
+       id="netbook-gnome-aisleriot"
        width="24"
        height="24"
        x="145"
@@ -4856,81 +4856,81 @@
        x="177"
        height="24"
        width="24"
-       id="moblin-gnome-blackjack"
+       id="netbook-gnome-blackjack"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline" />
     <rect
        y="1282.1481"
        x="-233.06612"
        height="24"
        width="24"
-       id="moblin-skype"
+       id="netbook-skype"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
        transform="scale(-1,1)"
        inkscape:label="communicate" />
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/hbons/Intel/git/moblin-icon-theme/image.png"
+       inkscape:export-filename="/home/hbons/Intel/git/netbook-icon-theme/image.png"
        y="1282.09"
        x="273.00003"
        height="24"
        width="24"
-       id="moblin-pidgin"
+       id="netbook-pidgin"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
        inkscape:label="communicate" />
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/hbons/Intel/git/moblin-icon-theme/image.png"
+       inkscape:export-filename="/home/hbons/Intel/git/netbook-icon-theme/image.png"
        y="1282.09"
        x="305.00003"
        height="24"
        width="24"
-       id="moblin-x"
+       id="netbook-x"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
        inkscape:label="system" />
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/hbons/Intel/git/moblin-icon-theme/image.png"
+       inkscape:export-filename="/home/hbons/Intel/git/netbook-icon-theme/image.png"
        y="1282.09"
        x="241.00002"
        height="24"
        width="24"
-       id="moblin-vim"
+       id="netbook-vim"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
        inkscape:label="system" />
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-dasher"
+       id="netbook-dasher"
        width="24"
        height="24"
        x="49"
        y="1314.0901"
-       inkscape:export-filename="/home/hbons/Intel/git/moblin-icon-theme/image.png"
+       inkscape:export-filename="/home/hbons/Intel/git/netbook-icon-theme/image.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        inkscape:label="office" />
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-WorldOfGooDemo"
+       id="netbook-WorldOfGooDemo"
        width="24"
        height="24"
        x="17"
        y="1314.09"
-       inkscape:export-filename="/home/hbons/Intel/git/moblin-icon-theme/image.png"
+       inkscape:export-filename="/home/hbons/Intel/git/netbook-icon-theme/image.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        inkscape:label="games" />
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/hbons/Intel/git/moblin-icon-theme/image.png"
+       inkscape:export-filename="/home/hbons/Intel/git/netbook-icon-theme/image.png"
        y="1314.1143"
        x="209"
        height="24"
        width="24"
-       id="moblin-gnome-sudoku"
+       id="netbook-gnome-sudoku"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
        inkscape:label="games" />
     <rect
@@ -4938,95 +4938,95 @@
        x="81"
        height="24"
        width="24"
-       id="moblin-dia"
+       id="netbook-dia"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
        inkscape:label="office" />
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/hbons/Intel/git/moblin-icon-theme/image.png"
+       inkscape:export-filename="/home/hbons/Intel/git/netbook-icon-theme/image.png"
        y="1314.1232"
        x="113"
        height="24"
        width="24"
-       id="moblin-gnome-klotski"
+       id="netbook-gnome-klotski"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
        inkscape:label="games" />
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-gnome-mahjongg"
+       id="netbook-gnome-mahjongg"
        width="24"
        height="24"
        x="144.93579"
        y="1314.0231"
-       inkscape:export-filename="/home/hbons/Intel/git/moblin-icon-theme/image.png"
+       inkscape:export-filename="/home/hbons/Intel/git/netbook-icon-theme/image.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        inkscape:label="games" />
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/hbons/Intel/git/moblin-icon-theme/image.png"
+       inkscape:export-filename="/home/hbons/Intel/git/netbook-icon-theme/image.png"
        y="1314.0901"
        x="241"
        height="24"
        width="24"
-       id="moblin-gnome-planner"
+       id="netbook-gnome-planner"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
        inkscape:label="office" />
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-gnome-tetravex"
+       id="netbook-gnome-tetravex"
        width="24"
        height="24"
        x="273"
        y="1314.1443"
-       inkscape:export-filename="/home/hbons/Intel/git/moblin-icon-theme/image.png"
+       inkscape:export-filename="/home/hbons/Intel/git/netbook-icon-theme/image.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        inkscape:label="games" />
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-xchat-gnome"
+       id="netbook-xchat-gnome"
        width="24"
        height="24"
        x="305"
        y="1314.09"
-       inkscape:export-filename="/home/hbons/Intel/git/moblin-icon-theme/image.png"
+       inkscape:export-filename="/home/hbons/Intel/git/netbook-icon-theme/image.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        inkscape:label="communicate" />
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/hbons/Intel/git/moblin-icon-theme/image.png"
+       inkscape:export-filename="/home/hbons/Intel/git/netbook-icon-theme/image.png"
        y="1346.09"
        x="16.999969"
        height="24"
        width="24"
-       id="moblin-neverball"
+       id="netbook-neverball"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
        inkscape:label="games" />
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-neverputt"
+       id="netbook-neverputt"
        width="24"
        height="24"
        x="49"
        y="1346.09"
-       inkscape:export-filename="/home/hbons/Intel/git/moblin-icon-theme/image.png"
+       inkscape:export-filename="/home/hbons/Intel/git/netbook-icon-theme/image.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        inkscape:label="games" />
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/hbons/Intel/git/moblin-icon-theme/image.png"
+       inkscape:export-filename="/home/hbons/Intel/git/netbook-icon-theme/image.png"
        y="1346.0909"
        x="81.000923"
        height="24"
        width="24"
-       id="moblin-thunderbird"
+       id="netbook-thunderbird"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
        inkscape:label="communicate" />
     <rect
@@ -5034,14 +5034,14 @@
        x="-137"
        height="24"
        width="24"
-       id="moblin-inkscape"
+       id="netbook-inkscape"
        style="opacity:0.95000006;fill:#000000;fill-opacity:1;stroke:none;display:inline"
        transform="scale(-1,1)"
        inkscape:label="media" />
     <rect
        transform="scale(-1,1)"
        style="opacity:0.95000006;fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-frozen-bubble"
+       id="netbook-frozen-bubble"
        width="24"
        height="24"
        x="-169"
@@ -5049,7 +5049,7 @@
        inkscape:label="games" />
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-preferences-desktop-theme"
+       id="netbook-preferences-desktop-theme"
        width="24"
        height="24"
        x="177"
@@ -5057,7 +5057,7 @@
        inkscape:label="preferences" />
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-f-spot"
+       id="netbook-f-spot"
        width="24"
        height="24"
        x="177.00002"
@@ -5069,7 +5069,7 @@
        x="113"
        height="24"
        width="24"
-       id="moblin-preferences-desktop-file-management"
+       id="netbook-preferences-desktop-file-management"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline" />
     <rect
        inkscape:label="communicate"
@@ -5077,23 +5077,23 @@
        x="145"
        height="24"
        width="24"
-       id="moblin-evolution"
+       id="netbook-evolution"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline" />
     <rect
        style="opacity:0.98999999;fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-gnome-mines"
+       id="netbook-gnome-mines"
        width="24"
        height="24"
        x="209"
        y="1346.0901"
-       inkscape:export-filename="/home/hbons/Intel/git/moblin-icon-theme/image.png"
+       inkscape:export-filename="/home/hbons/Intel/git/netbook-icon-theme/image.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        inkscape:label="games" />
     <rect
        inkscape:label="system"
        style="opacity:0.06944442;fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-edit-find"
+       id="netbook-edit-find"
        width="24"
        height="24"
        x="240.97914"
@@ -5103,12 +5103,12 @@
        x="240.97914"
        height="24"
        width="24"
-       id="moblin-system-search"
+       id="netbook-system-search"
        style="opacity:0.98999999;fill:#000000;fill-opacity:1;stroke:none;display:inline"
        inkscape:label="system" />
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-preferences-desktop-accessibility"
+       id="netbook-preferences-desktop-accessibility"
        width="24"
        height="24"
        x="273"
@@ -5119,14 +5119,14 @@
        x="-329"
        height="24"
        width="24"
-       id="moblin-virus-scanner"
+       id="netbook-virus-scanner"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
        transform="scale(-1,1)"
        inkscape:label="system" />
     <rect
        inkscape:label="communicate"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-ekiga"
+       id="netbook-ekiga"
        width="24"
        height="24"
        x="49"
@@ -5136,14 +5136,14 @@
        x="-168"
        height="24"
        width="24"
-       id="moblin-tomboy"
+       id="netbook-tomboy"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
        transform="scale(-1,1)"
        inkscape:label="office" />
     <rect
        transform="scale(-1,1)"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-sync"
+       id="netbook-sync"
        width="24"
        height="24"
        x="-41"
@@ -5152,23 +5152,23 @@
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/hbons/Intel/git/moblin-icon-theme/image.png"
+       inkscape:export-filename="/home/hbons/Intel/git/netbook-icon-theme/image.png"
        y="1378.09"
        x="49"
        height="24"
        width="24"
-       id="moblin-gnucash"
+       id="netbook-gnucash"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
        inkscape:label="office" />
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/hbons/Intel/git/moblin-icon-theme/image.png"
+       inkscape:export-filename="/home/hbons/Intel/git/netbook-icon-theme/image.png"
        y="1378.09"
        x="81"
        height="24"
        width="24"
-       id="moblin-liferea"
+       id="netbook-liferea"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
        inkscape:label="web" />
     <rect
@@ -5177,60 +5177,60 @@
        x="113"
        height="24"
        width="24"
-       id="moblin-devhelp"
+       id="netbook-devhelp"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline" />
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-eog"
+       id="netbook-eog"
        width="24"
        height="24"
        x="176.98941"
        y="1378.073"
-       inkscape:export-filename="/home/hbons/Intel/git/moblin-icon-theme/image.png"
+       inkscape:export-filename="/home/hbons/Intel/git/netbook-icon-theme/image.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        inkscape:label="media" />
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/hbons/Intel/git/moblin-icon-theme/image.png"
+       inkscape:export-filename="/home/hbons/Intel/git/netbook-icon-theme/image.png"
        y="1378.0901"
        x="209.00012"
        height="24"
        width="24"
-       id="moblin-gnome-glines"
+       id="netbook-gnome-glines"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
        inkscape:label="games" />
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-gnome-gnect"
+       id="netbook-gnome-gnect"
        width="24"
        height="24"
        x="241.00012"
        y="1378.0901"
-       inkscape:export-filename="/home/hbons/Intel/git/moblin-icon-theme/image.png"
+       inkscape:export-filename="/home/hbons/Intel/git/netbook-icon-theme/image.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        inkscape:label="games" />
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/hbons/Intel/git/moblin-icon-theme/image.png"
+       inkscape:export-filename="/home/hbons/Intel/git/netbook-icon-theme/image.png"
        y="1378.0901"
        x="273.00018"
        height="24"
        width="24"
-       id="moblin-gnome-iagno"
+       id="netbook-gnome-iagno"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
        inkscape:label="games" />
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-blender"
+       id="netbook-blender"
        width="24"
        height="24"
        x="305"
        y="1378.0901"
-       inkscape:export-filename="/home/hbons/Intel/git/moblin-icon-theme/image.png"
+       inkscape:export-filename="/home/hbons/Intel/git/netbook-icon-theme/image.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        inkscape:label="media" />
@@ -5238,18 +5238,18 @@
        inkscape:label="media"
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/hbons/Intel/git/moblin-icon-theme/image.png"
+       inkscape:export-filename="/home/hbons/Intel/git/netbook-icon-theme/image.png"
        y="1378.073"
        x="176.98941"
        height="24"
        width="24"
-       id="moblin-gthumb"
+       id="netbook-gthumb"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline" />
     <rect
        inkscape:label="office"
        transform="scale(-1,1)"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-gnote"
+       id="netbook-gnote"
        width="24"
        height="24"
        x="-168"
@@ -5463,7 +5463,7 @@
        x="-40"
        height="24"
        width="24"
-       id="moblin-system-file-manager"
+       id="netbook-system-file-manager"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
        transform="scale(-1,1)"
        inkscape:label="system" />
@@ -5471,7 +5471,7 @@
        inkscape:label="system"
        transform="scale(-1,1)"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-nautilus"
+       id="netbook-nautilus"
        width="24"
        height="24"
        x="-40"
@@ -5479,7 +5479,7 @@
     <rect
        inkscape:label="system"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-logo-icon"
+       id="netbook-logo-icon"
        width="24"
        height="24"
        x="-20.925629"
@@ -5490,7 +5490,7 @@
        x="17.044195"
        height="24"
        width="24"
-       id="moblin-moblin-web-browser"
+       id="netbook-netbook-web-browser"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline" />
     <rect
        inkscape:label="preferences"
@@ -5498,7 +5498,7 @@
        x="81.999992"
        height="24"
        width="24"
-       id="moblin-printer-default"
+       id="netbook-printer-default"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline" />
     <rect
        inkscape:export-ydpi="300"
@@ -5513,7 +5513,7 @@
        transform="scale(-1,1)" />
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-system-software-update"
+       id="netbook-system-software-update"
        width="24"
        height="24"
        x="112.99999"
@@ -5525,7 +5525,7 @@
        x="112.99999"
        height="24"
        width="24"
-       id="moblin-gpk-prefs"
+       id="netbook-gpk-prefs"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline" />
     <rect
        transform="scale(-1,1)"
@@ -6320,12 +6320,12 @@
        x="145.07437"
        height="24"
        width="24"
-       id="moblin-preferences-desktop-locale"
+       id="netbook-preferences-desktop-locale"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
        inkscape:label="preferences" />
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-user-info"
+       id="netbook-user-info"
        width="24"
        height="24"
        x="177"
@@ -6341,7 +6341,7 @@
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline" />
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-desktop-effects"
+       id="netbook-desktop-effects"
        width="24"
        height="24"
        x="240.99521"
@@ -6353,7 +6353,7 @@
        x="274"
        height="24"
        width="24"
-       id="moblin-accessories-dictionary"
+       id="netbook-accessories-dictionary"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline" />
     <rect
        inkscape:label="preferences"
@@ -6361,12 +6361,12 @@
        x="304.00006"
        height="24"
        width="24"
-       id="moblin-preferences-desktop-font"
+       id="netbook-preferences-desktop-font"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline" />
     <rect
        transform="scale(-1,1)"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-preferences-desktop-remote-desktop"
+       id="netbook-preferences-desktop-remote-desktop"
        width="24"
        height="24"
        x="-40.97168"
@@ -6384,7 +6384,7 @@
        x="305.08887"
        height="24"
        width="24"
-       id="moblin-gnome-volume-control"
+       id="netbook-gnome-volume-control"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline" />
     <rect
        inkscape:label="preferences"
@@ -6392,11 +6392,11 @@
        x="209"
        height="24"
        width="24"
-       id="moblin-gnome-power-manager"
+       id="netbook-gnome-power-manager"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline" />
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-session-properties"
+       id="netbook-session-properties"
        width="24"
        height="24"
        x="48.911129"
@@ -6407,7 +6407,7 @@
        x="-104.9565"
        height="24"
        width="24"
-       id="moblin-system-config-users"
+       id="netbook-system-config-users"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
        transform="scale(-1,1)"
        inkscape:export-filename="/Users/hylkebons/mit.png"
@@ -6418,7 +6418,7 @@
        inkscape:label="preferences"
        transform="scale(-1,1)"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-preferences-system-firewall"
+       id="netbook-preferences-system-firewall"
        width="24"
        height="24"
        x="-329"
@@ -6441,11 +6441,11 @@
        x="48.934135"
        height="24"
        width="24"
-       id="moblin-printers"
+       id="netbook-printers"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline" />
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-dalston-power-capplet"
+       id="netbook-dalston-power-capplet"
        width="24"
        height="24"
        x="209"
@@ -6454,14 +6454,14 @@
     <rect
        inkscape:label="system"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-system-software-install"
+       id="netbook-system-software-install"
        width="24"
        height="24"
        x="81"
        y="1186.0901" />
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-gnome-settings-default-applications"
+       id="netbook-gnome-settings-default-applications"
        width="24"
        height="24"
        x="112.99999"
@@ -6473,21 +6473,21 @@
        x="145"
        height="24"
        width="24"
-       id="moblin-preferences-system-windows"
+       id="netbook-preferences-system-windows"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline" />
     <rect
        y="1442.0901"
        x="-201"
        height="24"
        width="24"
-       id="moblin-user_auth"
+       id="netbook-user_auth"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
        transform="scale(-1,1)"
        inkscape:label="preferences" />
     <rect
        inkscape:label="system"
        style="opacity:0.98999999;fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-gnome-search-tool"
+       id="netbook-gnome-search-tool"
        width="24"
        height="24"
        x="240.97914"
@@ -6498,7 +6498,7 @@
        x="209.02328"
        height="24"
        width="24"
-       id="moblin-gpk-install-catalog"
+       id="netbook-gpk-install-catalog"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline" />
     <rect
        inkscape:label="web"
@@ -6506,7 +6506,7 @@
        x="81.044189"
        height="24"
        width="24"
-       id="moblin-bisho"
+       id="netbook-bisho"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline" />
     <rect
        inkscape:label="preferences"
@@ -6514,20 +6514,20 @@
        x="112.99264"
        height="24"
        width="24"
-       id="moblin-empathy-accounts"
+       id="netbook-empathy-accounts"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline" />
     <rect
        y="1442.0901"
        x="241"
        height="24"
        width="24"
-       id="moblin-baobab"
+       id="netbook-baobab"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
        inkscape:label="system" />
     <rect
        inkscape:label="system"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-palimpsest"
+       id="netbook-palimpsest"
        width="24"
        height="24"
        x="273"
@@ -6537,13 +6537,13 @@
        x="-329"
        height="24"
        width="24"
-       id="moblin-gconf-editor"
+       id="netbook-gconf-editor"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
        transform="scale(-1,1)"
        inkscape:label="system" />
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-gpk-repo"
+       id="netbook-gpk-repo"
        width="24"
        height="24"
        x="209.02328"
@@ -6554,12 +6554,12 @@
        x="17"
        height="24"
        width="24"
-       id="moblin-audacity"
+       id="netbook-audacity"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
        inkscape:label="media" />
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-postr"
+       id="netbook-postr"
        width="24"
        height="24"
        x="49"
@@ -6579,7 +6579,7 @@
        transform="scale(-1,1)" />
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-rawstudio"
+       id="netbook-rawstudio"
        width="24"
        height="24"
        x="49"
@@ -6591,11 +6591,11 @@
        x="81"
        height="24"
        width="24"
-       id="moblin-rhythmbox"
+       id="netbook-rhythmbox"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline" />
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-kapman"
+       id="netbook-kapman"
        width="24"
        height="24"
        x="113"
@@ -6607,11 +6607,11 @@
        x="145"
        height="24"
        width="24"
-       id="moblin-ooo-writer"
+       id="netbook-ooo-writer"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline" />
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-abiword"
+       id="netbook-abiword"
        width="24"
        height="24"
        x="177"
@@ -6623,11 +6623,11 @@
        x="209"
        height="24"
        width="24"
-       id="moblin-scribus"
+       id="netbook-scribus"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline" />
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-songbird"
+       id="netbook-songbird"
        width="24"
        height="24"
        x="241"
@@ -6635,7 +6635,7 @@
        inkscape:label="media" />
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-tuxpaint"
+       id="netbook-tuxpaint"
        width="24"
        height="24"
        x="273"
@@ -6647,11 +6647,11 @@
        x="273"
        height="24"
        width="24"
-       id="moblin-ooo-draw"
+       id="netbook-ooo-draw"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline" />
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-marble"
+       id="netbook-marble"
        width="24"
        height="24"
        x="305"
@@ -6660,7 +6660,7 @@
     <rect
        inkscape:label="games"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-gcompris"
+       id="netbook-gcompris"
        width="24"
        height="24"
        x="17"
@@ -6670,21 +6670,21 @@
        x="49"
        height="24"
        width="24"
-       id="moblin-glchess"
+       id="netbook-glchess"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
        inkscape:label="games" />
     <rect
        inkscape:label="system"
        transform="scale(-1,1)"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-anjuta"
+       id="netbook-anjuta"
        width="24"
        height="24"
        x="-329"
        y="1442.0901" />
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-toolbar-properties"
+       id="netbook-toolbar-properties"
        width="24"
        height="24"
        x="81"
@@ -6738,7 +6738,7 @@
        x="113"
        height="24"
        width="24"
-       id="moblin-abrt"
+       id="netbook-abrt"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline" />
     <rect
        y="1346.0901"
@@ -6820,11 +6820,11 @@
        x="81"
        height="24"
        width="24"
-       id="moblin-moblin-toolbar-properties"
+       id="netbook-netbook-toolbar-properties"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline" />
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-email"
+       id="netbook-email"
        width="24"
        height="24"
        x="145"
@@ -6879,7 +6879,7 @@
        x="273"
        height="24"
        width="24"
-       id="moblin-gnome-control-center"
+       id="netbook-gnome-control-center"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline" />
     <rect
        inkscape:label="#rect11058"
@@ -6920,7 +6920,7 @@
        inkscape:export-filename="/Users/hylkebons/mit.png"
        transform="scale(-1,1)"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-preferences-myzone"
+       id="netbook-preferences-myzone"
        width="24"
        height="24"
        x="-168.9565"
@@ -6930,7 +6930,7 @@
        x="-201"
        height="24"
        width="24"
-       id="moblin-application-installer"
+       id="netbook-application-installer"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
        transform="scale(-1,1)"
        inkscape:export-filename="/Users/hylkebons/mit.png"
@@ -7152,7 +7152,7 @@
        x="-233"
        height="24"
        width="24"
-       id="moblin-preferences-system-tray"
+       id="netbook-preferences-system-tray"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
        transform="scale(-1,1)"
        inkscape:export-filename="/Users/hylkebons/mit.png"
@@ -7271,7 +7271,7 @@
        inkscape:label="system"
        transform="scale(-1,1)"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-preferences"
+       id="netbook-preferences"
        width="24"
        height="24"
        x="-329"
@@ -7282,7 +7282,7 @@
        x="49"
        height="24"
        width="24"
-       id="moblin-power"
+       id="netbook-power"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline" />
     <rect
        y="1538.0901"
@@ -7294,7 +7294,7 @@
        inkscape:label="" />
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-preferences-power-brightness"
+       id="netbook-preferences-power-brightness"
        width="24"
        height="24"
        x="49"
@@ -7306,7 +7306,7 @@
        x="81"
        height="24"
        width="24"
-       id="moblin-preferences-desktop-screensaver"
+       id="netbook-preferences-desktop-screensaver"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline" />
     <rect
        y="375"
@@ -7543,7 +7543,7 @@
        inkscape:export-filename="/Users/hylkebons/mit.png"
        transform="scale(-1,1)"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-system-tray-properties"
+       id="netbook-system-tray-properties"
        width="24"
        height="24"
        x="-233"
@@ -7552,14 +7552,14 @@
        inkscape:label="preferences"
        transform="scale(-1,1)"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-security"
+       id="netbook-security"
        width="24"
        height="24"
        x="-201"
        y="1442.0901" />
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-app-installer"
+       id="netbook-app-installer"
        width="24"
        height="24"
        x="113"
@@ -7571,11 +7571,11 @@
        x="145"
        height="24"
        width="24"
-       id="moblin-gnome-mplayer"
+       id="netbook-gnome-mplayer"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline" />
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-fosfor"
+       id="netbook-fosfor"
        width="24"
        height="24"
        x="177"
@@ -7697,11 +7697,11 @@
        x="209"
        height="24"
        width="24"
-       id="moblin-simple-scan"
+       id="netbook-simple-scan"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline" />
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="moblin-simplescan"
+       id="netbook-simplescan"
        width="24"
        height="24"
        x="209"
@@ -7887,7 +7887,7 @@
        id="16-stock_new-meeting"
        style="fill:#000000;fill-opacity:0.98113254;stroke:none;display:inline"
        transform="scale(-1,1)"
-       inkscape:export-filename="/home/hbons/github/meego-icon-theme/moblin/16x16/icons/stock_new-meeting.png"
+       inkscape:export-filename="/home/hbons/github/handset-icon-theme/moblin/16x16/icons/stock_new-meeting.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"
        inkscape:label="#rect8223-2-5" />
@@ -24750,7 +24750,7 @@
       <path
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/hbons/github/meego-icon-theme/moblin/48x48/icons/folder-drag-accept.png"
+         inkscape:export-filename="/home/hbons/github/handset-icon-theme/moblin/48x48/icons/folder-drag-accept.png"
          id="path9315"
          d="m -486.4375,1980.5954 c -1.24951,0 -2.16663,1.1096 -2.0625,2.5 l 0.0313,0.5 -0.96875,0 c -1.24951,0 -2.16663,1.1097 -2.0625,2.5 l 1.8125,24 c 0.10413,1.3903 1.18799,2.5 2.4375,2.5 l 33.59375,0 c 1.24951,0 2.16663,-1.1097 2.0625,-2.5 l -1.8125,-24 c -0.10413,-1.3903 -1.18799,-2.5 -2.4375,-2.5 l -17.53125,0 -0.0313,-0.5 c -0.10413,-1.3904 -1.18799,-2.5 -2.4375,-2.5 l -10.59375,0 z"
          style="fill:#ededed;fill-opacity:1;stroke:#ababab;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1"
@@ -24758,14 +24758,14 @@
       <g
          id="g9317"
          transform="translate(0,242)"
-         inkscape:export-filename="/home/hbons/github/meego-icon-theme/moblin/48x48/icons/folder-drag-accept.png"
+         inkscape:export-filename="/home/hbons/github/handset-icon-theme/moblin/48x48/icons/folder-drag-accept.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90">
         <path
            id="path9319"
            d="m -486.95925,1737.0901 c -1.24951,0 -2.16663,1.1789 -2.0625,2.6562 l 0.0313,0.5312 -0.96875,0 c -1.24951,0 -2.16663,1.1791 -2.0625,2.6563 l 1.8125,25.5001 c 0.10413,1.4771 1.18799,2.6562 2.4375,2.6562 l 33.59375,0 c 1.24951,0 2.16663,-1.1791 2.0625,-2.6562 l -1.8125,-25.5001 c -0.10413,-1.4772 -1.18799,-2.6563 -2.4375,-2.6563 l -17.53125,0 -0.0313,-0.5312 c -0.10413,-1.4773 -1.18799,-2.6562 -2.4375,-2.6562 l -10.59375,0 z"
            style="fill:#ededed;fill-opacity:1;stroke:#ababab;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder.png"
            inkscape:export-xdpi="90"
            inkscape:export-ydpi="90"
            inkscape:connector-curvature="0" />
@@ -24787,21 +24787,21 @@
            width="38"
            id="rect9323"
            style="fill:url(#linearGradient9327);fill-opacity:1;stroke:#ababab;stroke-width:2.01035166;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder.png"
            inkscape:export-xdpi="90"
            inkscape:export-ydpi="90" />
       </g>
       <g
          id="g9251"
          transform="translate(0,142)"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-videos.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-videos.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90">
         <path
            id="path9267"
            d="m -486.95925,1737.0901 c -1.24951,0 -2.16663,1.1789 -2.0625,2.6562 l 0.0313,0.5312 -0.96875,0 c -1.24951,0 -2.16663,1.1791 -2.0625,2.6563 l 1.8125,25.5001 c 0.10413,1.4771 1.18799,2.6562 2.4375,2.6562 l 33.59375,0 c 1.24951,0 2.16663,-1.1791 2.0625,-2.6562 l -1.8125,-25.5001 c -0.10413,-1.4772 -1.18799,-2.6563 -2.4375,-2.6563 l -17.53125,0 -0.0313,-0.5312 c -0.10413,-1.4773 -1.18799,-2.6562 -2.4375,-2.6562 l -10.59375,0 z"
            style="fill:#ededed;fill-opacity:1;stroke:#ababab;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder.png"
            inkscape:export-xdpi="90"
            inkscape:export-ydpi="90"
            inkscape:connector-curvature="0" />
@@ -24823,20 +24823,20 @@
            width="38"
            id="rect9274"
            style="fill:url(#linearGradient9278);fill-opacity:1;stroke:#ababab;stroke-width:2.00321198;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder.png"
            inkscape:export-xdpi="90"
            inkscape:export-ydpi="90" />
       </g>
       <g
          transform="translate(-50,142)"
          id="g9239"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-pictures.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-pictures.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90">
         <path
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder.png"
            style="fill:#ededed;fill-opacity:1;stroke:#ababab;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
            d="m -486.95925,1737.0901 c -1.24951,0 -2.16663,1.1789 -2.0625,2.6562 l 0.0313,0.5312 -0.96875,0 c -1.24951,0 -2.16663,1.1791 -2.0625,2.6563 l 1.8125,25.5001 c 0.10413,1.4771 1.18799,2.6562 2.4375,2.6562 l 33.59375,0 c 1.24951,0 2.16663,-1.1791 2.0625,-2.6562 l -1.8125,-25.5001 c -0.10413,-1.4772 -1.18799,-2.6563 -2.4375,-2.6563 l -17.53125,0 -0.0313,-0.5312 c -0.10413,-1.4773 -1.18799,-2.6562 -2.4375,-2.6562 l -10.59375,0 z"
            id="path9241"
@@ -24852,7 +24852,7 @@
         <rect
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder.png"
            style="fill:url(#linearGradient9249);fill-opacity:1;stroke:#ababab;stroke-width:2.00321198;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
            id="rect9245"
            width="38"
@@ -24866,14 +24866,14 @@
       <g
          id="g9227"
          transform="translate(-99,143.5)"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-music.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-music.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90">
         <path
            id="path9229"
            d="m -486.95925,1737.0901 c -1.24951,0 -2.16663,1.1789 -2.0625,2.6562 l 0.0313,0.5312 -0.96875,0 c -1.24951,0 -2.16663,1.1791 -2.0625,2.6563 l 1.8125,25.5001 c 0.10413,1.4771 1.18799,2.6562 2.4375,2.6562 l 33.59375,0 c 1.24951,0 2.16663,-1.1791 2.0625,-2.6562 l -1.8125,-25.5001 c -0.10413,-1.4772 -1.18799,-2.6563 -2.4375,-2.6563 l -17.53125,0 -0.0313,-0.5312 c -0.10413,-1.4773 -1.18799,-2.6562 -2.4375,-2.6562 l -10.59375,0 z"
            style="fill:#ededed;fill-opacity:1;stroke:#ababab;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder.png"
            inkscape:export-xdpi="90"
            inkscape:export-ydpi="90"
            inkscape:connector-curvature="0" />
@@ -24895,20 +24895,20 @@
            width="38"
            id="rect9233"
            style="fill:url(#linearGradient9237);fill-opacity:1;stroke:#ababab;stroke-width:2.00321198;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder.png"
            inkscape:export-xdpi="90"
            inkscape:export-ydpi="90" />
       </g>
       <g
          transform="translate(-100,192)"
          id="g9215"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-downloads.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-downloads.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90">
         <path
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder.png"
            style="fill:#ededed;fill-opacity:1;stroke:#ababab;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
            d="m -486.95925,1737.0901 c -1.24951,0 -2.16663,1.1789 -2.0625,2.6562 l 0.0313,0.5312 -0.96875,0 c -1.24951,0 -2.16663,1.1791 -2.0625,2.6563 l 1.8125,25.5001 c 0.10413,1.4771 1.18799,2.6562 2.4375,2.6562 l 33.59375,0 c 1.24951,0 2.16663,-1.1791 2.0625,-2.6562 l -1.8125,-25.5001 c -0.10413,-1.4772 -1.18799,-2.6563 -2.4375,-2.6563 l -17.53125,0 -0.0313,-0.5312 c -0.10413,-1.4773 -1.18799,-2.6562 -2.4375,-2.6562 l -10.59375,0 z"
            id="path9217"
@@ -24924,7 +24924,7 @@
         <rect
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder.png"
            style="fill:url(#linearGradient9225);fill-opacity:1;stroke:#ababab;stroke-width:2.00321198;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
            id="rect9221"
            width="38"
@@ -24938,14 +24938,14 @@
       <g
          id="g9203"
          transform="translate(-50,192)"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/user-desktop.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/user-desktop.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90">
         <path
            id="path9205"
            d="m -486.95925,1737.0901 c -1.24951,0 -2.16663,1.1789 -2.0625,2.6562 l 0.0313,0.5312 -0.96875,0 c -1.24951,0 -2.16663,1.1791 -2.0625,2.6563 l 1.8125,25.5001 c 0.10413,1.4771 1.18799,2.6562 2.4375,2.6562 l 33.59375,0 c 1.24951,0 2.16663,-1.1791 2.0625,-2.6562 l -1.8125,-25.5001 c -0.10413,-1.4772 -1.18799,-2.6563 -2.4375,-2.6563 l -17.53125,0 -0.0313,-0.5312 c -0.10413,-1.4773 -1.18799,-2.6562 -2.4375,-2.6562 l -10.59375,0 z"
            style="fill:#ededed;fill-opacity:1;stroke:#ababab;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder.png"
            inkscape:export-xdpi="90"
            inkscape:export-ydpi="90"
            inkscape:connector-curvature="0" />
@@ -24967,7 +24967,7 @@
            width="38"
            id="rect9209"
            style="fill:url(#linearGradient9213);fill-opacity:1;stroke:#ababab;stroke-width:2.00321198;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder.png"
            inkscape:export-xdpi="90"
            inkscape:export-ydpi="90" />
       </g>
@@ -28583,7 +28583,7 @@
          y="1285.1107" />
       <g
          id="g24466"
-         inkscape:label="moblin-sync"
+         inkscape:label="netbook-sync"
          transform="translate(1173,240.09004)">
         <g
            style="stroke-linejoin:round"
@@ -33235,19 +33235,19 @@
          height="48"
          x="-595"
          y="1871.0901"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-music.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-music.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <g
          id="g9308"
          transform="translate(1,194)"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-music.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-music.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90">
         <rect
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-music.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-music.png"
            ry="1"
            rx="1"
            y="1699.0778"
@@ -33259,7 +33259,7 @@
         <rect
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-music.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-music.png"
            inkscape:transform-center-y="-704.53644"
            inkscape:transform-center-x="-15"
            transform="matrix(0,-1,1,0,0,0)"
@@ -33274,7 +33274,7 @@
         <rect
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-music.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-music.png"
            style="fill:#44c5e5;fill-opacity:1;stroke:none;display:inline"
            id="rect3694-1-5"
            width="12.178027"
@@ -33289,7 +33289,7 @@
         <path
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-music.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-music.png"
            transform="matrix(0.8081227,0,0,0.8081225,-630.35719,570.4679)"
            d="m 83.350212,1411.447 c 0,2.0503 -1.662058,3.7123 -3.712311,3.7123 -2.050252,0 -3.71231,-1.662 -3.71231,-3.7123 0,-2.0502 1.662058,-3.7123 3.71231,-3.7123 2.050253,0 3.712311,1.6621 3.712311,3.7123 z"
            sodipodi:ry="3.7123106"
@@ -33302,7 +33302,7 @@
         <path
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-music.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-music.png"
            sodipodi:type="arc"
            style="fill:none;stroke:#44c5e5;stroke-width:2.47487187;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:100"
            id="path9477"
@@ -33320,7 +33320,7 @@
          width="48"
          id="rect9479"
          style="opacity:0;fill:#eeeeec;fill-opacity:1;stroke:none"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-pictures.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-pictures.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <rect
@@ -33330,7 +33330,7 @@
          height="48"
          x="-495"
          y="1871.0901"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-videos.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-videos.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <rect
@@ -33340,7 +33340,7 @@
          width="48"
          id="rect9527"
          style="opacity:0;fill:#eeeeec;fill-opacity:1;stroke:none"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-downloads.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-downloads.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <rect
@@ -33350,19 +33350,19 @@
          height="48"
          x="-545"
          y="1921.0901"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/user-desktop.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/user-desktop.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <g
          id="g9298"
          transform="translate(0,193)"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-pictures.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-pictures.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90">
         <rect
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-pictures.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-pictures.png"
            transform="matrix(0,1,1,0,0,0)"
            style="fill:#44c5e5;fill-opacity:1;stroke:none;display:inline"
            id="rect2865-6-9"
@@ -33375,7 +33375,7 @@
         <rect
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-pictures.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-pictures.png"
            ry="1"
            rx="1.0625001"
            y="-513"
@@ -33388,7 +33388,7 @@
         <rect
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-pictures.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-pictures.png"
            ry="1"
            rx="1.0624985"
            y="1698.0901"
@@ -33401,7 +33401,7 @@
         <rect
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-pictures.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-pictures.png"
            transform="scale(-1,1)"
            style="fill:#44c5e5;fill-opacity:1;stroke:none;display:inline"
            id="rect3638-5-5"
@@ -33414,7 +33414,7 @@
         <rect
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-pictures.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-pictures.png"
            transform="scale(-1,1)"
            style="fill:#44c5e5;fill-opacity:1;stroke:none;display:inline"
            id="rect7755-47-4"
@@ -33427,7 +33427,7 @@
         <rect
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-pictures.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-pictures.png"
            ry="0"
            rx="0"
            y="1708.0903"
@@ -33440,7 +33440,7 @@
         <rect
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-pictures.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-pictures.png"
            transform="matrix(0,1,1,0,0,0)"
            style="fill:#44c5e5;fill-opacity:1;stroke:none;display:inline"
            id="rect7759-9-9"
@@ -33453,7 +33453,7 @@
         <rect
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-pictures.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-pictures.png"
            ry="0"
            rx="0"
            y="-525"
@@ -33467,13 +33467,13 @@
       <g
          id="g9280"
          transform="translate(0,193)"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-videos.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-videos.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90">
         <rect
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-videos.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-videos.png"
            inkscape:transform-center-y="-637.84447"
            inkscape:transform-center-x="-2.0185665"
            transform="matrix(0,-1,1,0,0,0)"
@@ -33488,7 +33488,7 @@
         <rect
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-videos.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-videos.png"
            style="fill:#44c5e5;fill-opacity:1;stroke:none;display:inline"
            id="rect2929-6"
            width="7.0095944"
@@ -33503,7 +33503,7 @@
         <rect
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-videos.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-videos.png"
            inkscape:transform-center-y="-638.43183"
            inkscape:transform-center-x="-13.002209"
            transform="matrix(0,-1,1,0,0,0)"
@@ -33518,7 +33518,7 @@
         <rect
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-videos.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-videos.png"
            inkscape:transform-center-y="-690.72641"
            inkscape:transform-center-x="-10.008936"
            transform="matrix(0,-1,1,0,0,0)"
@@ -33533,7 +33533,7 @@
         <rect
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-videos.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-videos.png"
            inkscape:transform-center-y="-589.09253"
            inkscape:transform-center-x="-7.5011899"
            ry="0"
@@ -33547,7 +33547,7 @@
         <rect
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-videos.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-videos.png"
            style="fill:#44c5e5;fill-opacity:1;stroke:none;display:inline"
            id="rect2938-2"
            width="9"
@@ -33561,7 +33561,7 @@
         <rect
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-videos.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-videos.png"
            style="fill:#44c5e5;fill-opacity:1;stroke:none;display:inline"
            id="rect2940-9"
            width="8.9818897"
@@ -33575,7 +33575,7 @@
         <rect
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-videos.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-videos.png"
            transform="scale(-1,-1)"
            inkscape:transform-center-y="-582.11574"
            inkscape:transform-center-x="-9.6108703"
@@ -33590,7 +33590,7 @@
         <path
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-videos.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-videos.png"
            sodipodi:open="true"
            sodipodi:end="3.1415927"
            sodipodi:start="2.3561945"
@@ -33606,7 +33606,7 @@
         <path
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-videos.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-videos.png"
            transform="matrix(0.1087857,0,0,-0.1087857,-457.68498,1720.3818)"
            d="m -42.059397,195.68886 c -4.309768,-4.30977 -6.73097,-10.15507 -6.73097,-16.25"
            sodipodi:ry="22.98097"
@@ -33622,7 +33622,7 @@
         <path
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-videos.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-videos.png"
            transform="matrix(0.1087857,0,0,-0.1087857,-467.68498,1720.3818)"
            d="m -42.059397,195.68886 c -4.309768,-4.30977 -6.73097,-10.15507 -6.73097,-16.25"
            sodipodi:ry="22.98097"
@@ -33638,7 +33638,7 @@
         <path
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-videos.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-videos.png"
            sodipodi:open="true"
            sodipodi:end="3.1415927"
            sodipodi:start="2.3561945"
@@ -33654,7 +33654,7 @@
         <path
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-videos.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-videos.png"
            transform="matrix(-0.1087857,0,0,0.1087857,-468.30038,1692.8055)"
            d="m -42.059397,195.68886 c -4.309768,-4.30977 -6.73097,-10.15507 -6.73097,-16.25"
            sodipodi:ry="22.98097"
@@ -33670,7 +33670,7 @@
         <path
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-videos.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-videos.png"
            sodipodi:open="true"
            sodipodi:end="3.1415927"
            sodipodi:start="2.3561945"
@@ -33686,7 +33686,7 @@
         <path
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-videos.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-videos.png"
            sodipodi:open="true"
            sodipodi:end="3.1415927"
            sodipodi:start="2.3561945"
@@ -33702,7 +33702,7 @@
         <path
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-videos.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-videos.png"
            transform="matrix(-0.1087857,0,0,0.1087857,-478.30038,1692.8055)"
            d="m -42.059397,195.68886 c -4.309768,-4.30977 -6.73097,-10.15507 -6.73097,-16.25"
            sodipodi:ry="22.98097"
@@ -33725,7 +33725,7 @@
          y="1941.063"
          rx="1.1167313"
          ry="0.98780483"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/user-desktop.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/user-desktop.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <rect
@@ -33740,7 +33740,7 @@
          transform="matrix(0,-1,1,0,0,0)"
          inkscape:transform-center-x="-14.009045"
          inkscape:transform-center-y="-642.8613"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/user-desktop.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/user-desktop.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <rect
@@ -33755,7 +33755,7 @@
          width="17.008106"
          id="rect3694-9-7"
          style="fill:#44c5e5;fill-opacity:1;stroke:none;display:inline"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/user-desktop.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/user-desktop.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <rect
@@ -33767,7 +33767,7 @@
          width="14.000024"
          id="rect2905-7-8"
          style="fill:#44c5e5;fill-opacity:1;stroke:none;display:inline"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/user-desktop.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/user-desktop.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <path
@@ -33775,7 +33775,7 @@
          d="m -517.2593,1941.3523 5.0075,5.026 c 0.38689,0.387 0.38689,1.0101 0,1.397 -0.387,0.387 -1.01,0.387 -1.397,0 l -5.00749,-5.026 c -0.3869,-0.387 -0.3869,-1.01 0,-1.397 0.387,-0.3869 1.00999,-0.3869 1.39699,0 z"
          id="rect2836-40-9"
          sodipodi:nodetypes="ccsccsc"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/user-desktop.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/user-desktop.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"
          inkscape:connector-curvature="0" />
@@ -33784,7 +33784,7 @@
          d="m -570.00527,1952.0953 0,-9.9854"
          style="fill:none;stroke:#47c6e5;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
          sodipodi:nodetypes="cc"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-downloads.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-downloads.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"
          inkscape:connector-curvature="0" />
@@ -33793,7 +33793,7 @@
          d="M -570.00527,1952.0953 -566,1948.09"
          style="fill:none;stroke:#47c6e5;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
          sodipodi:nodetypes="cc"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-downloads.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-downloads.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"
          inkscape:connector-curvature="0" />
@@ -33802,7 +33802,7 @@
          style="fill:none;stroke:#47c6e5;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
          d="m -570,1952.0953 -4.00527,-4.0053"
          id="path10861-6"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-downloads.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-downloads.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"
          inkscape:connector-curvature="0" />
@@ -33811,7 +33811,7 @@
          d="m -570.00527,1957.0953 0,0.015"
          id="path9629"
          sodipodi:nodetypes="cc"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-downloads.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-downloads.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"
          inkscape:connector-curvature="0" />
@@ -33820,7 +33820,7 @@
          id="path9632"
          d="m -574.00527,1957.0953 0,0.015"
          style="fill:none;stroke:#47c6e5;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-downloads.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-downloads.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"
          inkscape:connector-curvature="0" />
@@ -33829,7 +33829,7 @@
          d="m -566.00527,1957.0953 0,0.015"
          id="path9634"
          sodipodi:nodetypes="cc"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-downloads.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-downloads.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"
          inkscape:connector-curvature="0" />
@@ -33840,27 +33840,27 @@
          width="48"
          id="rect9638"
          style="opacity:0;fill:#eeeeec;fill-opacity:1;stroke:none"
-         inkscape:export-filename="/home/hbons/github/meego-icon-theme/moblin/48x48/icons/folder.png"
+         inkscape:export-filename="/home/hbons/github/handset-icon-theme/moblin/48x48/icons/folder.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <path
          style="fill:#ededed;fill-opacity:1;stroke:#ababab;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1"
          d="m -486.4375,1930.5954 c -1.24951,0 -2.16663,1.1096 -2.0625,2.5 l 0.0313,0.5 -0.96875,0 c -1.24951,0 -2.16663,1.1097 -2.0625,2.5 l 1.8125,24 c 0.10413,1.3903 1.18799,2.5 2.4375,2.5 l 33.59375,0 c 1.24951,0 2.16663,-1.1097 2.0625,-2.5 l -1.8125,-24 c -0.10413,-1.3903 -1.18799,-2.5 -2.4375,-2.5 l -17.53125,0 -0.0313,-0.5 c -0.10413,-1.3904 -1.18799,-2.5 -2.4375,-2.5 l -10.59375,0 z"
          id="path9641"
-         inkscape:export-filename="/home/hbons/github/meego-icon-theme/moblin/48x48/icons/folder.png"
+         inkscape:export-filename="/home/hbons/github/handset-icon-theme/moblin/48x48/icons/folder.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"
          inkscape:connector-curvature="0" />
       <g
          id="g9198"
-         inkscape:export-filename="/home/hbons/github/meego-icon-theme/moblin/48x48/icons/folder.png"
+         inkscape:export-filename="/home/hbons/github/handset-icon-theme/moblin/48x48/icons/folder.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"
          transform="translate(0,192)">
         <path
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder.png"
            style="fill:#ededed;fill-opacity:1;stroke:#ababab;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
            d="m -486.95925,1737.0901 c -1.24951,0 -2.16663,1.1789 -2.0625,2.6562 l 0.0313,0.5312 -0.96875,0 c -1.24951,0 -2.16663,1.1791 -2.0625,2.6563 l 1.8125,25.5001 c 0.10413,1.4771 1.18799,2.6562 2.4375,2.6562 l 33.59375,0 c 1.24951,0 2.16663,-1.1791 2.0625,-2.6562 l -1.8125,-25.5001 c -0.10413,-1.4772 -1.18799,-2.6563 -2.4375,-2.6563 l -17.53125,0 -0.0313,-0.5312 c -0.10413,-1.4773 -1.18799,-2.6562 -2.4375,-2.6562 l -10.59375,0 z"
            id="path9643"
@@ -33876,7 +33876,7 @@
         <rect
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder.png"
            style="fill:url(#linearGradient9661);fill-opacity:1;stroke:#ababab;stroke-width:2.00321198;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
            id="rect9647"
            width="38"
@@ -33890,7 +33890,7 @@
       <rect
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/hbons/github/meego-icon-theme/moblin/48x48/icons/folder-drag-accept.png"
+         inkscape:export-filename="/home/hbons/github/handset-icon-theme/moblin/48x48/icons/folder-drag-accept.png"
          style="opacity:0;fill:#eeeeec;fill-opacity:1;stroke:none"
          id="rect9663"
          width="48"
@@ -33904,7 +33904,7 @@
          width="48"
          id="rect9329"
          style="opacity:0;fill:#eeeeec;fill-opacity:1;stroke:none"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/audio-x-generic.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/audio-x-generic.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <path
@@ -33912,7 +33912,7 @@
          d="m -534.7019,1976.0902 18.75735,0 c 0,0 10.94455,10.8562 10.94455,10.8562 l 0,24.8457 c 0,1.2731 -1.02495,2.2981 -2.2981,2.2981 l -27.4038,0 c -1.27315,0 -2.2981,-1.025 -2.2981,-2.2981 l 0,-33.4038 c 0,-1.2731 1.02495,-2.2981 2.2981,-2.2981 z"
          id="rect9331"
          sodipodi:nodetypes="ccccccccc"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/audio-x-generic.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/audio-x-generic.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"
          inkscape:connector-curvature="0" />
@@ -33923,7 +33923,7 @@
          style="fill:none;stroke:url(#linearGradient9344);stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:100"
          id="path9336"
          d="m -534.6875,1786.0625 c -0.23138,0 -0.34375,0.1135 -0.34375,0.3125 l 0,33.4062 c 0,0.199 0.14482,0.3438 0.34375,0.3438 l 27.375,0 c 0.19903,0 0.34375,-0.1446 0.34375,-0.3438 l 0,-23.8437 c 0,-0.8043 -0.28424,-1.2965 -1.03125,-2.1563 -0.74701,-0.8597 -1.92571,-1.9118 -3.09375,-3.375 -1.99074,-2.4937 -4.04493,-4.3437 -5.84375,-4.3437 l -17.75,0 z"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/audio-x-generic.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/audio-x-generic.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"
          transform="translate(0,192)" />
@@ -33931,13 +33931,13 @@
          style="display:inline"
          id="g9308-8"
          transform="translate(48.999989,290)"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/audio-x-generic.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/audio-x-generic.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90">
         <rect
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-music.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-music.png"
            ry="1"
            rx="1"
            y="1699.0778"
@@ -33949,7 +33949,7 @@
         <rect
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-music.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-music.png"
            inkscape:transform-center-y="-704.53644"
            inkscape:transform-center-x="-15"
            transform="matrix(0,-1,1,0,0,0)"
@@ -33964,7 +33964,7 @@
         <rect
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-music.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-music.png"
            style="fill:#44c5e5;fill-opacity:1;stroke:none;display:inline"
            id="rect3694-1-5-1"
            width="12.178027"
@@ -33979,7 +33979,7 @@
         <path
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-music.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-music.png"
            transform="matrix(0.8081227,0,0,0.8081225,-630.35719,570.4679)"
            d="m 83.350212,1411.447 c 0,2.0503 -1.662058,3.7123 -3.712311,3.7123 -2.050252,0 -3.71231,-1.662 -3.71231,-3.7123 0,-2.0502 1.662058,-3.7123 3.71231,-3.7123 2.050253,0 3.712311,1.6621 3.712311,3.7123 z"
            sodipodi:ry="3.7123106"
@@ -33992,7 +33992,7 @@
         <path
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-music.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-music.png"
            sodipodi:type="arc"
            style="fill:none;stroke:#44c5e5;stroke-width:2.47487187;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:100"
            id="path9477-9"
@@ -34006,7 +34006,7 @@
       <rect
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/video-x-generic.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/video-x-generic.png"
          style="opacity:0;fill:#eeeeec;fill-opacity:1;stroke:none"
          id="rect9392"
          width="48"
@@ -34018,7 +34018,7 @@
          id="path9394"
          d="m -585.7019,1976.0902 19.75735,0 c 0,0 10.94455,10.8562 10.94455,10.8562 l 0,24.8457 c 0,1.2731 -1.02495,2.2981 -2.2981,2.2981 l -27.4038,0 c -1.27315,0 -2.2981,-1.025 -2.2981,-2.2981 l 0,-33.4038 c 0,-1.2731 0.0249,-2.2981 1.2981,-2.2981 z"
          style="fill:url(#linearGradient9412);fill-opacity:1;stroke:#ababab;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:100"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/video-x-generic.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/video-x-generic.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"
          inkscape:connector-curvature="0" />
@@ -34030,20 +34030,20 @@
          inkscape:radius="-1.973515"
          sodipodi:type="inkscape:offset"
          transform="translate(-50,192)"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/video-x-generic.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/video-x-generic.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <g
          style="display:inline"
          id="g9280-4"
          transform="translate(-101.71258,290.99639)"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/video-x-generic.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/video-x-generic.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90">
         <rect
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-videos.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-videos.png"
            inkscape:transform-center-y="-637.84447"
            inkscape:transform-center-x="-2.0185665"
            transform="matrix(0,-1,1,0,0,0)"
@@ -34058,7 +34058,7 @@
         <rect
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-videos.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-videos.png"
            style="fill:#44c5e5;fill-opacity:1;stroke:none;display:inline"
            id="rect2929-6-8"
            width="7.0095944"
@@ -34073,7 +34073,7 @@
         <rect
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-videos.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-videos.png"
            inkscape:transform-center-y="-638.43183"
            inkscape:transform-center-x="-13.002209"
            transform="matrix(0,-1,1,0,0,0)"
@@ -34088,7 +34088,7 @@
         <rect
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-videos.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-videos.png"
            inkscape:transform-center-y="-690.72641"
            inkscape:transform-center-x="-10.008936"
            transform="matrix(0,-1,1,0,0,0)"
@@ -34103,7 +34103,7 @@
         <rect
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-videos.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-videos.png"
            inkscape:transform-center-y="-589.09253"
            inkscape:transform-center-x="-7.5011899"
            ry="0"
@@ -34117,7 +34117,7 @@
         <rect
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-videos.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-videos.png"
            style="fill:#44c5e5;fill-opacity:1;stroke:none;display:inline"
            id="rect2938-2-0"
            width="9"
@@ -34131,7 +34131,7 @@
         <rect
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-videos.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-videos.png"
            style="fill:#44c5e5;fill-opacity:1;stroke:none;display:inline"
            id="rect2940-9-1"
            width="8.9818897"
@@ -34145,7 +34145,7 @@
         <rect
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-videos.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-videos.png"
            transform="scale(-1,-1)"
            inkscape:transform-center-y="-582.11574"
            inkscape:transform-center-x="-9.6108703"
@@ -34160,7 +34160,7 @@
         <path
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-videos.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-videos.png"
            sodipodi:open="true"
            sodipodi:end="3.1415927"
            sodipodi:start="2.3561945"
@@ -34176,7 +34176,7 @@
         <path
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-videos.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-videos.png"
            transform="matrix(0.1087857,0,0,-0.1087857,-457.68498,1720.3818)"
            d="m -42.059397,195.68886 c -4.309768,-4.30977 -6.73097,-10.15507 -6.73097,-16.25"
            sodipodi:ry="22.98097"
@@ -34192,7 +34192,7 @@
         <path
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-videos.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-videos.png"
            transform="matrix(0.1087857,0,0,-0.1087857,-467.68498,1720.3818)"
            d="m -42.059397,195.68886 c -4.309768,-4.30977 -6.73097,-10.15507 -6.73097,-16.25"
            sodipodi:ry="22.98097"
@@ -34208,7 +34208,7 @@
         <path
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-videos.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-videos.png"
            sodipodi:open="true"
            sodipodi:end="3.1415927"
            sodipodi:start="2.3561945"
@@ -34224,7 +34224,7 @@
         <path
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-videos.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-videos.png"
            transform="matrix(-0.1087857,0,0,0.1087857,-468.30038,1692.8055)"
            d="m -42.059397,195.68886 c -4.309768,-4.30977 -6.73097,-10.15507 -6.73097,-16.25"
            sodipodi:ry="22.98097"
@@ -34240,7 +34240,7 @@
         <path
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-videos.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-videos.png"
            sodipodi:open="true"
            sodipodi:end="3.1415927"
            sodipodi:start="2.3561945"
@@ -34256,7 +34256,7 @@
         <path
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-videos.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-videos.png"
            sodipodi:open="true"
            sodipodi:end="3.1415927"
            sodipodi:start="2.3561945"
@@ -34272,7 +34272,7 @@
         <path
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-videos.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-videos.png"
            transform="matrix(-0.1087857,0,0,0.1087857,-478.30038,1692.8055)"
            d="m -42.059397,195.68886 c -4.309768,-4.30977 -6.73097,-10.15507 -6.73097,-16.25"
            sodipodi:ry="22.98097"
@@ -34289,7 +34289,7 @@
       <rect
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/hbons/github/meego-icon-theme/moblin/48x48/icons/image-x-generic.png"
+         inkscape:export-filename="/home/hbons/github/handset-icon-theme/moblin/48x48/icons/image-x-generic.png"
          style="opacity:0;fill:#eeeeec;fill-opacity:1;stroke:none"
          id="rect9556"
          width="48"
@@ -34301,7 +34301,7 @@
          id="path9558"
          d="m -534.7019,2026.0902 18.75735,0 c 0,0 10.94455,10.8562 10.94455,10.8562 l 0,24.8457 c 0,1.2731 -1.02495,2.2981 -2.2981,2.2981 l -27.4038,0 c -1.27315,0 -2.2981,-1.025 -2.2981,-2.2981 l 0,-33.4038 c 0,-1.2731 1.02495,-2.2981 2.2981,-2.2981 l 0,0 z"
          style="fill:url(#linearGradient9615);fill-opacity:1;stroke:#ababab;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:100"
-         inkscape:export-filename="/home/hbons/github/meego-icon-theme/moblin/48x48/icons/image-x-generic.png"
+         inkscape:export-filename="/home/hbons/github/handset-icon-theme/moblin/48x48/icons/image-x-generic.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"
          inkscape:connector-curvature="0" />
@@ -34313,7 +34313,7 @@
          inkscape:radius="-1.973515"
          sodipodi:type="inkscape:offset"
          transform="translate(0,242)"
-         inkscape:export-filename="/home/hbons/github/meego-icon-theme/moblin/48x48/icons/image-x-generic.png"
+         inkscape:export-filename="/home/hbons/github/handset-icon-theme/moblin/48x48/icons/image-x-generic.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <rect
@@ -34323,7 +34323,7 @@
          width="48"
          id="rect9574"
          style="opacity:0;fill:#eeeeec;fill-opacity:1;stroke:none"
-         inkscape:export-filename="/home/hbons/github/meego-icon-theme/moblin/48x48/icons/text-x-script.png"
+         inkscape:export-filename="/home/hbons/github/handset-icon-theme/moblin/48x48/icons/text-x-script.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <path
@@ -34331,7 +34331,7 @@
          d="m -584.7019,2026.0902 18.75735,0 c 0,0 10.94455,10.8562 10.94455,10.8562 l 0,24.8457 c 0,1.2731 -1.02495,2.2981 -2.2981,2.2981 l -27.4038,0 c -1.27315,0 -2.2981,-1.025 -2.2981,-2.2981 l 0,-33.4038 c 0,-1.2731 1.02495,-2.2981 2.2981,-2.2981 l 0,0 z"
          id="path9576"
          sodipodi:nodetypes="ccccccccc"
-         inkscape:export-filename="/home/hbons/github/meego-icon-theme/moblin/48x48/icons/text-x-script.png"
+         inkscape:export-filename="/home/hbons/github/handset-icon-theme/moblin/48x48/icons/text-x-script.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"
          inkscape:connector-curvature="0" />
@@ -34343,12 +34343,12 @@
          style="fill:none;stroke:url(#linearGradient9621);stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:100"
          id="path9579"
          d="m -534.6875,1786.0625 c -0.23138,0 -0.34375,0.1135 -0.34375,0.3125 l 0,33.4062 c 0,0.199 0.14482,0.3438 0.34375,0.3438 l 27.375,0 c 0.19903,0 0.34375,-0.1446 0.34375,-0.3438 l 0,-23.8437 c 0,-0.8043 -0.28424,-1.2965 -1.03125,-2.1563 -0.74701,-0.8597 -1.92571,-1.9118 -3.09375,-3.375 -1.99074,-2.4937 -4.04493,-4.3437 -5.84375,-4.3437 l -17.75,0 z"
-         inkscape:export-filename="/home/hbons/github/meego-icon-theme/moblin/48x48/icons/text-x-script.png"
+         inkscape:export-filename="/home/hbons/github/handset-icon-theme/moblin/48x48/icons/text-x-script.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <g
          id="g9710"
-         inkscape:export-filename="/home/hbons/github/meego-icon-theme/moblin/48x48/icons/image-x-generic.png"
+         inkscape:export-filename="/home/hbons/github/handset-icon-theme/moblin/48x48/icons/image-x-generic.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"
          transform="translate(0,192)">
@@ -34362,7 +34362,7 @@
            id="rect9625"
            style="fill:#44c5e5;fill-opacity:1;stroke:none;display:inline"
            transform="matrix(0,1,1,0,0,0)"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-pictures.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-pictures.png"
            inkscape:export-xdpi="90"
            inkscape:export-ydpi="90" />
         <rect
@@ -34375,7 +34375,7 @@
            y="-514"
            rx="1.0625001"
            ry="1"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-pictures.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-pictures.png"
            inkscape:export-xdpi="90"
            inkscape:export-ydpi="90" />
         <rect
@@ -34388,7 +34388,7 @@
            y="1846.0901"
            rx="1.0624985"
            ry="1"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-pictures.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-pictures.png"
            inkscape:export-xdpi="90"
            inkscape:export-ydpi="90" />
         <rect
@@ -34401,7 +34401,7 @@
            id="rect9631"
            style="fill:#44c5e5;fill-opacity:1;stroke:none;display:inline"
            transform="scale(-1,1)"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-pictures.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-pictures.png"
            inkscape:export-xdpi="90"
            inkscape:export-ydpi="90" />
         <rect
@@ -34414,7 +34414,7 @@
            id="rect9633"
            style="fill:#44c5e5;fill-opacity:1;stroke:none;display:inline"
            transform="scale(-1,1)"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-pictures.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-pictures.png"
            inkscape:export-xdpi="90"
            inkscape:export-ydpi="90" />
         <rect
@@ -34427,7 +34427,7 @@
            y="1856.0903"
            rx="0"
            ry="0"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-pictures.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-pictures.png"
            inkscape:export-xdpi="90"
            inkscape:export-ydpi="90" />
         <rect
@@ -34440,7 +34440,7 @@
            id="rect9637"
            style="fill:#44c5e5;fill-opacity:1;stroke:none;display:inline"
            transform="matrix(0,1,1,0,0,0)"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-pictures.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-pictures.png"
            inkscape:export-xdpi="90"
            inkscape:export-ydpi="90" />
         <rect
@@ -34453,7 +34453,7 @@
            y="-526"
            rx="0"
            ry="0"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder-pictures.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder-pictures.png"
            inkscape:export-xdpi="90"
            inkscape:export-ydpi="90" />
       </g>
@@ -34467,13 +34467,13 @@
          id="rect9687"
          style="fill:#44c5e5;fill-opacity:1;stroke:none;display:inline"
          transform="scale(-1,1)"
-         inkscape:export-filename="/home/hbons/github/meego-icon-theme/moblin/48x48/icons/text-x-script.png"
+         inkscape:export-filename="/home/hbons/github/handset-icon-theme/moblin/48x48/icons/text-x-script.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <rect
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/hbons/github/meego-icon-theme/moblin/48x48/icons/text-x-script.png"
+         inkscape:export-filename="/home/hbons/github/handset-icon-theme/moblin/48x48/icons/text-x-script.png"
          transform="scale(-1,1)"
          style="fill:#44c5e5;fill-opacity:1;stroke:none;display:inline"
          id="rect9689"
@@ -34493,13 +34493,13 @@
          id="rect9691"
          style="fill:#44c5e5;fill-opacity:1;stroke:none;display:inline"
          transform="scale(-1,1)"
-         inkscape:export-filename="/home/hbons/github/meego-icon-theme/moblin/48x48/icons/text-x-script.png"
+         inkscape:export-filename="/home/hbons/github/handset-icon-theme/moblin/48x48/icons/text-x-script.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <rect
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/hbons/github/meego-icon-theme/moblin/48x48/icons/text-x-script.png"
+         inkscape:export-filename="/home/hbons/github/handset-icon-theme/moblin/48x48/icons/text-x-script.png"
          transform="scale(-1,1)"
          style="fill:#44c5e5;fill-opacity:1;stroke:none;display:inline"
          id="rect9693"
@@ -34519,13 +34519,13 @@
          id="rect9720"
          style="fill:#44c5e5;fill-opacity:1;stroke:none;display:inline"
          transform="scale(-1,1)"
-         inkscape:export-filename="/home/hbons/github/meego-icon-theme/moblin/48x48/icons/text-x-script.png"
+         inkscape:export-filename="/home/hbons/github/handset-icon-theme/moblin/48x48/icons/text-x-script.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <rect
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/text-x-generic-template.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/text-x-generic-template.png"
          style="opacity:0;fill:#eeeeec;fill-opacity:1;stroke:none"
          id="rect9722"
          width="48"
@@ -34537,7 +34537,7 @@
          id="path9724"
          d="m -484.7019,2026.0902 18.75735,0 c 0,0 10.94455,10.8562 10.94455,10.8562 l 0,24.8457 c 0,1.2731 -1.02495,2.2981 -2.2981,2.2981 l -27.4038,0 c -1.27315,0 -2.2981,-1.025 -2.2981,-2.2981 l 0,-33.4038 c 0,-1.2731 1.02495,-2.2981 2.2981,-2.2981 l 0,0 z"
          style="fill:url(#linearGradient9738);fill-opacity:1;stroke:#ababab;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:100"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/text-x-generic-template.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/text-x-generic-template.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"
          inkscape:connector-curvature="0" />
@@ -34549,7 +34549,7 @@
          inkscape:radius="-1.973515"
          sodipodi:type="inkscape:offset"
          transform="translate(50,242)"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/text-x-generic-template.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/text-x-generic-template.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <rect
@@ -34559,13 +34559,13 @@
          width="48"
          id="rect9899"
          style="opacity:0;fill:#eeeeec;fill-opacity:1;stroke:none"
-         inkscape:export-filename="/home/hbons/github/meego-icon-theme/moblin/48x48/icons/x-office-presentation.png"
+         inkscape:export-filename="/home/hbons/github/handset-icon-theme/moblin/48x48/icons/x-office-presentation.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <path
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/hbons/github/meego-icon-theme/moblin/48x48/icons/x-office-presentation.png"
+         inkscape:export-filename="/home/hbons/github/handset-icon-theme/moblin/48x48/icons/x-office-presentation.png"
          style="fill:url(#linearGradient9946);fill-opacity:1;stroke:#ababab;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:100"
          d="m -534.7019,2076.0902 18.75735,0 c 0,0 10.94455,10.8562 10.94455,10.8562 l 0,24.8457 c 0,1.2731 -1.02495,2.2981 -2.2981,2.2981 l -27.4038,0 c -1.27315,0 -2.2981,-1.025 -2.2981,-2.2981 l 0,-33.4038 c 0,-1.2731 1.02495,-2.2981 2.2981,-2.2981 z"
          id="path9901"
@@ -34574,7 +34574,7 @@
       <path
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/hbons/github/meego-icon-theme/moblin/48x48/icons/x-office-presentation.png"
+         inkscape:export-filename="/home/hbons/github/handset-icon-theme/moblin/48x48/icons/x-office-presentation.png"
          transform="translate(0,292)"
          sodipodi:type="inkscape:offset"
          inkscape:radius="-1.973515"
@@ -34585,7 +34585,7 @@
       <rect
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/hbons/github/meego-icon-theme/moblin/48x48/icons/x-office-spreadsheet.png"
+         inkscape:export-filename="/home/hbons/github/handset-icon-theme/moblin/48x48/icons/x-office-spreadsheet.png"
          style="opacity:0;fill:#eeeeec;fill-opacity:1;stroke:none"
          id="rect9905"
          width="48"
@@ -34595,7 +34595,7 @@
       <path
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/hbons/github/meego-icon-theme/moblin/48x48/icons/x-office-spreadsheet.png"
+         inkscape:export-filename="/home/hbons/github/handset-icon-theme/moblin/48x48/icons/x-office-spreadsheet.png"
          sodipodi:nodetypes="ccccccccc"
          id="path9908"
          d="m -584.7019,2076.0902 18.75735,0 c 0,0 10.94455,10.8562 10.94455,10.8562 l 0,24.8457 c 0,1.2731 -1.02495,2.2981 -2.2981,2.2981 l -27.4038,0 c -1.27315,0 -2.2981,-1.025 -2.2981,-2.2981 l 0,-33.4038 c 0,-1.2731 1.02495,-2.2981 2.2981,-2.2981 z"
@@ -34604,7 +34604,7 @@
       <path
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/hbons/github/meego-icon-theme/moblin/48x48/icons/x-office-spreadsheet.png"
+         inkscape:export-filename="/home/hbons/github/handset-icon-theme/moblin/48x48/icons/x-office-spreadsheet.png"
          d="m -534.6875,1786.0625 c -0.23138,0 -0.34375,0.1135 -0.34375,0.3125 l 0,33.4062 c 0,0.199 0.14482,0.3438 0.34375,0.3438 l 27.375,0 c 0.19903,0 0.34375,-0.1446 0.34375,-0.3438 l 0,-23.8437 c 0,-0.8043 -0.28424,-1.2965 -1.03125,-2.1563 -0.74701,-0.8597 -1.92571,-1.9118 -3.09375,-3.375 -1.99074,-2.4937 -4.04493,-4.3437 -5.84375,-4.3437 l -17.75,0 z"
          id="path9910"
          style="fill:none;stroke:url(#linearGradient9952);stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:100"
@@ -34619,13 +34619,13 @@
          width="48"
          id="rect9940"
          style="opacity:0;fill:#eeeeec;fill-opacity:1;stroke:none"
-         inkscape:export-filename="/home/hbons/github/meego-icon-theme/moblin/48x48/icons/text-x-script.png"
+         inkscape:export-filename="/home/hbons/github/handset-icon-theme/moblin/48x48/icons/text-x-script.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <path
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/hbons/github/meego-icon-theme/moblin/48x48/icons/text-x-script.png"
+         inkscape:export-filename="/home/hbons/github/handset-icon-theme/moblin/48x48/icons/text-x-script.png"
          style="fill:url(#linearGradient9954);fill-opacity:1;stroke:#ababab;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:100"
          d="m -484.7019,2076.0902 18.75735,0 c 0,0 10.94455,10.8562 10.94455,10.8562 l 0,24.8457 c 0,1.2731 -1.02495,2.2981 -2.2981,2.2981 l -27.4038,0 c -1.27315,0 -2.2981,-1.025 -2.2981,-2.2981 l 0,-33.4038 c 0,-1.2731 1.02495,-2.2981 2.2981,-2.2981 l 0,0 z"
          id="path9942"
@@ -34634,7 +34634,7 @@
       <path
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/hbons/github/meego-icon-theme/moblin/48x48/icons/text-x-script.png"
+         inkscape:export-filename="/home/hbons/github/handset-icon-theme/moblin/48x48/icons/text-x-script.png"
          transform="translate(50,292)"
          sodipodi:type="inkscape:offset"
          inkscape:radius="-1.973515"
@@ -34647,7 +34647,7 @@
          d="m -565.0116,2100.09 0,5.9884"
          style="opacity:0.98999999;fill:none;stroke:#44c5e5;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
          sodipodi:nodetypes="cc"
-         inkscape:export-filename="/home/hbons/github/meego-icon-theme/moblin/48x48/icons/x-office-spreadsheet.png"
+         inkscape:export-filename="/home/hbons/github/handset-icon-theme/moblin/48x48/icons/x-office-spreadsheet.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"
          inkscape:connector-curvature="0" />
@@ -34656,7 +34656,7 @@
          d="m -562.0116,2106.09 -17.9884,0"
          id="path32864-7-3"
          sodipodi:nodetypes="cc"
-         inkscape:export-filename="/home/hbons/github/meego-icon-theme/moblin/48x48/icons/x-office-spreadsheet.png"
+         inkscape:export-filename="/home/hbons/github/handset-icon-theme/moblin/48x48/icons/x-office-spreadsheet.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"
          inkscape:connector-curvature="0" />
@@ -34665,7 +34665,7 @@
          style="opacity:0.98999999;fill:none;stroke:#44c5e5;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
          d="m -569.0116,2098.09 0,7.9884"
          id="path32895-3-2"
-         inkscape:export-filename="/home/hbons/github/meego-icon-theme/moblin/48x48/icons/x-office-spreadsheet.png"
+         inkscape:export-filename="/home/hbons/github/handset-icon-theme/moblin/48x48/icons/x-office-spreadsheet.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"
          inkscape:connector-curvature="0" />
@@ -34674,7 +34674,7 @@
          id="path32897-0-7"
          d="m -569,2100.09 3.9884,0"
          style="opacity:0.98999999;fill:none;stroke:#44c5e5;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-         inkscape:export-filename="/home/hbons/github/meego-icon-theme/moblin/48x48/icons/x-office-spreadsheet.png"
+         inkscape:export-filename="/home/hbons/github/handset-icon-theme/moblin/48x48/icons/x-office-spreadsheet.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"
          inkscape:connector-curvature="0" />
@@ -34683,7 +34683,7 @@
          style="opacity:0.98999999;fill:none;stroke:#44c5e5;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
          d="m -569.0116,2092.09 0,5.9884"
          id="path32899-6-3"
-         inkscape:export-filename="/home/hbons/github/meego-icon-theme/moblin/48x48/icons/x-office-spreadsheet.png"
+         inkscape:export-filename="/home/hbons/github/handset-icon-theme/moblin/48x48/icons/x-office-spreadsheet.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"
          inkscape:connector-curvature="0" />
@@ -34692,7 +34692,7 @@
          d="m -573.0116,2092.09 0,13.9884"
          style="opacity:0.98999999;fill:none;stroke:#44c5e5;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
          sodipodi:nodetypes="cc"
-         inkscape:export-filename="/home/hbons/github/meego-icon-theme/moblin/48x48/icons/x-office-spreadsheet.png"
+         inkscape:export-filename="/home/hbons/github/handset-icon-theme/moblin/48x48/icons/x-office-spreadsheet.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"
          inkscape:connector-curvature="0" />
@@ -34701,7 +34701,7 @@
          d="m -573,2092.09 3.9884,0"
          id="path32903-7-3"
          sodipodi:nodetypes="cc"
-         inkscape:export-filename="/home/hbons/github/meego-icon-theme/moblin/48x48/icons/x-office-spreadsheet.png"
+         inkscape:export-filename="/home/hbons/github/handset-icon-theme/moblin/48x48/icons/x-office-spreadsheet.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"
          inkscape:connector-curvature="0" />
@@ -34710,7 +34710,7 @@
          style="opacity:0.98999999;fill:none;stroke:#44c5e5;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
          d="m -577,2096.09 0,9.9884"
          id="path32905-5-2"
-         inkscape:export-filename="/home/hbons/github/meego-icon-theme/moblin/48x48/icons/x-office-spreadsheet.png"
+         inkscape:export-filename="/home/hbons/github/handset-icon-theme/moblin/48x48/icons/x-office-spreadsheet.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"
          inkscape:connector-curvature="0" />
@@ -34719,7 +34719,7 @@
          d="m -573.0116,2096.09 -3.9884,0"
          id="path32907-0-7"
          sodipodi:nodetypes="cc"
-         inkscape:export-filename="/home/hbons/github/meego-icon-theme/moblin/48x48/icons/x-office-spreadsheet.png"
+         inkscape:export-filename="/home/hbons/github/handset-icon-theme/moblin/48x48/icons/x-office-spreadsheet.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"
          inkscape:connector-curvature="0" />
@@ -34728,7 +34728,7 @@
          id="path8604-8"
          d="m -580,2090.0784 0,15.9884"
          style="opacity:0.98999999;fill:none;stroke:#44c5e5;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-         inkscape:export-filename="/home/hbons/github/meego-icon-theme/moblin/48x48/icons/x-office-spreadsheet.png"
+         inkscape:export-filename="/home/hbons/github/handset-icon-theme/moblin/48x48/icons/x-office-spreadsheet.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"
          inkscape:connector-curvature="0" />
@@ -34736,7 +34736,7 @@
          id="path21644-6"
          d="m -529.01812,2089.0513 16.02868,0"
          style="fill:none;stroke:#44c5e5;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-         inkscape:export-filename="/home/hbons/github/meego-icon-theme/moblin/48x48/icons/x-office-presentation.png"
+         inkscape:export-filename="/home/hbons/github/handset-icon-theme/moblin/48x48/icons/x-office-presentation.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"
          inkscape:connector-curvature="0" />
@@ -34744,7 +34744,7 @@
          style="fill:none;stroke:#44c5e5;stroke-width:1.9999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
          d="m -529.01452,2101.09 16.01837,0"
          id="path21646-1"
-         inkscape:export-filename="/home/hbons/github/meego-icon-theme/moblin/48x48/icons/x-office-presentation.png"
+         inkscape:export-filename="/home/hbons/github/handset-icon-theme/moblin/48x48/icons/x-office-presentation.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"
          inkscape:connector-curvature="0" />
@@ -34753,7 +34753,7 @@
          d="m -529,2101.1011 0,-12.0308"
          style="fill:none;stroke:#44c5e5;stroke-width:1.99999964;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
          sodipodi:nodetypes="cc"
-         inkscape:export-filename="/home/hbons/github/meego-icon-theme/moblin/48x48/icons/x-office-presentation.png"
+         inkscape:export-filename="/home/hbons/github/handset-icon-theme/moblin/48x48/icons/x-office-presentation.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"
          inkscape:connector-curvature="0" />
@@ -34762,7 +34762,7 @@
          d="m -512.9893,2101.0997 0,-12.0201"
          id="path21650-1"
          sodipodi:nodetypes="cc"
-         inkscape:export-filename="/home/hbons/github/meego-icon-theme/moblin/48x48/icons/x-office-presentation.png"
+         inkscape:export-filename="/home/hbons/github/handset-icon-theme/moblin/48x48/icons/x-office-presentation.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"
          inkscape:connector-curvature="0" />
@@ -34771,7 +34771,7 @@
          d="m -521,2104.1523 0,-3.0623"
          style="fill:none;stroke:#44c5e5;stroke-width:1.99999952;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
          sodipodi:nodetypes="cc"
-         inkscape:export-filename="/home/hbons/github/meego-icon-theme/moblin/48x48/icons/x-office-presentation.png"
+         inkscape:export-filename="/home/hbons/github/handset-icon-theme/moblin/48x48/icons/x-office-presentation.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"
          inkscape:connector-curvature="0" />
@@ -34779,7 +34779,7 @@
          id="path21654-3"
          d="m -523.99998,2107.0901 3,-3"
          style="fill:none;stroke:#44c5e5;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-         inkscape:export-filename="/home/hbons/github/meego-icon-theme/moblin/48x48/icons/x-office-presentation.png"
+         inkscape:export-filename="/home/hbons/github/handset-icon-theme/moblin/48x48/icons/x-office-presentation.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"
          inkscape:connector-curvature="0" />
@@ -34787,7 +34787,7 @@
          style="fill:none;stroke:#44c5e5;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
          d="m -518.00002,2107.0899 -3,-3"
          id="path21657-4"
-         inkscape:export-filename="/home/hbons/github/meego-icon-theme/moblin/48x48/icons/x-office-presentation.png"
+         inkscape:export-filename="/home/hbons/github/handset-icon-theme/moblin/48x48/icons/x-office-presentation.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"
          inkscape:connector-curvature="0" />
@@ -34796,7 +34796,7 @@
          d="m -460.04053,2093.09 -7.94449,0"
          style="fill:none;stroke:#44c5e5;stroke-width:1.99999964;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
          sodipodi:nodetypes="cc"
-         inkscape:export-filename="/home/hbons/github/meego-icon-theme/moblin/48x48/icons/text-x-script.png"
+         inkscape:export-filename="/home/hbons/github/handset-icon-theme/moblin/48x48/icons/text-x-script.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"
          inkscape:connector-curvature="0" />
@@ -34805,7 +34805,7 @@
          style="fill:none;stroke:#44c5e5;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
          d="m -464,2089.1119 0,7.8652"
          id="path11071-0"
-         inkscape:export-filename="/home/hbons/github/meego-icon-theme/moblin/48x48/icons/text-x-script.png"
+         inkscape:export-filename="/home/hbons/github/handset-icon-theme/moblin/48x48/icons/text-x-script.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"
          inkscape:connector-curvature="0" />
@@ -34814,7 +34814,7 @@
          d="m -471,2098.1312 -5.35063,5.4565"
          style="fill:none;stroke:#44c5e5;stroke-width:1.99999964;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
          sodipodi:nodetypes="cc"
-         inkscape:export-filename="/home/hbons/github/meego-icon-theme/moblin/48x48/icons/text-x-script.png"
+         inkscape:export-filename="/home/hbons/github/handset-icon-theme/moblin/48x48/icons/text-x-script.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"
          inkscape:connector-curvature="0" />
@@ -34823,7 +34823,7 @@
          style="fill:none;stroke:#44c5e5;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
          d="m -471,2098.1312 5.32294,5.2954"
          id="path11087-4"
-         inkscape:export-filename="/home/hbons/github/meego-icon-theme/moblin/48x48/icons/text-x-script.png"
+         inkscape:export-filename="/home/hbons/github/handset-icon-theme/moblin/48x48/icons/text-x-script.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"
          inkscape:connector-curvature="0" />
@@ -34837,7 +34837,7 @@
          sodipodi:ry="22.98097"
          d="m -2.8284264,179.43886 c 0,12.69204 -10.2889306,22.98097 -22.9809706,22.98097 -12.692039,0 -22.98097,-10.28893 -22.98097,-22.98097 0,-12.69204 10.288931,-22.98097 22.98097,-22.98097 12.69204,0 22.9809706,10.28893 22.9809706,22.98097 z"
          transform="matrix(0.1230775,-0.1230776,0.1230775,0.1230776,-495.90831,2067.8285)"
-         inkscape:export-filename="/home/hbons/github/meego-icon-theme/moblin/48x48/icons/text-x-script.png"
+         inkscape:export-filename="/home/hbons/github/handset-icon-theme/moblin/48x48/icons/text-x-script.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <path
@@ -34853,13 +34853,13 @@
          sodipodi:start="1.4737209"
          sodipodi:end="3.2239262"
          sodipodi:open="true"
-         inkscape:export-filename="/home/hbons/github/meego-icon-theme/moblin/48x48/icons/text-x-script.png"
+         inkscape:export-filename="/home/hbons/github/handset-icon-theme/moblin/48x48/icons/text-x-script.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <rect
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/hbons/github/meego-icon-theme/moblin/48x48/icons/package-x-generic.png"
+         inkscape:export-filename="/home/hbons/github/handset-icon-theme/moblin/48x48/icons/package-x-generic.png"
          style="opacity:0;fill:#eeeeec;fill-opacity:1;stroke:none"
          id="rect9958"
          width="48"
@@ -34871,7 +34871,7 @@
          id="path9960"
          d="m -534.7019,2126.0902 18.75735,0 c 0,0 10.94455,10.8562 10.94455,10.8562 l 0,24.8457 c 0,1.2731 -1.02495,2.2981 -2.2981,2.2981 l -27.4038,0 c -1.27315,0 -2.2981,-1.025 -2.2981,-2.2981 l 0,-33.4038 c 0,-1.2731 1.02495,-2.2981 2.2981,-2.2981 z"
          style="fill:url(#linearGradient10005);fill-opacity:1;stroke:#ababab;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:100"
-         inkscape:export-filename="/home/hbons/github/meego-icon-theme/moblin/48x48/icons/package-x-generic.png"
+         inkscape:export-filename="/home/hbons/github/handset-icon-theme/moblin/48x48/icons/package-x-generic.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"
          inkscape:connector-curvature="0" />
@@ -34883,7 +34883,7 @@
          inkscape:radius="-1.973515"
          sodipodi:type="inkscape:offset"
          transform="translate(0,342)"
-         inkscape:export-filename="/home/hbons/github/meego-icon-theme/moblin/48x48/icons/package-x-generic.png"
+         inkscape:export-filename="/home/hbons/github/handset-icon-theme/moblin/48x48/icons/package-x-generic.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <rect
@@ -34893,7 +34893,7 @@
          width="48"
          id="rect9964"
          style="opacity:0;fill:#eeeeec;fill-opacity:1;stroke:none"
-         inkscape:export-filename="/home/hbons/github/meego-icon-theme/moblin/48x48/icons/font-x-generic.png"
+         inkscape:export-filename="/home/hbons/github/handset-icon-theme/moblin/48x48/icons/font-x-generic.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <path
@@ -34901,7 +34901,7 @@
          d="m -584.7019,2126.0902 18.75735,0 c 0,0 10.94455,10.8562 10.94455,10.8562 l 0,24.8457 c 0,1.2731 -1.02495,2.2981 -2.2981,2.2981 l -27.4038,0 c -1.27315,0 -2.2981,-1.025 -2.2981,-2.2981 l 0,-33.4038 c 0,-1.2731 1.02495,-2.2981 2.2981,-2.2981 z"
          id="path9966"
          sodipodi:nodetypes="ccccccccc"
-         inkscape:export-filename="/home/hbons/github/meego-icon-theme/moblin/48x48/icons/font-x-generic.png"
+         inkscape:export-filename="/home/hbons/github/handset-icon-theme/moblin/48x48/icons/font-x-generic.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"
          inkscape:connector-curvature="0" />
@@ -34913,7 +34913,7 @@
          style="fill:none;stroke:url(#linearGradient10011);stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:100"
          id="path9968"
          d="m -534.6875,1786.0625 c -0.23138,0 -0.34375,0.1135 -0.34375,0.3125 l 0,33.4062 c 0,0.199 0.14482,0.3438 0.34375,0.3438 l 27.375,0 c 0.19903,0 0.34375,-0.1446 0.34375,-0.3438 l 0,-23.8437 c 0,-0.8043 -0.28424,-1.2965 -1.03125,-2.1563 -0.74701,-0.8597 -1.92571,-1.9118 -3.09375,-3.375 -1.99074,-2.4937 -4.04493,-4.3437 -5.84375,-4.3437 l -17.75,0 z"
-         inkscape:export-filename="/home/hbons/github/meego-icon-theme/moblin/48x48/icons/font-x-generic.png"
+         inkscape:export-filename="/home/hbons/github/handset-icon-theme/moblin/48x48/icons/font-x-generic.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <rect
@@ -34924,14 +34924,14 @@
          x="508.25"
          y="2135.5901"
          transform="scale(-1,1)"
-         inkscape:export-filename="/home/hbons/github/meego-icon-theme/moblin/48x48/icons/package-x-generic.png"
+         inkscape:export-filename="/home/hbons/github/handset-icon-theme/moblin/48x48/icons/package-x-generic.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <g
          style="stroke:#44c5e5;stroke-opacity:1;display:inline"
          id="g11471-6"
          transform="translate(-505.25,1642.5068)"
-         inkscape:export-filename="/home/hbons/github/meego-icon-theme/moblin/48x48/icons/package-x-generic.png"
+         inkscape:export-filename="/home/hbons/github/handset-icon-theme/moblin/48x48/icons/package-x-generic.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90">
         <path
@@ -35023,7 +35023,7 @@
          sodipodi:ry="22.98097"
          d="m -2.8284264,179.43886 c 0,12.69204 -10.2889306,22.98097 -22.9809706,22.98097 -12.692039,0 -22.98097,-10.28893 -22.98097,-22.98097 0,-12.69204 10.288931,-22.98097 22.98097,-22.98097 12.69204,0 22.9809706,10.28893 22.9809706,22.98097 z"
          transform="matrix(0.1087857,0,0,-0.1087856,-567.85342,2167.649)"
-         inkscape:export-filename="/home/hbons/github/meego-icon-theme/moblin/48x48/icons/font-x-generic.png"
+         inkscape:export-filename="/home/hbons/github/handset-icon-theme/moblin/48x48/icons/font-x-generic.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <path
@@ -35036,7 +35036,7 @@
          id="path3624-98-1-6"
          style="fill:none;stroke:#44c5e5;stroke-width:18.38476562;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
          sodipodi:type="arc"
-         inkscape:export-filename="/home/hbons/github/meego-icon-theme/moblin/48x48/icons/font-x-generic.png"
+         inkscape:export-filename="/home/hbons/github/handset-icon-theme/moblin/48x48/icons/font-x-generic.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <path
@@ -35052,14 +35052,14 @@
          sodipodi:start="1.5707963"
          sodipodi:end="6.0905091"
          sodipodi:open="true"
-         inkscape:export-filename="/home/hbons/github/meego-icon-theme/moblin/48x48/icons/font-x-generic.png"
+         inkscape:export-filename="/home/hbons/github/handset-icon-theme/moblin/48x48/icons/font-x-generic.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <path
          id="path22005-1"
          d="m -576.16112,2150.653 0,-2.6294"
          style="fill:none;stroke:#44c5e5;stroke-width:1.99999893;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-         inkscape:export-filename="/home/hbons/github/meego-icon-theme/moblin/48x48/icons/font-x-generic.png"
+         inkscape:export-filename="/home/hbons/github/handset-icon-theme/moblin/48x48/icons/font-x-generic.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"
          inkscape:connector-curvature="0" />
@@ -35067,14 +35067,14 @@
          id="path22008-6"
          d="m -573.16112,2147.5728 0,-3.6311"
          style="fill:none;stroke:#44c5e5;stroke-width:1.99999881;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-         inkscape:export-filename="/home/hbons/github/meego-icon-theme/moblin/48x48/icons/font-x-generic.png"
+         inkscape:export-filename="/home/hbons/github/handset-icon-theme/moblin/48x48/icons/font-x-generic.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"
          inkscape:connector-curvature="0" />
       <rect
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/folder.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/folder.png"
          style="opacity:0;fill:#eeeeec;fill-opacity:1;stroke:none"
          id="rect10015"
          width="48"
@@ -35088,7 +35088,7 @@
          width="48"
          id="rect10152"
          style="opacity:0;fill:#eeeeec;fill-opacity:1;stroke:none"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/48x48/icons/package-x-generic.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/moblin/48x48/icons/package-x-generic.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <path
@@ -35806,7 +35806,7 @@
          sodipodi:type="arc" />
       <g
          id="g9961"
-         inkscape:export-filename="/home/hbons/github/meego-icon-theme/special-sizes/offline.png"
+         inkscape:export-filename="/home/hbons/github/handset-icon-theme/special-sizes/offline.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90">
         <path
@@ -35840,7 +35840,7 @@
       </g>
       <g
          id="g9967"
-         inkscape:export-filename="/home/hbons/github/meego-icon-theme/special-sizes/online.png"
+         inkscape:export-filename="/home/hbons/github/handset-icon-theme/special-sizes/online.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90">
         <path
@@ -37370,7 +37370,7 @@
          height="26"
          x="424.02972"
          y="1782.0177"
-         inkscape:export-filename="/home/hbons/Intel/git/moblin-icon-theme/jknjk.png"
+         inkscape:export-filename="/home/hbons/Intel/git/netbook-icon-theme/jknjk.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <rect
@@ -37448,7 +37448,7 @@
         <rect
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Intel/git/moblin-icon-theme/path7206.png"
+           inkscape:export-filename="/home/hbons/Intel/git/netbook-icon-theme/path7206.png"
            transform="scale(-1,1)"
            style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
            id="rect10949"
@@ -37810,7 +37810,7 @@
       <rect
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/hbons/Intel/git/moblin-icon-theme/fevc fe.png"
+         inkscape:export-filename="/home/hbons/Intel/git/netbook-icon-theme/fevc fe.png"
          y="1817.0178"
          x="548.02966"
          height="26"
@@ -37821,7 +37821,7 @@
       <rect
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/hbons/Intel/git/moblin-icon-theme/fevc fe.png"
+         inkscape:export-filename="/home/hbons/Intel/git/netbook-icon-theme/fevc fe.png"
          transform="matrix(0,1,-1,0,0,0)"
          ry="1.4999903"
          rx="1.4999903"
@@ -37834,7 +37834,7 @@
       <rect
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/hbons/Intel/git/moblin-icon-theme/fevc fe.png"
+         inkscape:export-filename="/home/hbons/Intel/git/netbook-icon-theme/fevc fe.png"
          transform="matrix(0,1,-1,0,0,0)"
          ry="1.4999903"
          rx="1.4999903"
@@ -37919,7 +37919,7 @@
       <rect
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/hbons/Intel/git/moblin-icon-theme/fefbve.png"
+         inkscape:export-filename="/home/hbons/Intel/git/netbook-icon-theme/fefbve.png"
          y="1817.0178"
          x="519.02966"
          height="26"
@@ -37930,7 +37930,7 @@
       <rect
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/hbons/Intel/git/moblin-icon-theme/fefbve.png"
+         inkscape:export-filename="/home/hbons/Intel/git/netbook-icon-theme/fefbve.png"
          transform="matrix(0,1,-1,0,0,0)"
          ry="1.4999903"
          rx="1.4999903"
@@ -37943,7 +37943,7 @@
       <rect
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/hbons/Intel/git/moblin-icon-theme/fefbve.png"
+         inkscape:export-filename="/home/hbons/Intel/git/netbook-icon-theme/fefbve.png"
          transform="matrix(0,1,-1,0,0,0)"
          ry="1.4999903"
          rx="1.4999903"
@@ -38141,7 +38141,7 @@
          height="26"
          x="453.02966"
          y="1817.0178"
-         inkscape:export-filename="/home/hbons/Intel/git/moblin-icon-theme/fevc fe.png"
+         inkscape:export-filename="/home/hbons/Intel/git/netbook-icon-theme/fevc fe.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <rect
@@ -38154,7 +38154,7 @@
          rx="1.4999903"
          ry="1.4999903"
          transform="matrix(0,1,-1,0,0,0)"
-         inkscape:export-filename="/home/hbons/Intel/git/moblin-icon-theme/fevc fe.png"
+         inkscape:export-filename="/home/hbons/Intel/git/netbook-icon-theme/fevc fe.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <rect
@@ -38167,7 +38167,7 @@
          rx="1.4999903"
          ry="1.4999903"
          transform="matrix(0,1,-1,0,0,0)"
-         inkscape:export-filename="/home/hbons/Intel/git/moblin-icon-theme/fevc fe.png"
+         inkscape:export-filename="/home/hbons/Intel/git/netbook-icon-theme/fevc fe.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <path
@@ -38245,7 +38245,7 @@
       <rect
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/hbons/Intel/git/moblin-icon-theme/fevc fe.png"
+         inkscape:export-filename="/home/hbons/Intel/git/netbook-icon-theme/fevc fe.png"
          transform="matrix(0,1,-1,0,0,0)"
          ry="1.4999903"
          rx="1.4999903"
@@ -38258,7 +38258,7 @@
       <rect
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/hbons/Intel/git/moblin-icon-theme/fevc fe.png"
+         inkscape:export-filename="/home/hbons/Intel/git/netbook-icon-theme/fevc fe.png"
          transform="matrix(0,1,-1,0,0,0)"
          ry="1.4999903"
          rx="1.4999903"
@@ -38276,7 +38276,7 @@
          height="26"
          x="424.02966"
          y="1817.0178"
-         inkscape:export-filename="/home/hbons/Intel/git/moblin-icon-theme/fefbve.png"
+         inkscape:export-filename="/home/hbons/Intel/git/netbook-icon-theme/fefbve.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <rect
@@ -38289,7 +38289,7 @@
          rx="1.4999903"
          ry="1.4999903"
          transform="matrix(0,1,-1,0,0,0)"
-         inkscape:export-filename="/home/hbons/Intel/git/moblin-icon-theme/fefbve.png"
+         inkscape:export-filename="/home/hbons/Intel/git/netbook-icon-theme/fefbve.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <rect
@@ -38302,7 +38302,7 @@
          rx="1.4999903"
          ry="1.4999903"
          transform="matrix(0,1,-1,0,0,0)"
-         inkscape:export-filename="/home/hbons/Intel/git/moblin-icon-theme/fefbve.png"
+         inkscape:export-filename="/home/hbons/Intel/git/netbook-icon-theme/fefbve.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <path
@@ -38353,7 +38353,7 @@
       <rect
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/hbons/Intel/git/moblin-icon-theme/fefbve.png"
+         inkscape:export-filename="/home/hbons/Intel/git/netbook-icon-theme/fefbve.png"
          transform="matrix(0,1,-1,0,0,0)"
          ry="1.4999903"
          rx="1.4999903"
@@ -38366,7 +38366,7 @@
       <rect
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/hbons/Intel/git/moblin-icon-theme/fefbve.png"
+         inkscape:export-filename="/home/hbons/Intel/git/netbook-icon-theme/fefbve.png"
          transform="matrix(0,1,-1,0,0,0)"
          ry="1.4999903"
          rx="1.4999903"
@@ -38384,7 +38384,7 @@
          height="26"
          x="271.02966"
          y="1817.0178"
-         inkscape:export-filename="/home/hbons/Intel/git/moblin-icon-theme/fefbve.png"
+         inkscape:export-filename="/home/hbons/Intel/git/netbook-icon-theme/fefbve.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <path
@@ -43130,7 +43130,7 @@
          style="opacity:0.06944442;fill:#000000;fill-opacity:1;stroke:none;display:inline" />
       <rect
          style="opacity:0.06944442;fill:#000000;fill-opacity:1;stroke:none;display:inline"
-         id="moblin-preferences-desktop-accessibility-7"
+         id="netbook-preferences-desktop-accessibility-7"
          width="24"
          height="24"
          x="-309"
@@ -46805,13 +46805,13 @@
            y="1492.0901"
            rx="0"
            ry="0"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/web.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/48x48/web.png"
            inkscape:export-xdpi="90"
            inkscape:export-ydpi="90" />
         <rect
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/media.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/48x48/media.png"
            ry="2.2823541"
            rx="2.2872751"
            y="1493.5901"
@@ -46823,7 +46823,7 @@
       </g>
       <rect
          style="opacity:0.06944442;fill:#000000;fill-opacity:1;stroke:none;display:inline"
-         id="moblin-preferences-desktop-accessibility-7-2"
+         id="netbook-preferences-desktop-accessibility-7-2"
          width="24"
          height="24"
          x="0.45703125"
@@ -47044,13 +47044,13 @@
          transform="translate(521.1263,921.46981)"
          style="display:inline"
          id="g9841"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/web.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/48x48/web.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90">
         <rect
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/web.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/48x48/web.png"
            ry="0"
            rx="0"
            y="1283.0901"
@@ -47068,7 +47068,7 @@
            y="1285.59"
            rx="3.4360719"
            ry="3.4360716"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/web.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/48x48/web.png"
            inkscape:export-xdpi="90"
            inkscape:export-ydpi="90" />
       </g>
@@ -47076,7 +47076,7 @@
          transform="translate(490,916.34365)"
          style="display:inline"
          id="g10333-9-3"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/media.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/48x48/media.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90">
         <rect
@@ -47088,13 +47088,13 @@
            y="1283.0901"
            rx="0"
            ry="0"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/web.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/48x48/web.png"
            inkscape:export-xdpi="90"
            inkscape:export-ydpi="90" />
         <rect
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/media.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/48x48/media.png"
            ry="3.4360716"
            rx="3.4360719"
            y="1285.59"
@@ -47107,7 +47107,7 @@
       <g
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/32x32/web.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/32x32/web.png"
          id="g9511-6"
          style="display:inline"
          transform="matrix(0.6656657,0,0,0.6642336,305.4955,1463.1623)">
@@ -47120,13 +47120,13 @@
            y="1283.0901"
            rx="0"
            ry="0"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/web.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/48x48/web.png"
            inkscape:export-xdpi="90"
            inkscape:export-ydpi="90" />
         <rect
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/web.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/48x48/web.png"
            ry="3.4360716"
            rx="3.4360719"
            y="1285.3484"
@@ -48312,7 +48312,7 @@
       <g
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/system.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/48x48/system.png"
          id="g10782"
          transform="translate(90,0)" />
       <flowRoot
@@ -48402,14 +48402,14 @@
            id="flowPara14513-7-6">Office</flowPara></flowRoot>      <g
          style="display:inline"
          id="g10329"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/web.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/48x48/web.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"
          transform="matrix(0.9005631,0,0,0.9005631,-53.707187,352.17744)">
         <rect
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/web.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/48x48/web.png"
            ry="0"
            rx="0"
            y="1283.0901"
@@ -48427,14 +48427,14 @@
            y="1285.59"
            rx="3.4360719"
            ry="3.4360716"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/web.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/48x48/web.png"
            inkscape:export-xdpi="90"
            inkscape:export-ydpi="90" />
       </g>
       <rect
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/communicate.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/48x48/communicate.png"
          ry="0"
          rx="0"
          y="1595.0901"
@@ -48452,13 +48452,13 @@
          y="1600.0901"
          rx="3.0365286"
          ry="3.0365286"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/communicate.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/48x48/communicate.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <g
          style="display:inline"
          id="g10333"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/media.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/48x48/media.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"
          transform="translate(1.3573333e-7,222)">
@@ -48471,13 +48471,13 @@
            y="1283.0901"
            rx="0"
            ry="0"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/web.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/48x48/web.png"
            inkscape:export-xdpi="90"
            inkscape:export-ydpi="90" />
         <rect
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/media.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/48x48/media.png"
            ry="3.2762544"
            rx="3.2762547"
            y="1286.59"
@@ -48490,7 +48490,7 @@
       <rect
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/preferences.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/48x48/preferences.png"
          ry="0"
          rx="0"
          y="1505.09"
@@ -48502,7 +48502,7 @@
       <rect
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/preferences.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/48x48/preferences.png"
          ry="3.125299"
          rx="3.125299"
          y="1509.5347"
@@ -48520,7 +48520,7 @@
          y="1507.5901"
          rx="3.4360716"
          ry="3.4360716"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/preferences.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/48x48/preferences.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <path
@@ -48531,7 +48531,7 @@
          inkscape:radius="-3.0052538"
          sodipodi:type="inkscape:offset"
          transform="translate(1.3573333e-7,222)"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/preferences.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/48x48/preferences.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <path
@@ -48542,13 +48542,13 @@
          id="path9046"
          d="m -348.0625,1287.0312 c -1.12757,0 -2,0.8726 -2,2 l 0,36.125 c 0,1.1276 0.87248,2 2,2 l 36.125,0 c 1.12752,0 2,-0.8724 2,-2 l 0,-36.125 c 0,-1.1274 -0.87243,-2 -2,-2 l -36.125,0 z"
          transform="translate(1.3573333e-7,222)"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/preferences.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/48x48/preferences.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <rect
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/media.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/48x48/media.png"
          ry="3.4360716"
          rx="3.4360716"
          y="1507.5901"
@@ -48565,7 +48565,7 @@
          style="fill:none;stroke:#2c7d58;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="path9063"
          d="m -348.0625,1288.5938 c -0.28916,0 -0.4375,0.1485 -0.4375,0.4374 l 0,36.125 c 0,0.2892 0.14844,0.4376 0.4375,0.4376 l 36.125,0 c 0.28906,0 0.4375,-0.1484 0.4375,-0.4376 l 0,-36.125 c 0,-0.2889 -0.14834,-0.4374 -0.4375,-0.4374 l -36.125,0 z"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/media.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/48x48/media.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <path
@@ -48576,7 +48576,7 @@
          inkscape:original="M -348.0625 1285.5938 C -349.96608 1285.5938 -351.5 1287.1277 -351.5 1289.0312 L -351.5 1325.1562 C -351.5 1327.0598 -349.96608 1328.5938 -348.0625 1328.5938 L -311.9375 1328.5938 C -310.03392 1328.5938 -308.5 1327.0598 -308.5 1325.1562 L -308.5 1289.0312 C -308.5 1287.1277 -310.03392 1285.5938 -311.9375 1285.5938 L -348.0625 1285.5938 z "
          inkscape:radius="-1.4445423"
          sodipodi:type="inkscape:offset"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/media.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/48x48/media.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <rect
@@ -48588,7 +48588,7 @@
          y="1507.5901"
          rx="3.4360812"
          ry="3.4360716"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/web.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/48x48/web.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <path
@@ -48599,7 +48599,7 @@
          inkscape:radius="-3.0052538"
          sodipodi:type="inkscape:offset"
          transform="translate(-199,221.99624)"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/web.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/48x48/web.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <path
@@ -48610,20 +48610,20 @@
          id="path9016"
          d="m -348.0625,1287.0312 c -1.12757,0 -2,0.8726 -2,2 l 0,36.125 c 0,1.1276 0.87248,2 2,2 l 36.125,0 c 1.12752,0 2,-0.8724 2,-2 l 0,-36.125 c 0,-1.1274 -0.87243,-2 -2,-2 l -36.125,0 z"
          transform="translate(-199.0625,222.05884)"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/web.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/48x48/web.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <g
          id="g10042"
          transform="translate(5.0000006e-7,222)"
          style="stroke:none;display:inline"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/office.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/48x48/office.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90">
         <rect
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/web.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/48x48/web.png"
            ry="0"
            rx="0"
            y="1283.0901"
@@ -48635,7 +48635,7 @@
         <rect
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/office.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/48x48/office.png"
            ry="3.1535521"
            rx="3.1535521"
            y="1287.3579"
@@ -48648,14 +48648,14 @@
       <g
          style="display:inline"
          id="g10347"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/system.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/48x48/system.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"
          transform="translate(1.0000001,222)">
         <rect
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/web.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/48x48/web.png"
            ry="0"
            rx="0"
            y="1373.0901"
@@ -48667,7 +48667,7 @@
         <rect
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/media.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/48x48/media.png"
            ry="3.1164372"
            rx="3.1164372"
            y="1377.5901"
@@ -48680,14 +48680,14 @@
       <g
          style="display:inline"
          id="g10351"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/games.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/48x48/games.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"
          transform="translate(1.3573333e-7,222)">
         <rect
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/web.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/48x48/web.png"
            ry="0"
            rx="0"
            y="1373.0901"
@@ -48705,7 +48705,7 @@
            y="1377.5901"
            rx="3.116437"
            ry="3.116437"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/media.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/48x48/media.png"
            inkscape:export-xdpi="90"
            inkscape:export-ydpi="90" />
       </g>
@@ -48713,13 +48713,13 @@
          style="display:inline"
          id="g10026"
          transform="translate(18,242)"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/32x32/web.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/32x32/web.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90">
         <rect
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/web.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/48x48/web.png"
            ry="0"
            rx="0"
            y="1492.0901"
@@ -48732,7 +48732,7 @@
       <rect
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/office.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/48x48/office.png"
          ry="3.4360716"
          rx="3.4360716"
          y="1507.5863"
@@ -48749,7 +48749,7 @@
          style="fill:none;stroke:#bb056a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="path9048"
          d="m -348.0625,1288.5938 c -0.28916,0 -0.4375,0.1485 -0.4375,0.4374 l 0,36.125 c 0,0.2892 0.14844,0.4376 0.4375,0.4376 l 36.125,0 c 0.28906,0 0.4375,-0.1484 0.4375,-0.4376 l 0,-36.125 c 0,-0.2889 -0.14834,-0.4374 -0.4375,-0.4374 l -36.125,0 z"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/office.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/48x48/office.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <path
@@ -48760,7 +48760,7 @@
          inkscape:original="M -348.0625 1285.5938 C -349.96608 1285.5938 -351.5 1287.1277 -351.5 1289.0312 L -351.5 1325.1562 C -351.5 1327.0598 -349.96608 1328.5938 -348.0625 1328.5938 L -311.9375 1328.5938 C -310.03392 1328.5938 -308.5 1327.0598 -308.5 1325.1562 L -308.5 1289.0312 C -308.5 1287.1277 -310.03392 1285.5938 -311.9375 1285.5938 L -348.0625 1285.5938 z "
          inkscape:radius="-1.4445423"
          sodipodi:type="inkscape:offset"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/office.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/48x48/office.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <rect
@@ -48772,7 +48772,7 @@
          y="1597.5901"
          rx="3.4360716"
          ry="3.4360716"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/games.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/48x48/games.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <path
@@ -48783,7 +48783,7 @@
          inkscape:radius="-3.0052538"
          sodipodi:type="inkscape:offset"
          transform="translate(-99,312)"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/games.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/48x48/games.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <path
@@ -48794,13 +48794,13 @@
          id="path9058"
          d="m -348.0625,1287.0312 c -1.12757,0 -2,0.8726 -2,2 l 0,36.125 c 0,1.1276 0.87248,2 2,2 l 36.125,0 c 1.12752,0 2,-0.8724 2,-2 l 0,-36.125 c 0,-1.1274 -0.87243,-2 -2,-2 l -36.125,0 z"
          transform="translate(-99,312)"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/games.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/48x48/games.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <rect
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/communicate.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/48x48/communicate.png"
          ry="3.4360716"
          rx="3.4360716"
          y="1597.5901"
@@ -48817,7 +48817,7 @@
          style="fill:none;stroke:#d99900;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="path9064"
          d="m -348.0625,1288.5938 c -0.28916,0 -0.4375,0.1485 -0.4375,0.4374 l 0,36.125 c 0,0.2892 0.14844,0.4376 0.4375,0.4376 l 36.125,0 c 0.28906,0 0.4375,-0.1484 0.4375,-0.4376 l 0,-36.125 c 0,-0.2889 -0.14834,-0.4374 -0.4375,-0.4374 l -36.125,0 z"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/communicate.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/48x48/communicate.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <path
@@ -48828,7 +48828,7 @@
          inkscape:original="M -348.0625 1285.5938 C -349.96608 1285.5938 -351.5 1287.1277 -351.5 1289.0312 L -351.5 1325.1562 C -351.5 1327.0598 -349.96608 1328.5938 -348.0625 1328.5938 L -311.9375 1328.5938 C -310.03392 1328.5938 -308.5 1327.0598 -308.5 1325.1562 L -308.5 1289.0312 C -308.5 1287.1277 -310.03392 1285.5938 -311.9375 1285.5938 L -348.0625 1285.5938 z "
          inkscape:radius="-1.4445423"
          sodipodi:type="inkscape:offset"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/communicate.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/48x48/communicate.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <rect
@@ -48840,7 +48840,7 @@
          y="1597.5901"
          rx="3.4360716"
          ry="3.4360716"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/system.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/48x48/system.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <path
@@ -48851,7 +48851,7 @@
          inkscape:radius="-3.0052538"
          sodipodi:type="inkscape:offset"
          transform="translate(1.0000001,312)"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/system.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/48x48/system.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <path
@@ -48862,7 +48862,7 @@
          id="path9074"
          d="m -348.0625,1287.0312 c -1.12757,0 -2,0.8726 -2,2 l 0,36.125 c 0,1.1276 0.87248,2 2,2 l 36.125,0 c 1.12752,0 2,-0.8724 2,-2 l 0,-36.125 c 0,-1.1274 -0.87243,-2 -2,-2 l -36.125,0 z"
          transform="translate(1.0000001,312)"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/system.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/48x48/system.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <rect
@@ -48874,13 +48874,13 @@
          y="1735.0901"
          rx="0"
          ry="0"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/32x32/web.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/32x32/web.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <rect
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/32x32/web.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/32x32/web.png"
          ry="0.13458759"
          rx="0.13458759"
          y="1736.4651"
@@ -48898,13 +48898,13 @@
          y="1734.6171"
          rx="1.6726178"
          ry="1.6772968"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/32x32/web.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/32x32/web.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <rect
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/32x32/web.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/32x32/web.png"
          ry="0.6807282"
          rx="0.6807282"
          y="1735.6143"
@@ -48917,7 +48917,7 @@
          style="display:inline"
          transform="translate(83,242)"
          id="g9355"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/32x32/media.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/32x32/media.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90">
         <rect
@@ -48929,14 +48929,14 @@
            y="1492.0901"
            rx="0"
            ry="0"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/web.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/48x48/web.png"
            inkscape:export-xdpi="90"
            inkscape:export-ydpi="90" />
       </g>
       <rect
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/32x32/media.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/32x32/media.png"
          ry="0"
          rx="0"
          y="1735.0901"
@@ -48954,13 +48954,13 @@
          y="1736.4651"
          rx="0.13458759"
          ry="0.13458759"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/32x32/media.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/32x32/media.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <rect
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/32x32/media.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/32x32/media.png"
          ry="1.6772968"
          rx="1.6726178"
          y="1734.6171"
@@ -48978,20 +48978,20 @@
          y="1735.615"
          rx="0.68069535"
          ry="0.68266618"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/32x32/media.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/32x32/media.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <g
          style="display:inline"
          id="g9371"
          transform="translate(149,242)"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/32x32/preferences.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/32x32/preferences.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90">
         <rect
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/web.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/48x48/web.png"
            ry="0"
            rx="0"
            y="1492.0901"
@@ -49010,13 +49010,13 @@
          y="1735.0901"
          rx="0"
          ry="0"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/32x32/preferences.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/32x32/preferences.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <rect
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/32x32/preferences.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/32x32/preferences.png"
          ry="0.13458759"
          rx="0.13458759"
          y="1736.4651"
@@ -49034,13 +49034,13 @@
          y="1734.6171"
          rx="1.6726178"
          ry="1.6772968"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/32x32/preferences.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/32x32/preferences.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <rect
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/32x32/preferences.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/32x32/preferences.png"
          ry="0.68265754"
          rx="0.68125653"
          y="1735.6151"
@@ -49053,7 +49053,7 @@
          style="display:inline"
          transform="translate(208,242)"
          id="g9387"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/32x32/office.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/32x32/office.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90">
         <rect
@@ -49065,14 +49065,14 @@
            y="1492.0901"
            rx="0"
            ry="0"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/web.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/48x48/web.png"
            inkscape:export-xdpi="90"
            inkscape:export-ydpi="90" />
       </g>
       <rect
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/32x32/office.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/32x32/office.png"
          ry="0"
          rx="0"
          y="1735.0901"
@@ -49090,13 +49090,13 @@
          y="1736.4651"
          rx="0.13458759"
          ry="0.13458759"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/32x32/office.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/32x32/office.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <rect
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/32x32/office.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/32x32/office.png"
          ry="1.6772968"
          rx="1.6726178"
          y="1734.6171"
@@ -49114,14 +49114,14 @@
          y="1735.6143"
          rx="0.6807282"
          ry="0.6807282"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/32x32/office.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/32x32/office.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <g
          style="display:inline"
          transform="translate(18,302)"
          id="g9403"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/32x32/communicate.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/32x32/communicate.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90">
         <rect
@@ -49133,14 +49133,14 @@
            y="1492.0901"
            rx="0"
            ry="0"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/web.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/48x48/web.png"
            inkscape:export-xdpi="90"
            inkscape:export-ydpi="90" />
       </g>
       <rect
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/32x32/communicate.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/32x32/communicate.png"
          ry="0"
          rx="0"
          y="1795.0901"
@@ -49158,13 +49158,13 @@
          y="1796.4651"
          rx="0.13458759"
          ry="0.13458759"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/32x32/communicate.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/32x32/communicate.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <rect
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/32x32/communicate.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/32x32/communicate.png"
          ry="1.6772968"
          rx="1.6726178"
          y="1794.6171"
@@ -49182,20 +49182,20 @@
          y="1795.6143"
          rx="0.6807282"
          ry="0.6807282"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/32x32/communicate.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/32x32/communicate.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <g
          style="display:inline"
          id="g9419"
          transform="translate(84,302)"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/32x32/games.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/32x32/games.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90">
         <rect
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/web.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/48x48/web.png"
            ry="0"
            rx="0"
            y="1492.0901"
@@ -49214,13 +49214,13 @@
          y="1795.0901"
          rx="0"
          ry="0"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/32x32/games.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/32x32/games.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <rect
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/32x32/games.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/32x32/games.png"
          ry="0.13458759"
          rx="0.13458759"
          y="1796.4651"
@@ -49238,13 +49238,13 @@
          y="1794.6171"
          rx="1.6726178"
          ry="1.6772968"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/32x32/games.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/32x32/games.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <rect
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/32x32/games.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/32x32/games.png"
          ry="0.6807282"
          rx="0.6807282"
          y="1795.6143"
@@ -49257,7 +49257,7 @@
          style="display:inline"
          transform="translate(148,302)"
          id="g9435"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/32x32/system.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/32x32/system.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90">
         <rect
@@ -49269,14 +49269,14 @@
            y="1492.0901"
            rx="0"
            ry="0"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/web.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/48x48/web.png"
            inkscape:export-xdpi="90"
            inkscape:export-ydpi="90" />
       </g>
       <rect
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/32x32/system.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/32x32/system.png"
          ry="0"
          rx="0"
          y="1795.0901"
@@ -49294,13 +49294,13 @@
          y="1796.4651"
          rx="0.13458759"
          ry="0.13458759"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/32x32/system.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/32x32/system.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <rect
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/32x32/system.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/32x32/system.png"
          ry="1.6787169"
          rx="1.6738862"
          y="1794.5905"
@@ -49318,7 +49318,7 @@
          y="1795.5912"
          rx="0.68124706"
          ry="0.68321848"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/32x32/system.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/32x32/system.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <rect
@@ -49559,13 +49559,13 @@
          transform="translate(-50,222)"
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/web.png"
+         inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/48x48/web.png"
          id="g10071"
          style="display:inline">
         <rect
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/tiles/48x48/web.png"
+           inkscape:export-filename="/home/hbons/Moblin/git/netbook-icon-theme/tiles/48x48/web.png"
            ry="0"
            rx="0"
            y="1283.0901"
