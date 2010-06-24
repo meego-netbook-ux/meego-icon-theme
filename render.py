@@ -238,7 +238,7 @@ class IconTheme:
 
             # strip the netbook- prefix
             if id.startswith('netbook-'):
-                icon_name = id[7:]
+                icon_name = id[8:]
 
             # strip the 16- prefix
             if width == '16' and id.startswith('16-'):
@@ -301,7 +301,7 @@ class IconTheme:
             # if generating 32x32 icons, strip the 'netbook-' prefix (the 32x32
             # icons are used the the zone panel only)
             if tile_size == 32:
-                fg_name = fg_id[7:]
+                fg_name = fg_id[8:]
             else:
                 fg_name = fg_id
 
