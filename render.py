@@ -255,8 +255,8 @@ class IconTheme:
                 inkscape.export(id, file_48, 48, 48)
 
     def generate_app_icons(self, tile_size, fg_size):
-        # that a way to say: "Don't try with any other size"
-        if tile_size != 32 and tile_size != 48 and tile_size != 100:
+        # that's a way to say: "Don't try with any other size"
+        if tile_size not in (32, 48, 100, 256):
             return
 
         # create the output directory if necessary
@@ -279,6 +279,8 @@ class IconTheme:
             app_svg.change_stroke_width(1.8)
         elif tile_size == 100:
             app_svg.change_stroke_width(2.0)
+        elif tile_size == 256:
+            app_svg.change_stroke_width(2.1)
         app_svg.write()
 
         inkscape = Inkscape(app_svg_filename)
@@ -359,10 +361,11 @@ def main(argv):
     note("Using %s" % xml_file)
     icon_theme = IconTheme(xml_file)
     icon_theme.set_output_directory(opt_output)
-    icon_theme.generate_icons()
-    icon_theme.generate_app_icons(32, 24)
-    icon_theme.generate_app_icons(48, 30)
-    icon_theme.generate_app_icons(100, 60)
+    #icon_theme.generate_icons()
+    #icon_theme.generate_app_icons(32, 24)
+    #icon_theme.generate_app_icons(48, 30)
+    #icon_theme.generate_app_icons(100, 60)
+    icon_theme.generate_app_icons(256, 150)
 
 if __name__ == '__main__':
     main(sys.argv[1:])
