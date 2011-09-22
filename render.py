@@ -361,10 +361,10 @@ def main(argv):
     note("Using %s" % xml_file)
     icon_theme = IconTheme(xml_file)
     icon_theme.set_output_directory(opt_output)
-    #icon_theme.generate_icons()
-    #icon_theme.generate_app_icons(32, 24)
-    #icon_theme.generate_app_icons(48, 30)
-    #icon_theme.generate_app_icons(100, 60)
+    icon_theme.generate_icons()
+    icon_theme.generate_app_icons(32, 24)
+    icon_theme.generate_app_icons(48, 30)
+    icon_theme.generate_app_icons(100, 60)
     icon_theme.generate_app_icons(256, 150)
 
 if __name__ == '__main__':
