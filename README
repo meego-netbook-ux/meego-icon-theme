@@ -1,0 +1,6 @@
+MeeGo Icon Theme
+================
+
+The icon theme follows the FreeDesktop.org icon spec. The icon theme is made in SVG for scalability and rendered to bitmaps for performance.
+
+In order to create a new icon you need to add it to the icon-theme.svg and once there, it will be rendered out of that by the script in render.py in the sizes that we need. However you're going to want to control the icon name and the tile  it is rendered onto. Your means of doing this is the rectangles layer. There is a rectangle each icon which we wish to cut out. The rectangle describes the extent and dimensions of the cut and it should be of a consistent size, so if you wish the final icon to be centered then centre it in the rectangle. In order to control the name of the icon we use object properties. So hit the menu Object -> Object properties on the icon. The ID is the final icon name; the label is the tile type you wish it to be rendered onto.
