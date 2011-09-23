@@ -1,6 +1,6 @@
 AC_PREREQ(2.53)
 
-AC_INIT([netbook-icon-theme], [2.2.15])
+AC_INIT([netbook-icon-theme], [2.2.16])
 AC_CONFIG_SRCDIR([24x24])
 
 AM_INIT_AUTOMAKE([1.9 tar-ustar foreign])
