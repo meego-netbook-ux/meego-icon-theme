@@ -1,3 +1,12 @@
 output
 *~
 .*.sw?
+Thumbs.db
+Desktop.ini
+/.svn/*
+*/.svn/*
+.DS_Store?
+Icon?
+._*
+.Spotlight-V100
+.Trashes
