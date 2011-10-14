@@ -33,8 +33,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="4"
-     inkscape:cx="587.48951"
-     inkscape:cy="1695.3131"
+     inkscape:cx="123.60315"
+     inkscape:cy="1270.6919"
      inkscape:document-units="px"
      inkscape:current-layer="Rectangles"
      showgrid="true"
@@ -2295,7 +2295,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2623,7 +2623,7 @@
   <g
      inkscape:groupmode="layer"
      id="Rectangles"
-     style="opacity:0.06944442;display:inline"
+     style="opacity:0.06944442;display:none"
      transform="translate(595,-303.72041)">
     <rect
        inkscape:label="#rect8223-2-5"
@@ -3114,11 +3114,12 @@
        inkscape:label="#rect11062" />
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none"
-       id="rect11064"
+       id="dialog-password"
        width="24"
        height="24"
        x="-495"
-       y="706.09003" />
+       y="706.09003"
+       inkscape:label="#rect11064" />
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none"
        id="rect11068"
