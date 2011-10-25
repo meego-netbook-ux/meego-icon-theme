@@ -32,9 +32,9 @@
      objecttolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="123.60315"
-     inkscape:cy="1270.6919"
+     inkscape:zoom="2"
+     inkscape:cx="622.60315"
+     inkscape:cy="770.6919"
      inkscape:document-units="px"
      inkscape:current-layer="Rectangles"
      showgrid="true"
@@ -6571,7 +6571,7 @@
        x="209"
        height="24"
        width="24"
-       id="rect8784"
+       id="preferences-system-network"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline" />
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
@@ -7894,7 +7894,7 @@
        id="preferences-autocompletion"
        style="fill:#000000;fill-opacity:1;stroke:none" />
     <rect
-       inkscape:label=""
+       inkscape:label="preferences"
        y="1154.0901"
        x="145"
        height="24"
